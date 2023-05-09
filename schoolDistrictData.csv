@@ -1,0 +1,1509 @@
+﻿dbn,district,school_dist,school_name,building_id,swd,ell,poverty,location_category_description,grades_text,longitude,latitude,borough_code,counts,opend_year
+01M015,1,1,P.S. 015 Roberto Clemente,M015,0.232,0.089,0.816,Elementary,"PK,0K,01,02,03,04,05,SE",-73.978747,40.722075,M,2,1904
+01M063,1,1,The STAR Academy - P.S.63,M063,0.301,0.022,0.773,Elementary,"PK,0K,01,02,03,04,05,SE",-73.986214,40.72444,M,2,1905
+01M064,1,1,P.S. 064 Robert Simon,M064,0.267,0.017,0.907,Elementary,"PK,0K,01,02,03,04,05,SE",-73.981597,40.72313,M,3,1954
+01M142,1,1,P.S. 142 Amalia Castro,M142,0.331,0.067,0.964,Elementary,"PK,0K,01,02,03,04,05,SE",-73.984116,40.718121,M,2,1976
+01M188,1,1,P.S. 188 The Island School,M188,0.339,0.098,0.955,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.97738,40.719888,M,1,1904
+01M292,1,1,Orchard Collegiate Academy,M056,0.288,0.093,0.832,High school,"09,10,11,12,SE",-73.986051,40.713362,M,3,2004
+01M315,1,1,The East Village Community School,M061,0.173,0.009,0.282,Elementary,"PK,0K,01,02,03,04,05,SE",-73.978254,40.727537,M,2,1999
+01M332,1,1,University Neighborhood Middle School,M056,0.413,0.05,0.83,Junior High-Intermediate-Middle,"06,07,08,SE",-73.986051,40.713362,M,3,2004
+01M361,1,1,The Children's Workshop School,M061,0.247,0.039,0.47,Elementary,"PK,0K,01,02,03,04,05,06,SE",-73.978254,40.727537,M,2,1999
+01M363,1,1,Neighborhood School,M063,0.219,0.013,0.408,Elementary,"PK,0K,01,02,03,04,05,SE",-73.986214,40.72444,M,2,1999
+01M364,1,1,Earth School,M064,0.279,0.035,0.57,Elementary,"PK,0K,01,02,03,04,05,SE",-73.981597,40.72313,M,3,1999
+01M378,1,1,School for Global Leaders,M025,0.407,0.083,0.843,Junior High-Intermediate-Middle,"06,07,08,SE",-73.986038,40.72004,M,3,2008
+01M450,1,1,East Side Community School,M060,0.266,0.015,0.654,Secondary School,"06,07,08,09,10,11,12,SE",-73.982472,40.729152,M,2,1996
+01M458,1,1,Forsyth Satellite Academy,M510,0.359,0.072,0.873,High school,"09,10,11,12,SE",-73.990468,40.722415,M,2,2010
+01M509,1,1,Marta Valle High School,M025,0.258,0.093,0.887,High school,"09,10,11,12,SE",-73.986038,40.72004,M,3,1996
+01M515,1,1,Lower East Side Preparatory High School,M025,0.102,0.704,0.748,High school,"09,10,11,12",-73.986038,40.72004,M,3,1996
+01M650,1,1,Cascades High School,M510,0.345,0.042,0.893,High school,"09,10,11,12",-73.990468,40.722415,M,2,1998
+01M839,1,1,Tompkins Square Middle School,M064,0.274,0.017,0.642,Junior High-Intermediate-Middle,"06,07,08,SE",-73.981597,40.72313,M,3,2001
+02M033,2,2,P.S. 033 Chelsea Prep,M033,0.15,0.074,0.469,Elementary,"PK,0K,01,02,03,04,05,06,SE",-74.000238,40.749014,M,1,1951
+02M040,2,2,P.S. 040 Augustus Saint-Gaudens,M040,0.141,0.026,0.093,Elementary,"PK,0K,01,02,03,04,05,SE",-73.981536,40.735328,M,2,1899
+02M047,2,2,47 The American Sign Language and English Secondary School,M047,0.254,0.047,0.819,High school,"09,10,11,12,SE",-73.981329,40.738374,M,3,1908
+02M051,2,2,P.S. 051 Elias Howe,M338,0.195,0.074,0.557,Elementary,"PK,0K,01,02,03,04,05,SE",-73.995825,40.761487,M,1,1905
+02M059,2,2,P.S. 059 Beekman Hill International,M488,0.138,0.063,0.083,Elementary,"PK,0K,01,02,03,04,05,SE",-73.967204,40.759248,M,2,1960
+02M077,2,2,P.S. 77 Lower Lab School,M198,0.066,0.006,0.108,Elementary,"0K,01,02,03,04,05",-73.95042,40.785018,M,2,1999
+02M089,2,2,P.S. 89,M089,0.145,0.075,0.059,Elementary,"PK,0K,01,02,03,04,05,06,SE",-74.013967,40.71701,M,2,1998
+02M111,2,2,P.S. 111 Adolph S. Ochs,M111,0.244,0.107,0.543,Elementary,"PK,0K,01,02,03,04,05,SE",-73.989776,40.76588,M,2,1958
+02M114,2,2,East Side Middle School,M114,0.166,0.002,0.133,Junior High-Intermediate-Middle,"06,07,08,SE",-73.947379,40.780452,M,1,1999
+02M131,2,2,M.S. 131,M131,0.237,0.23,0.885,Junior High-Intermediate-Middle,"06,07,08,SE",-73.993607,40.716231,M,3,1983
+02M135,2,2,The Urban Assembly School for Emergency Management,M520,0.215,0.043,0.797,High school,"09,10,11,12,SE",-74.000851,40.711441,M,4,2013
+02M139,2,2,Stephen T. Mather Building Arts & Craftsmanship High School,M625,0.257,0.058,0.81,High school,"09,10,11,12,SE",-73.990318,40.763655,M,4,2013
+02M158,2,2,P.S. 158 Bayard Taylor,M158,0.149,0.044,0.098,Elementary,"PK,0K,01,02,03,04,05,06,SE",-73.950745,40.770215,M,2,1898
+02M177,2,2,Yorkville East Middle School,M158,0.273,0.018,0.242,Junior High-Intermediate-Middle,"06,07,08,SE",-73.950745,40.770215,M,2,2014
+02M198,2,2,P.S. 198 Isador E. Ida Straus,M198,0.204,0.059,0.346,Elementary,"PK,0K,01,02,03,04,05,SE",-73.95042,40.785018,M,2,1960
+02M212,2,2,P.S. 212 Midtown West,M017,0.114,0.032,0.205,Elementary,"PK,0K,01,02,03,04,05",-73.988665,40.761327,M,2,1999
+02M225,2,2,Ella Baker School,M480,0.199,0.012,0.31,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.959777,40.765638,M,5,1999
+02M255,2,2,M.S. 255 Salk School of Science,M040,0.151,0.003,0.117,Junior High-Intermediate-Middle,"06,07,08,SE",-73.981536,40.735328,M,2,2000
+02M276,2,2,Battery Park City School,M276,0.162,0.035,0.157,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.017456,40.706384,M,1,2009
+02M280,2,2,Manhattan Early College School for Advertising,M520,0.169,0.047,0.742,High school,"09,10,11,12,SE",-74.000851,40.711441,M,4,2014
+02M281,2,2,The River School,M281,0.152,0.145,0.227,Elementary,"PK,0K,01,02,03,04,05,SE",-73.972592,40.744288,M,2,2013
+02M282,2,2,Urban Assembly Maker Academy,M520,0.211,0.051,0.745,High school,"09,10,11,12,SE",-74.000851,40.711441,M,4,2014
+02M288,2,2,Food and Finance High School,M535,0.216,0.037,0.852,High school,"09,10,11,12,SE",-73.9927,40.765474,M,5,2004
+02M289,2,2,I.S. 289,M089,0.214,0.033,0.478,Junior High-Intermediate-Middle,"06,07,08,SE",-74.013967,40.71701,M,2,1998
+02M294,2,2,Essex Street Academy,M445,0.254,0.033,0.66,High school,"09,10,11,12,SE",-73.989329,40.717329,M,5,2004
+02M296,2,2,High School of Hospitality Management,M535,0.258,0.089,0.896,High school,"09,10,11,12,SE",-73.9927,40.765474,M,5,2004
+02M297,2,2,M.S. 297,M323,0.219,0.03,0.31,Junior High-Intermediate-Middle,"06,07,08,SE",-74.007192,40.731006,M,2,2017
+02M298,2,2,Pace High School,M131,0.197,0.031,0.791,High school,"09,10,11,12,SE",-73.993607,40.716231,M,3,2004
+02M300,2,2,"Urban Assembly School of Design and Construction, The",M535,0.289,0.076,0.81,High school,"09,10,11,12,SE",-73.9927,40.765474,M,5,2004
+02M303,2,2,"Facing History School, The",M535,0.251,0.1,0.823,High school,"09,10,11,12,SE",-73.9927,40.765474,M,5,2005
+02M305,2,2,"Urban Assembly Academy of Government and Law, The",M445,0.217,0.034,0.866,High school,"09,10,11,12",-73.989329,40.717329,M,5,2005
+02M308,2,2,Lower Manhattan Arts Academy,M445,0.347,0.057,0.787,High school,"09,10,11,12,SE",-73.989329,40.717329,M,5,2005
+02M312,2,2,New York City Lab Middle School for Collaborative Studies,M070,0.128,0.008,0.34,Junior High-Intermediate-Middle,"06,07,08,SE",-74.002222,40.742512,M,3,1999
+02M313,2,2,"James Baldwin School, The: A School for Expeditionary Learning",M440,0.355,0.073,0.791,High school,"09,10,11,12,SE",-74.00254,40.743407,M,6,2005
+02M316,2,2,"Urban Assembly School of Business for Young Women, the",M282,0.14,0.09,0.865,High school,"09,10,11,12,SE",-74.013303,40.705688,M,3,2005
+02M340,2,2,Sixth Avenue Elementary School,M340,0.15,0,0.112,Elementary,"PK,0K,01,02,03,04,05,SE",-73.995534,40.739145,M,1,2014
+02M343,2,2,The Peck Slip School,M343,0.183,0.017,0.151,Elementary,"PK,0K,01,02,03,04,05,SE",-74.002407,40.708774,M,1,2012
+02M347,2,2,The 47 American Sign Language & English Lower School,M047,0.519,0.155,0.641,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.981329,40.738374,M,3,2005
+02M374,2,2,Gramercy Arts High School,M460,0.183,0.018,0.826,High school,"09,10,11,12,SE",-73.987064,40.735361,M,6,2008
+02M376,2,2,NYC iSchool,M615,0.198,0.011,0.398,High school,"09,10,11,12,SE",-74.005058,40.72463,M,2,2008
+02M391,2,2,District 2 Pre-K Center,M281,0.14,0,0.133,,,,,M,2,
+02M391,2,2,District 2 Pre-K Center, M340,0.14,0,0.133,,,,,M,2,
+02M391,2,2,District 2 Pre-K Center, M343,0.14,0,0.133,,,,,M,1,
+02M391,2,2,District 2 Pre-K Center, M391,0.14,0,0.133,,,,,M,1,
+02M391,2,2,District 2 Pre-K Center, M453,0.14,0,0.133,,,,,M,1,
+02M391,2,2,District 2 Pre-K Center, M474,0.14,0,0.133,,,,,M,1,
+02M391,2,2,District 2 Pre-K Center, M491,0.14,0,0.133,,,,,M,1,
+02M391,2,2,District 2 Pre-K Center, M860,0.14,0,0.133,,,,,M,1,
+02M391,2,2,District 2 Pre-K Center, M444,0.14,0,0.133,,,,,M,1,
+02M391,2,2,District 2 Pre-K Center, M471,0.14,0,0.133,,,,,M,1,
+02M392,2,2,Manhattan Business Academy,M440,0.202,0.062,0.872,High school,"09,10,11,12,SE",-74.00254,40.743407,M,6,2009
+02M393,2,2,Business Of Sports School,M625,0.257,0.068,0.75,High school,"09,10,11,12,SE",-73.990318,40.763655,M,4,2009
+02M394,2,2,Emma Lazarus High School,M131,0,0.85,0.925,High school,"09,10,11,12",-73.993607,40.716231,M,3,2009
+02M397,2,2,Spruce Street School,M971,0.217,0.027,0.18,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.005473,40.711321,M,1,2009
+02M399,2,2,The High School For Language And Diplomacy,M460,0.186,0.106,0.814,High school,"09,10,11,12,SE",-73.987064,40.735361,M,6,2009
+02M400,2,2,High School for Environmental Studies,M834,0.181,0.071,0.791,High school,"09,10,11,12,SE",-73.98861,40.767848,M,2,1996
+02M407,2,2,Institute for Collaborative Education,M475,0.194,0,0.321,Secondary School,"06,07,08,09,10,11,12",-73.98259,40.732665,M,2,1996
+02M408,2,2,Professional Performing Arts High School,M017,0.161,0.003,0.302,Secondary School,"06,07,08,09,10,11,12,SE",-73.988665,40.761327,M,2,1996
+02M412,2,2,N.Y.C. Lab School for Collaborative Studies,M070,0.191,0.004,0.249,High school,"09,10,11,12,SE",-74.002222,40.742512,M,3,1999
+02M414,2,2,N.Y.C. Museum School,M070,0.229,0.002,0.513,High school,"09,10,11,12,SE",-74.002222,40.742512,M,3,1999
+02M419,2,2,Landmark High School,M440,0.212,0.06,0.857,High school,"09,10,11,12,SE",-74.00254,40.743407,M,6,1996
+02M420,2,2,High School for Health Professions and Human Services,M475,0.136,0.043,0.768,High school,"09,10,11,12,SE",-73.98259,40.732665,M,2,1996
+02M422,2,2,Quest to Learn,M440,0.281,0.033,0.707,Secondary School,"06,07,08,09,10,11,12,SE",-74.00254,40.743407,M,6,2009
+02M427,2,2,Manhattan Academy For Arts & Language,M620,0.1,0.652,0.995,High school,"09,10,11,12,SE",-73.98107,40.74651,M,3,2010
+02M432,2,2,Murray Hill Academy,M620,0.262,0.019,0.871,High school,"09,10,11,12,SE",-73.98107,40.74651,M,3,2010
+02M437,2,2,Hudson High School of Learning Technologies,M440,0.271,0.09,0.819,High school,"09,10,11,12,SE",-74.00254,40.743407,M,6,2010
+02M438,2,2,International High School at Union Square,M460,0.04,0.778,0.866,High school,"09,10,11,12",-73.987064,40.735361,M,6,2010
+02M449,2,2,Vanguard High School,M480,0.245,0.024,0.755,High school,"09,10,11,12,SE",-73.959777,40.765638,M,5,1999
+02M459,2,2,Manhattan International High School,M480,0.02,0.714,0.694,High school,"09,10,11,12",-73.959777,40.765638,M,5,1996
+02M475,2,2,Stuyvesant High School,M477,0.005,0,0.449,High school,"09,10,11,12",-74.013921,40.718025,M,1,1996
+02M500,2,2,Unity Center for Urban Technologies,M620,0.202,0.06,0.914,High school,"09,10,11,12,SE",-73.98107,40.74651,M,3,1996
+02M507,2,2,Urban Assembly Gateway School for Technology,M625,0.23,0.038,0.603,High school,"09,10,11,12,SE",-73.990318,40.763655,M,4,2011
+02M519,2,2,Talent Unlimited High School,M480,0.148,0.008,0.57,High school,"09,10,11,12,SE",-73.959777,40.765638,M,5,1996
+02M520,2,2,Murry Bergtraum High School for Business Careers,M520,0.096,0.026,0.825,High school,"09,10,11,12,SE",-74.000851,40.711441,M,4,1975
+02M533,2,2,Union Square Academy for Health Sciences,M460,0.173,0.062,0.871,High school,"09,10,11,12,SE",-73.987064,40.735361,M,6,2012
+02M542,2,2,Manhattan Bridges High School,M535,0.054,0.363,0.852,High school,"09,10,11,12,SE",-73.9927,40.765474,M,5,2003
+02M543,2,2,New Design High School,M445,0.286,0.04,0.778,High school,"09,10,11,12,SE",-73.989329,40.717329,M,5,2003
+02M544,2,2,Independence High School,M834,0.284,0.091,0.874,High school,"09,10,11,12",-73.98861,40.767848,M,2,2003
+02M545,2,2,High School for Dual Language and Asian Studies,M445,0.03,0.146,0.856,High school,"09,10,11,12,SE",-73.989329,40.717329,M,5,2003
+02M546,2,2,Academy for Software Engineering,M460,0.256,0.049,0.687,High school,"09,10,11,12,SE",-73.987064,40.735361,M,6,2012
+02M560,2,2,High School M560 - City As School,M641,0.277,0.043,0.682,High school,"10,11,12",-74.006155,40.729052,M,1,1999
+02M565,2,2,Urban Academy Laboratory High School,M480,0.204,0.007,0.62,High school,"09,10,11,12",-73.959777,40.765638,M,5,1999
+02M580,2,2,Richard R. Green High School of Teaching,M282,0.205,0.043,0.795,High school,"09,10,11,12,SE",-74.013303,40.705688,M,3,1996
+02M586,2,2,Harvey Milk High School,M807,0.361,0.033,0.77,High school,"09,10,11,12,SE",-73.992343,40.729661,M,1,2003
+02M605,2,2,Humanities Preparatory Academy,M440,0.188,0.042,0.812,High school,"09,10,11,12,SE",-74.00254,40.743407,M,6,1997
+02M615,2,2,Chelsea Career and Technical Education High School,M615,0.232,0.049,0.846,High school,"09,10,11,12,SE",-74.005058,40.72463,M,2,1905
+02M630,2,2,Art and Design High School,M488,0.22,0.008,0.555,High school,"09,10,11,12,SE",-73.967204,40.759248,M,2,1960
+02M655,2,2,Life Sciences Secondary School,M645,0.211,0.099,0.82,Secondary School,"09,10,11,12,SE",-73.945933,40.783286,M,2,1999
+02M896,2,2,Lower Manhattan Community Middle School,M282,0.299,0.045,0.481,Junior High-Intermediate-Middle,"06,07,08,SE",-74.013303,40.705688,M,3,1999
+02M933,2,2,City Knoll Middle School,M111,0.305,0.143,0.779,Junior High-Intermediate-Middle,"06,07,08,SE",-73.989776,40.76588,M,2,2014
+03M009,3,3,P.S. 009 Sarah Anderson,M009,0.189,0.03,0.176,Elementary,"PK,0K,01,02,03,04,05,SE",-73.974256,40.785234,M,2,1965
+03M075,3,3,P.S. 075 Emily Dickinson,M075,0.425,0.131,0.679,Elementary,"0K,01,02,03,04,05,SE",-73.973996,40.795109,M,2,1950
+03M076,3,3,P.S. 076 A. Philip Randolph,M076,0.245,0.1,0.978,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.951451,40.806534,M,2,1965
+03M145,3,3,"P.S. 145, The Bloomingdale School",M145,0.319,0.099,0.706,Elementary,"PK,0K,01,02,03,04,05,SE",-73.965611,40.799098,M,2,1961
+03M149,3,3,P.S. 149 Sojourner Truth,M149,0.25,0.125,0.972,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.948088,40.802649,M,1,1990
+03M165,3,3,P.S. 165 Robert E. Simon,M165,0.192,0.086,0.623,K-8,"PK,0K,01,02,03,04,05,SE",-73.965949,40.802653,M,2,1898
+03M241,3,3,STEM Institute of Manhattan,M113,0.351,0.155,0.959,Elementary,"0K,01,02,03,04,05,SE",-73.955583,40.801573,M,3,1999
+03M242,3,3,P.S. 242 - The Young Diplomats Magnet Academy,M144,0.329,0.079,0.843,Elementary,"PK,0K,01,02,03,04,05,SE",-73.948385,40.806055,M,2,1999
+03M243,3,3,M.S. 243 Center School,M009,0.19,0,0.13,Junior High-Intermediate-Middle,"05,06,07,08,SE",-73.974256,40.785234,M,2,1999
+03M245,3,3,M.S. M245 The Computer School,M044,0.213,0.012,0.313,Junior High-Intermediate-Middle,"06,07,08,SE",-73.977602,40.780536,M,3,1999
+03M247,3,3,M.S. M247 Dual Language Middle School,M044,0.281,0.234,0.861,Junior High-Intermediate-Middle,"05,06,07,08,SE",-73.977602,40.780536,M,3,1999
+03M250,3,3,M.S. 250 West Side Collaborative Middle School,M075,0.349,0.053,0.737,Junior High-Intermediate-Middle,"06,07,08,SE",-73.973996,40.795109,M,2,1999
+03M256,3,3,Lafayette Academy,M118,0.224,0.112,0.678,Junior High-Intermediate-Middle,"06,07,08,SE",-73.971011,40.791395,M,3,1999
+03M258,3,3,Community Action School - MS 258,M118,0.254,0.086,0.754,Junior High-Intermediate-Middle,"06,07,08,SE",-73.971011,40.791395,M,3,1999
+03M299,3,3,The Maxine Greene HS for Imaginative Inquiry,M490,0.246,0.14,0.867,High school,"09,10,11,12,SE",-73.985608,40.774891,M,6,2005
+03M307,3,3,"Urban Assembly School for Media Studies, The",M490,0.164,0.024,0.861,High school,"09,10,11,12,SE",-73.985608,40.774891,M,6,2004
+03M333,3,3,P.S. 333 Manhattan School for Children,M118,0.245,0.023,0.206,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.971011,40.791395,M,3,1999
+03M334,3,3,The Anderson School,M044,0.096,0,0.121,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.977602,40.780536,M,3,2005
+03M402,3,3,The Urban Assembly School for Green Careers,M470,0.233,0.118,0.826,High school,"09,10,11,12,SE",-73.974483,40.786134,M,5,2009
+03M403,3,3,The Global Learning Collaborative,M470,0.224,0.107,0.835,High school,"09,10,11,12,SE",-73.974483,40.786134,M,5,2009
+03M404,3,3,Innovation Diploma Plus,M470,0.149,0.097,0.869,High school,"10,11,12",-73.974483,40.786134,M,5,2009
+03M415,3,3,Wadleigh Secondary School for the Performing & Visual Arts,M088,0.227,0.042,0.843,Secondary School,"06,07,08,09,10,11,12,SE",-73.954152,40.80261,M,3,1996
+03M417,3,3,Frank McCourt High School,M470,0.216,0.017,0.448,High school,"09,10,11,12,SE",-73.974483,40.786134,M,5,2010
+03M421,3,3,West Prep Academy,M145,0.361,0.066,0.82,Junior High-Intermediate-Middle,"06,07,08,SE",-73.965611,40.799098,M,2,2009
+03M479,3,2,Beacon High School,M912,0.131,0.001,0.276,High school,"09,10,11,12,SE",-73.996262,40.760858,M,1,1996
+03M492,3,3,"High School for Law, Advocacy and Community Justice",M490,0.156,0.052,0.911,High school,"08,09,10,11,12,SE",-73.985608,40.774891,M,6,1997
+03M494,3,3,High School of Arts and Technology,M490,0.24,0.074,0.819,High school,"09,10,11,12,SE",-73.985608,40.774891,M,6,2001
+03M541,3,3,Manhattan / Hunter Science High School,M490,0.143,0.004,0.611,High school,"09,10,11,12,SE",-73.985608,40.774891,M,6,2003
+03M859,3,3,Special Music School,M490,0.118,0.007,0.173,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.982976,40.775256,M,6,2001
+03M859,3,3,Special Music School, M932,0.118,0.007,0.173,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.982976,40.775256,M,1,2001
+03M860,3,3,Frederick Douglass Academy II Secondary School,M088,0.249,0.097,0.85,Secondary School,"06,07,08,09,10,11,12,SE",-73.954152,40.80261,M,3,2001
+03M862,3,3,Mott Hall II,M165,0.248,0.041,0.573,Junior High-Intermediate-Middle,"06,07,08,SE",-73.965949,40.802653,M,2,2001
+04M012,4,4,Tag Young Scholars,M117,0.053,0.013,0.348,K-8,"0K,01,02,03,04,05,06,07,08",-73.942285,40.792556,M,2,1999
+04M037,4,4,River East Elementary,M045,0.283,0.057,0.815,Elementary,"PK,0K,01,02,03,04,05,SE",-73.93374,40.799265,M,2,1999
+04M038,4,4,P.S. 38 Roberto Clemente,M121,0.313,0.107,0.922,Elementary,"PK,0K,01,02,03,04,05,SE",-73.944762,40.788668,M,2,1999
+04M083,4,4,P.S. 083 Luis Munoz Rivera,M083,0.221,0.067,0.868,Elementary,"PK,0K,01,02,03,04,05,SE",-73.941955,40.793363,M,2,1964
+04M102,4,4,P.S. 102 Jacques Cartier,M102,0.321,0.115,0.844,Elementary,"PK,0K,01,02,03,04,05,SE",-73.938418,40.795,M,2,1914
+04M146,4,4,P.S. 146 Ann M. Short,M146,0.357,0.149,0.964,Elementary,"PK,0K,01,02,03,04,05,SE",-73.938727,40.789535,M,1,1965
+04M155,4,4,P.S. 155 William Paca,M155,0.283,0.32,0.988,Elementary,"PK,0K,01,02,03,04,05,SE",-73.935895,40.797507,M,2,1961
+04M182,4,4,The Bilingual Bicultural School,M083,0.311,0.368,0.97,Elementary,"PK,0K,01,02,03,04,05,SE",-73.941955,40.793363,M,2,2000
+04M224,4,4,M.S. 224 Manhattan East School for Arts & Academics,M099,0.226,0.024,0.654,Junior High-Intermediate-Middle,"06,07,08,SE",-73.942154,40.785107,M,3,2000
+04M310,4,4,THE JUDITH S. KAYE HIGH SCHOOL,M646,0.422,0.054,0.803,Secondary School,"09,10,11,12,SE",-73.945647,40.784112,M,2,2017
+04M310,4,4,THE JUDITH S. KAYE HIGH SCHOOL, Q142,0.422,0.054,0.803,Secondary School,"09,10,11,12,SE",-73.945647,40.784112,M,3,2017
+04M372,4,4,Esperanza Preparatory Academy,M117,0.234,0.305,0.91,Secondary School,"06,07,08,09,10,11,12,SE",-73.942285,40.792556,M,2,2008
+04M375,4,4,Mosaic Preparatory Academy,M101,0.311,0.079,0.917,Elementary,"PK,0K,01,02,03,04,05,SE",-73.944546,40.796098,M,2,2008
+04M377,4,4,Renaissance School of the Arts,M155,0.262,0.054,0.931,Junior High-Intermediate-Middle,"06,07,08,SE",-73.935895,40.797507,M,2,2008
+04M435,4,4,Manhattan Center for Science and Mathematics,M435,0.138,0.058,0.805,High school,"09,10,11,12,SE",-73.932868,40.794184,M,2,1942
+04M497,4,4,Central Park East I,M013,0.241,0.057,0.431,Elementary,"PK,0K,01,02,03,04,05,SE",-73.948488,40.793649,M,3,1999
+04M555,4,4,Central Park East High School,M013,0.156,0.018,0.789,High school,"09,10,11,12,SE",-73.948488,40.793649,M,3,1996
+04M825,4,4,Isaac Newton Middle School for Math & Science,M435,0.238,0.085,0.893,Junior High-Intermediate-Middle,"06,07,08,SE",-73.932868,40.794184,M,2,1999
+04M964,4,4,Central Park East II,M050,0.303,0.043,0.586,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.940919,40.785559,M,3,1999
+05M030,5,5,P.S. 030 Hernandez/Hughes,M030,0.25,0.068,0.953,Elementary,"PK,0K,01,02,03,04,05,SE",-73.935461,40.805653,M,3,1969
+05M092,5,5,P.S. 092 Mary McLeod Bethune,M092,0.354,0.062,0.988,Elementary,"PK,0K,01,02,03,04,05,SE",-73.945838,40.814917,M,3,1966
+05M123,5,5,P.S. 123 Mahalia Jackson,M123,0.254,0.141,0.957,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.944551,40.820216,M,2,1959
+05M125,5,5,P.S. 125 Ralph Bunche,M125,0.191,0.02,0.647,Elementary,"PK,0K,01,02,03,04,05,SE",-73.955722,40.810793,M,3,1925
+05M148,5,5,Eagle Academy for Young Men of Harlem,M136,0.322,0.065,0.775,Secondary School,"06,07,08,09,10,11,12,SE",-73.947151,40.817228,M,2,2013
+05M154,5,5,P.S. 154 Harriet Tubman,M154,0.28,0.128,0.94,Elementary,"PK,0K,01,02,03,04,05,SE",-73.948902,40.810499,M,2,1964
+05M157,5,5,The Urban Assembly School for Global Commerce,M501,0.335,0.107,0.88,High school,"09,10,11,12,SE",-73.938714,40.807019,M,2,2013
+05M175,5,5,P.S. 175 Henry H Garnet,M175,0.198,0.122,0.907,Elementary,"PK,0K,01,02,03,04,05,SE",-73.942706,40.814388,M,1,1958
+05M194,5,5,P.S. 194 Countee Cullen,M194,0.281,0.184,0.973,Elementary,"PK,0K,01,02,03,04,05,SE",-73.941111,40.821208,M,2,1940
+05M197,5,5,P.S. 197 John B. Russwurm,M197,0.298,0.076,0.917,Elementary,"PK,0K,01,02,03,04,05,SE",-73.938347,40.813532,M,1,1956
+05M200,5,5,P.S. 200- The James McCune Smith School,M200,0.256,0.093,0.88,Elementary,"PK,0K,01,02,03,04,05,SE",-73.935746,40.823988,M,1,1969
+05M285,5,5,Harlem Renaissance High School,M911,0.315,0.197,0.859,High school,"09,10,11,12,SE",-73.939974,40.807692,M,1,2004
+05M286,5,5,Urban Assembly Academy for Future Leaders,M043,0.456,0.049,0.893,Junior High-Intermediate-Middle,"06,07,08,SE",-73.95552,40.815747,M,2,1999
+05M304,5,5,Mott Hall High School,M136,0.285,0.18,0.912,High school,"09,10,11,12,SE",-73.947151,40.817228,M,2,2004
+05M362,5,5,Columbia Secondary School,M125,0.175,0.004,0.464,Secondary School,"06,07,08,09,10,11,12,SE",-73.955722,40.810793,M,3,2007
+05M369,5,5,Urban Assembly School for the Performing Arts,M043,0.234,0.063,0.818,High school,"09,10,11,12,SE",-73.95552,40.815747,M,2,2007
+05M514,5,5,New Design Middle School,M195,0.486,0.029,0.942,Junior High-Intermediate-Middle,"06,07,08,SE",-73.956814,40.819793,M,2,2011
+06M052,6,6,Harold O. Levy School,M052,0.272,0.414,0.955,Junior High-Intermediate-Middle,"06,07,08,SE",-73.925464,40.865556,M,3,1905
+06M103,6,6,Dos Puentes Elementary School,M132,0.246,0.299,0.653,Elementary,"0K,01,02,03,04,05,SE",-73.933964,40.850561,M,2,2013
+06M115,6,6,P.S. 115 Alexander Humboldt,M115,0.217,0.268,0.973,Elementary,"PK,0K,01,02,03,04,05,SE",-73.93514,40.846116,M,1,1914
+06M128,6,6,P.S. 128 Audubon,M128,0.212,0.171,0.877,Elementary,"PK,0K,01,02,03,04,05,SE",-73.938701,40.841032,M,2,1961
+06M132,6,6,P.S. 132 Juan Pablo Duarte,M132,0.263,0.439,0.883,Elementary,"0K,01,02,03,04,05,SE",-73.933964,40.850561,M,2,1905
+06M143,6,6,J.H.S. 143 Eleanor Roosevelt,M143,0.284,0.559,0.896,Junior High-Intermediate-Middle,"06,07,08,SE",-73.930991,40.849311,M,2,1965
+06M153,6,6,P.S. 153 Adam Clayton Powell,M153,0.171,0.253,0.918,Elementary,"PK,0K,01,02,03,04,05,SE",-73.947599,40.826514,M,2,1975
+06M173,6,6,P.S. 173,M173,0.184,0.119,0.786,Elementary,"PK,0K,01,02,03,04,05,SE",-73.939785,40.845459,M,2,1926
+06M189,6,6,P.S. 189,M189,0.215,0.231,0.9,Elementary,"PK,0K,01,02,03,04,05,SE",-73.928048,40.853045,M,1,1923
+06M192,6,6,P.S. 192 Jacob H. Schiff,M192,0.229,0.264,0.971,Elementary,"PK,0K,01,02,03,04,05,SE",-73.952023,40.82051,M,2,1952
+06M209,6,6,Hamilton Grange Middle School,M192,0.249,0.196,0.888,Junior High-Intermediate-Middle,"06,07,08,SE",-73.952023,40.82051,M,2,2014
+06M211,6,6,Inwood Early College for Health and Information Technologies,M052,0.244,0.109,0.926,High school,"09,10,11,12,SE",-73.925464,40.865556,M,3,2014
+06M293,6,6,City College Academy of the Arts,M218,0.16,0.056,0.802,Secondary School,"06,07,08,09,10,11,12,SE",-73.930082,40.860951,M,2,2005
+06M311,6,6,Amistad Dual Language School,M176,0.211,0.302,0.78,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.923818,40.866381,M,2,2004
+06M314,6,6,Muscota,M176,0.205,0.06,0.295,Elementary,"0K,01,02,03,04,05",-73.923818,40.866381,M,2,2004
+06M319,6,6,M.S. 319 - Maria Teresa,M090,0.275,0.329,0.969,Junior High-Intermediate-Middle,"06,07,08,SE",-73.935815,40.839139,M,3,2004
+06M322,6,6,Middle School 322,M218,0.2,0.415,0.96,Junior High-Intermediate-Middle,"06,07,08,SE",-73.930082,40.860951,M,2,2005
+06M324,6,6,M.S. 324 - Patria Mirabal,M090,0.251,0.351,0.853,Junior High-Intermediate-Middle,"06,07,08,SE",-73.935815,40.839139,M,3,2004
+06M328,6,6,Community Math & Science Prep,M164,0.389,0.455,0.934,Junior High-Intermediate-Middle,"06,07,08,SE",-73.937263,40.836982,M,2,2004
+06M348,6,6,Washington Heights Expeditionary Learning School,M143,0.227,0.167,0.846,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.930991,40.849311,M,2,2006
+06M349,6,6,Harbor Heights,M173,0.024,0.927,0.992,Junior High-Intermediate-Middle,"06,07,08",-73.939785,40.845459,M,2,2004
+06M368,6,6,Hamilton Heights School,M153,0.237,0.138,0.656,Elementary,"0K,01,02,03,04,05,SE",-73.947599,40.826514,M,2,2007
+06M423,6,6,High School for Excellence and Innovation,M052,0.164,0.593,0.974,High school,"09,10,11,12,SE",-73.925464,40.865556,M,3,2009
+06M462,6,6,The College Academy,M465,0.207,0.542,0.918,High school,"09,10,11,12,SE",-73.92606,40.856532,M,4,1999
+06M463,6,6,High School for Media and Communications,M465,0.183,0.48,0.914,High school,"09,10,11,12,SE",-73.92606,40.856532,M,4,1999
+06M467,6,6,High School for Law and Public Service,M465,0.261,0.36,0.885,High school,"09,10,11,12,SE",-73.92606,40.856532,M,4,1999
+06M468,6,6,High School for Health Careers and Sciences,M465,0.187,0.416,0.98,High school,"08,09,10,11,12,SE",-73.92606,40.856532,M,4,1999
+06M513,6,6,Castle Bridge School,M128,0.365,0.339,0.661,Elementary,"PK,0K,01,02,03,04,05,SE",-73.938701,40.841032,M,2,2012
+07X030,7,7,P.S. 030 Wilton,X030,0.247,0.201,0.928,Elementary,"PK,0K,01,02,03,04,05,SE",-73.917417,40.809023,X,2,1924
+07X031,7,7,P.S./M.S. 031 The William Lloyd Garrison,X151,0.23,0.122,0.899,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.92114,40.822574,X,4,1899
+07X043,7,7,P.S. 043 Jonas Bronck,X043,0.203,0.118,0.961,Elementary,"PK,0K,01,02,03,04,05,SE",-73.921593,40.806452,X,2,1906
+07X049,7,7,P.S. 049 Willis Avenue,X049,0.275,0.129,0.939,Elementary,"PK,0K,01,02,03,04,05,06,SE",-73.92273,40.810413,X,2,1965
+07X065,7,7,P.S. 065 Mother Hale Academy,X065,0.258,0.12,0.966,Elementary,"PK,0K,01,02,03,04,05,SE",-73.912557,40.807916,X,2,1924
+07X151,7,7,J.H.S. 151 Lou Gehrig,X151,0.291,0.317,0.963,Junior High-Intermediate-Middle,"06,07,08,SE",-73.92114,40.822574,X,4,1971
+07X154,7,7,P.S. 154 Jonathan D. Hyatt,X154,0.238,0.116,0.99,Elementary,"PK,0K,01,02,03,04,05,SE",-73.925459,40.808194,X,2,1962
+07X161,7,7,P.S. 161 Juan Ponce De Leon School,X161,0.274,0.117,0.965,Elementary,"PK,0K,01,02,03,04,05,SE",-73.905233,40.814168,X,1,1968
+07X179,7,7,P.S. 179,X040,0.24,0.192,0.917,Elementary,"PK,0K,01,02,03,04,05,SE",-73.919773,40.80908,X,2,2001
+07X221,7,7,South Bronx Preparatory: A College Board School,X149,0.259,0.054,0.943,Secondary School,"06,07,08,09,10,11,12,SE",-73.920851,40.813612,X,2,2004
+07X223,7,7,The Laboratory School of Finance and Technology: X223,X149,0.19,0.051,0.933,Secondary School,"06,07,08,09,10,11,12,SE",-73.920851,40.813612,X,2,2003
+07X224,7,7,P.S./I.S. 224,X139,0.306,0.214,0.993,Junior High-Intermediate-Middle,"06,07,08,SE",-73.918774,40.810314,X,3,2003
+07X259,7,7,"H.E.R.O. High (Health, Education, and Research Occupations High School)",X655,0.226,0.083,0.831,High school,"09,10,11,12,SE",-73.907528,40.810671,X,3,2013
+07X277,7,7,P.S. 277,X027,0.221,0.148,0.913,Elementary,"PK,0K,01,02,03,04,05,SE",-73.913872,40.813385,X,2,1999
+07X296,7,7,South Bronx Academy for Applied Media,X184,0.329,0.139,0.917,Junior High-Intermediate-Middle,"06,07,08,SE",-73.905389,40.818703,X,3,2005
+07X298,7,7,Academy of Public Relations,X184,0.352,0.284,0.956,Junior High-Intermediate-Middle,"06,07,08,SE",-73.905389,40.818703,X,3,2005
+07X334,7,7,International Community High School,X139,0.071,0.861,0.99,High school,"09,10,11,12",-73.918774,40.810314,X,3,2006
+07X343,7,7,Academy of Applied Mathematics and Technology,X139,0.279,0.106,0.947,Junior High-Intermediate-Middle,"06,07,08,SE",-73.918774,40.810314,X,3,2005
+07X359,7,7,Concourse Village Elementary School,X156,0.183,0.08,0.853,Elementary,"PK,0K,01,02,03,04,05,SE",-73.922527,40.823014,X,2,2013
+07X369,7,7,Young Leaders Elementary School,X040,0.274,0.226,0.972,Elementary,"PK,0K,01,02,03,04,05,SE",-73.919773,40.80908,X,2,2008
+07X379,7,7,Jill Chaifetz Transfer High School,X184,0.321,0.096,0.866,High school,"09,10,11,12,SE",-73.905389,40.818703,X,3,2007
+07X381,7,7,Bronx Haven High School,X600,0.32,0.124,0.888,High school,"09,10,11,12,SE",-73.919949,40.818645,X,3,2008
+07X427,7,7,Community School for Social Justice,X884,0.268,0.232,0.926,High school,"09,10,11,12,SE",-73.92996,40.815712,X,2,2001
+07X473,7,7,Mott Haven Village Preparatory High School,X470,0.298,0.156,0.954,High school,"09,10,11,12,SE",-73.911633,40.818041,X,2,2001
+07X495,7,7,University Heights Secondary School,X470,0.182,0.031,0.828,High school,"09,10,11,12,SE",-73.911633,40.818041,X,2,1996
+07X500,7,7,Hostos-Lincoln Academy of Science,X162,0.193,0.03,0.832,Secondary School,"06,07,08,09,10,11,12,SE",-73.912038,40.814857,X,3,1996
+07X522,7,7,Bronx Design and Construction Academy,X600,0.369,0.089,0.906,High school,"09,10,11,12,SE",-73.919949,40.818645,X,3,2011
+07X527,7,7,Bronx Leadership Academy II High School,X790,0.298,0.129,0.903,High school,"09,10,11,12,SE",-73.922366,40.821828,X,3,2001
+07X548,7,7,Careers in Sports High School,X790,0.271,0.164,0.89,High school,"09,10,11,12,SE",-73.922366,40.821828,X,3,2003
+07X551,7,7,The Urban Assembly Bronx Academy of Letters,X183,0.283,0.137,0.916,Secondary School,"06,07,08,09,10,11,12,SE",-73.925995,40.813681,X,2,2003
+07X557,7,7,Mott Haven Community High School,X655,0.336,0.102,0.848,High school,"10,11,12,SE",-73.907528,40.810671,X,3,2012
+07X584,7,7,I.S. 584,X162,0.231,0.239,0.972,Junior High-Intermediate-Middle,"06,07,08,SE",-73.912038,40.814857,X,3,2017
+07X600,7,7,Alfred E. Smith Career and Technical Education High School,X600,0.267,0.168,0.908,High school,"09,10,11,12,SE",-73.919949,40.818645,X,3,1932
+07X670,7,7,Health Opportunities High School,X884,0.267,0.12,0.903,High school,"09,10,11,12,SE",-73.92996,40.815712,X,2,1996
+08X075,8,8,P.S. 75 School of Research and Discovery,X075,0.213,0.159,0.865,Elementary,"PK,0K,01,02,03,04,05,SE",-73.888948,40.822314,X,1,1924
+08X093,8,8,P.S. 093 Albert G. Oliver,X093,0.173,0.059,0.707,Elementary,"PK,0K,01,02,03,04,05,SE",-73.877274,40.822522,X,2,1930
+08X101,8,8,M.S. X101 Edward R. Byrne,X101,0.231,0.02,0.695,Junior High-Intermediate-Middle,"06,07,08,SE",-73.829211,40.82708,X,2,1957
+08X107,8,8,P.S. 107,X107,0.298,0.1,0.978,Elementary,"PK,0K,01,02,03,04,05,SE",-73.868735,40.819221,X,1,1937
+08X123,8,8,J.H.S. 123 James M. Kieran,X123,0.259,0.259,0.916,Junior High-Intermediate-Middle,"06,07,08,SE",-73.874162,40.824989,X,2,1953
+08X131,8,8,J.H.S. 131 Albert Einstein,X131,0.303,0.099,0.886,Junior High-Intermediate-Middle,"06,07,08,SE",-73.859998,40.822925,X,3,1966
+08X140,8,8,P.S. X140 The Eagle School,X140,0.217,0.087,0.971,Elementary,"PK,0K,01,02,03,04,05,SE",-73.907489,40.823318,X,1,1957
+08X146,8,8,P.S. 146 Edward Collins,X146,0.244,0.132,0.967,Elementary,"PK,0K,01,02,03,04,05,SE",-73.905734,40.824717,X,1,1958
+08X282,8,8,Women's Academy of Excellence,X174,0.2,0.209,0.93,High school,"09,10,11,12,SE",-73.85607,40.815043,X,3,2004
+08X293,8,11,Renaissance High School for Musical Theater and the Arts,X405,0.22,0.039,0.773,High school,"09,10,11,12,SE",-73.839583,40.839775,X,6,2004
+08X301,8,8,M.S. 301 Paul L. Dunbar,X120,0.246,0.216,0.96,Junior High-Intermediate-Middle,"06,07,08,SE",-73.906739,40.822291,X,1,2001
+08X302,8,8,M.S. 302 Luisa Dessus Cruz,X052,0.277,0.2,0.967,Junior High-Intermediate-Middle,"06,07,08,SE",-73.901599,40.816078,X,2,2001
+08X304,8,8,P.S. 304 Early Childhood School,X101,0.185,0.035,0.68,Elementary,"PK,0K,01,02,03,04,05,SE",-73.829211,40.82708,X,2,2001
+08X312,8,8,Millennium Art Academy,X450,0.241,0.047,0.783,High school,"09,10,11,12,SE",-73.85593,40.821218,X,6,2004
+08X320,8,11,Pelham Lab High School,X405,0.196,0.144,0.791,High school,"09,10,11,12,SE",-73.839583,40.839775,X,6,2013
+08X333,8,8,The Longwood Academy of Discovery,X060,0.294,0.206,0.957,Elementary,"PK,0K,01,02,03,04,05,SE",-73.898399,40.820108,X,1,2004
+08X337,8,8,The School for Inquiry and Social Justice,X123,0.233,0.101,0.822,Junior High-Intermediate-Middle,"06,07,08,SE",-73.874162,40.824989,X,2,2004
+08X348,8,11,Schuylerville Preparatory High School,X405,0.23,0.149,0.781,High school,"09,10,11,12,SE",-73.839583,40.839775,X,6,2013
+08X349,8,11,Bronx River High School,X405,0.261,0.15,0.804,High school,"09,10,11,12,SE",-73.839583,40.839775,X,6,2013
+08X367,8,8,"Archimedes Academy for Math, Science and Technology Applications",X174,0.268,0.103,0.804,Secondary School,"06,07,08,09,10,11,12,SE",-73.85607,40.815043,X,3,2007
+08X371,8,8,Urban Institute of Mathematics,X192,0.234,0.044,0.694,Junior High-Intermediate-Middle,"06,07,08,SE",-73.818083,40.826794,X,3,2007
+08X375,8,8,The Bronx Mathematics Preparatory School,X174,0.307,0.134,0.995,Junior High-Intermediate-Middle,"06,07,08,SE",-73.85607,40.815043,X,3,2007
+08X376,8,8,Antonia Pantoja Preparatory Academy: A College Board School,X450,0.28,0.144,0.879,Secondary School,"06,07,08,09,10,11,12,SE",-73.85593,40.821218,X,6,2007
+08X377,8,8,Bronx Community High School,X450,0.184,0.037,0.86,High school,"09,10,11,12",-73.85593,40.821218,X,6,2007
+08X392,8,8,Bronx Delta School,X192,0.205,0.05,0.673,Elementary,"PK,0K,01,02,03,04,05,SE",-73.818083,40.826794,X,3,2014
+08X405,8,11,Herbert H. Lehman High School,X405,0.254,0.111,0.803,High school,"09,10,11,12,SE",-73.839583,40.839775,X,6,1972
+08X424,8,8,The Hunts Point School,X074,0.325,0.263,0.934,Junior High-Intermediate-Middle,"06,07,08,SE",-73.885284,40.815827,X,2,2008
+08X432,8,8,Bronx Bridges High School,X450,0.109,0.786,0.971,High school,"09,10,11,12,SE",-73.85593,40.821218,X,6,2010
+08X448,8,8,Soundview Academy for Culture and Scholarship,X131,0.254,0.086,0.821,Junior High-Intermediate-Middle,"06,07,08,SE",-73.859998,40.822925,X,3,2009
+08X452,8,8,Gotham Collaborative High School,X450,0.26,0.138,0.885,High school,"09,10,11,12,SE",-73.85593,40.821218,X,6,2001
+08X467,8,8,Mott Hall Community School,X192,0.284,0.096,0.871,Junior High-Intermediate-Middle,"06,07,08,SE",-73.818083,40.826794,X,3,2009
+08X530,8,8,Longwood Preparatory Academy,X039,0.299,0.162,0.893,High school,"09,10,11,12,SE",-73.897876,40.817741,X,2,1997
+08X537,8,8,Bronx Arena High School,X972,0.179,0.056,0.933,High school,"09,10,11,12",-73.881187,40.820486,X,2,2011
+08X558,8,11,Westchester Square Academy,X405,0.207,0.089,0.793,High school,"09,10,11,12,SE",-73.839583,40.839775,X,6,2012
+08X559,8,8,School for Tourism and Hospitality,X650,0.325,0.233,0.871,High school,"09,10,11,12,SE",-73.902892,40.821723,X,2,2012
+08X561,8,8,Bronx Compass High School,X450,0.265,0.118,0.858,High school,"09,10,11,12,SE",-73.85593,40.821218,X,6,2012
+08X562,8,8,Blueprint Middle School,X125,0.219,0.195,0.899,Junior High-Intermediate-Middle,"06,07,08,SE",-73.857882,40.829153,X,1,2012
+09X004,9,9,P.S./M.S. 004 Crotona Park West,X004,0.218,0.124,0.949,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.897943,40.841758,X,2,1897
+09X022,9,9,J.H.S. 022 Jordan L. Mott,X022,0.242,0.262,0.949,Junior High-Intermediate-Middle,"06,07,08,SE",-73.91435,40.832022,X,3,1949
+09X042,9,9,P.S. 042 Claremont,X042,0.291,0.105,1,Elementary,"PK,0K,01,02,03,04,05,SE",-73.903243,40.838636,X,1,1906
+09X055,9,9,P.S. 055 Benjamin Franklin,X055,0.188,0.067,0.971,Elementary,"PK,0K,01,02,03,04,05,SE",-73.90497,40.835934,X,1,1916
+09X110,9,9,P.S. 110 Theodore Schoenfeld,X110,0.213,0.145,0.988,Elementary,"PK,0K,01,02,03,04,05,SE",-73.900654,40.83447,X,2,1964
+09X117,9,9,I.S. 117 Joseph H. Wade,X117,0.278,0.327,0.95,Junior High-Intermediate-Middle,"06,07,08,SE",-73.909022,40.848552,X,2,1938
+09X128,9,9,Mott Hall III,X110,0.191,0.071,0.941,Junior High-Intermediate-Middle,"06,07,08,SE",-73.900654,40.83447,X,2,2001
+09X204,9,9,P.S. 204 Morris Heights,X338,0.237,0.122,0.858,Elementary,"PK,0K,01,02,03,04,05,SE",-73.915217,40.849416,X,1,1991
+09X215,9,9,Kappa,X148,0.243,0.107,0.908,Junior High-Intermediate-Middle,"06,07,08,SE",-73.903951,40.833493,X,3,2000
+09X218,9,9,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,X235,0.171,0.22,0.878,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.919571,40.835681,X,1,1999
+09X219,9,9,I.S. 219 New Venture School,X148,0.373,0.224,0.961,Junior High-Intermediate-Middle,"06,07,08,SE",-73.903951,40.833493,X,3,1999
+09X227,9,9,Bronx Collegiate Academy,X410,0.251,0.151,0.866,High school,"09,10,11,12,SE",-73.911366,40.839307,X,6,2004
+09X229,9,9,I.S. 229 Roland Patterson,X229,0.353,0.17,0.929,Junior High-Intermediate-Middle,"06,07,08,SE",-73.9216,40.8524,X,2,1977
+09X232,9,9,I.S. 232,X082,0.23,0.302,0.982,Junior High-Intermediate-Middle,"06,07,08,SE",-73.915217,40.849416,X,3,2000
+09X241,9,9,"Urban Assembly School for Applied Math and Science, The",X970,0.29,0.119,0.925,Secondary School,"06,07,08,09,10,11,12,SE",-73.901774,40.839508,X,3,2004
+09X250,9,9,Eximius College Preparatory Academy: A College Board School,X002,0.244,0.076,0.842,High school,"09,10,11,12,SE",-73.902794,40.833884,X,2,2005
+09X252,9,9,Mott Hall Bronx High School,X970,0.244,0.093,0.933,High school,"09,10,11,12,SE",-73.901774,40.839508,X,3,2005
+09X260,9,9,Bronx Center for Science and Mathematics,X002,0.211,0.052,0.839,High school,"09,10,11,12,SE",-73.902794,40.833884,X,2,2005
+09X263,9,9,Validus Preparatory Academy,X970,0.256,0.117,0.942,High school,"09,10,11,12,SE",-73.901774,40.839508,X,3,2005
+09X274,9,9,The New American Academy at Roberto Clemente State Park,X229,0.266,0.13,0.976,Elementary,"PK,0K,01,02,03,04,05,SE",-73.9216,40.8524,X,2,2013
+09X294,9,9,The Walton Avenue School,X064,0.258,0.179,0.924,Elementary,"0K,01,02,03,04,05,SE",-73.915879,40.8404,X,2,2013
+09X297,9,9,Morris Academy for Collaborative Studies,X400,0.243,0.13,0.958,High school,"09,10,11,12,SE",-73.90392,40.827455,X,4,2004
+09X303,9,9,I.S. X303 Leadership & Community Service,X082,0.343,0.098,0.981,Junior High-Intermediate-Middle,"06,07,08,SE",-73.915217,40.849416,X,3,1999
+09X311,9,9,Lucero Elementary School,X064,0.223,0.407,0.978,Elementary,"0K,01,02,03,04,05,SE",-73.915879,40.8404,X,2,2013
+09X313,9,9,I.S. 313 School of Leadership Development,X147,0.243,0.347,0.914,Junior High-Intermediate-Middle,"06,07,08,SE",-73.904353,40.840536,X,2,1999
+09X323,9,9,Bronx Writing Academy,X022,0.256,0.274,0.95,Junior High-Intermediate-Middle,"06,07,08,SE",-73.91435,40.832022,X,3,2004
+09X324,9,9,Bronx Early College Academy for Teaching & Learning,X166,0.232,0.082,0.873,Secondary School,"06,07,08,09,10,11,12,SE",-73.917705,40.828009,X,3,2006
+09X327,9,9,Comprehensive Model School Project M.S. 327,X240,0.263,0.106,0.887,Secondary School,"06,07,08,09,10,11,12,SE",-73.916084,40.842503,X,2,1999
+09X328,9,9,New Millennium Bronx Academy of the Arts,X145,0.269,0.213,0.934,Junior High-Intermediate-Middle,"06,07,08,SE",-73.914067,40.827438,X,3,2004
+09X329,9,9,DreamYard Preparatory School,X410,0.229,0.203,0.897,High school,"09,10,11,12,SE",-73.911366,40.839307,X,6,2006
+09X339,9,9,I.S. 339,X147,0.287,0.291,0.938,Junior High-Intermediate-Middle,"06,07,08,SE",-73.904353,40.840536,X,2,1999
+09X350,9,9,New Directions Secondary School,X410,0.254,0.487,0.959,Secondary School,"06,07,08,09,10,11,12,SE",-73.911366,40.839307,X,6,2013
+09X365,9,9,Academy for Language and Technology,X082,0.048,0.674,0.994,High school,"09,10,11,12",-73.915217,40.849416,X,3,2007
+09X403,9,9,Bronx International High School,X400,0.037,0.899,0.923,High school,"09,10,11,12",-73.90392,40.827455,X,4,2001
+09X404,9,9,School for Excellence,X400,0.261,0.265,0.92,High school,"09,10,11,12,SE",-73.90392,40.827455,X,4,2001
+09X412,9,9,Bronx High School of Business,X410,0.234,0.37,0.924,High school,"09,10,11,12,SE",-73.911366,40.839307,X,6,2001
+09X413,9,9,Bronx High School for Medical Science,X410,0.23,0.112,0.85,Secondary School,"06,07,08,09,10,11,12,SE",-73.911366,40.839307,X,6,2001
+09X443,9,9,The Family School,X090,0.281,0.318,0.924,Elementary,"PK,0K,01,02,03,04,05,SE",-73.917526,40.831873,X,2,2009
+09X449,9,9,Grant Avenue Elementary School,X166,0.319,0.225,0.909,Elementary,"PK,0K,01,02,03,04,05,SE",-73.917705,40.828009,X,3,2009
+09X454,9,9,Science and Technology Academy: A Mott Hall School,X166,0.209,0.138,0.915,Junior High-Intermediate-Middle,"06,07,08,SE",-73.917705,40.828009,X,3,2009
+09X457,9,9,Sheridan Academy for Young Leaders,X090,0.236,0.219,0.973,Elementary,"PK,0K,01,02,03,04,05,SE",-73.917526,40.831873,X,2,2009
+09X517,9,9,Frederick Douglass Academy III Secondary School,X148,0.276,0.183,0.892,High school,"09,10,11,12,SE",-73.903951,40.833493,X,3,2000
+09X543,9,9,High School for Violin and Dance,X400,0.307,0.187,0.884,High school,"09,10,11,12,SE",-73.90392,40.827455,X,4,2003
+09X555,9,9,Mount Eden Children's Academy,X240,0.168,0.177,0.914,Elementary,"PK,0K,01,02,03,04,05,SE",-73.916084,40.842503,X,2,2012
+09X564,9,9,Claremont International HS,X410,0.074,0.865,1,High school,"09,10,11,12",-73.911366,40.839307,X,6,2012
+09X568,9,9,Young Women's Leadership School of the Bronx,X117,0.181,0.048,0.858,Secondary School,"06,07,08,09,10,11,12,SE",-73.909022,40.848552,X,2,2012
+09X593,9,9,South Bronx International Middle School,X145,0.125,0.927,0.896,Junior High-Intermediate-Middle,"06,07,SE",-73.914067,40.827438,X,3,2018
+09X594,9,9,M.S. 594,X145,0.274,0.31,0.897,Junior High-Intermediate-Middle,"06,07,08,SE",-73.914067,40.827438,X,3,2018
+10X015,10,10,P.S. X015 Institute for Environmental Learning,X015,0.233,0.175,0.81,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.909763,40.859243,X,3,1995
+10X020,10,10,"PS/MS 20 P.O.George J. Werdann, III",X020,0.267,0.252,0.927,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.878731,40.869482,X,2,1996
+10X077,10,10,Bedford Park Elementary School,X177,0.179,0.245,0.842,Elementary,"PK,0K,01,02,03,04,05,SE",-73.875375,40.872559,X,1,2014
+10X080,10,10,J.H.S. 080 The Mosholu Parkway,X080,0.271,0.268,0.883,Junior High-Intermediate-Middle,"06,07,08,SE",-73.881245,40.876819,X,2,1925
+10X095,10,10,P.S. 095 Sheila Mencher,X095,0.211,0.147,0.843,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.891664,40.883049,X,2,1933
+10X213,10,10,Bronx Engineering and Technology Academy,X475,0.248,0.195,0.939,High school,"09,10,11,12,SE",-73.912686,40.877379,X,7,2004
+10X225,10,10,Theatre Arts Production Company School,X137,0.249,0.09,0.828,Secondary School,"06,07,08,09,10,11,12,SE",-73.897404,40.854257,X,2,1999
+10X237,10,10,"The Marie Curie School for Medicine, Nursing, and Health Professions",X143,0.222,0.123,0.812,High school,"09,10,11,12,SE",-73.901565,40.875636,X,2,2004
+10X243,10,10,West Bronx Academy for the Future,X435,0.265,0.14,0.938,Secondary School,"06,07,08,09,10,11,12,SE",-73.888625,40.859466,X,6,2004
+10X244,10,10,The New School for Leadership and Journalism,X143,0.223,0.214,0.99,Junior High-Intermediate-Middle,"06,07,08,SE",-73.901565,40.875636,X,2,2005
+10X264,10,10,Bronx Academy for Software Engineering (BASE),X660,0.275,0.093,0.778,High school,"09,10,11,12,SE",-73.882487,40.855392,X,3,2013
+10X268,10,10,Kingsbridge International High School,X430,0.048,0.866,0.97,High school,"09,10,11,12",-73.897066,40.869061,X,5,2005
+10X280,10,10,P.S./M.S. 280 Mosholu Parkway,X080,0.298,0.178,0.939,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.881245,40.876819,X,2,1988
+10X284,10,10,Bronx School of Law and Finance,X475,0.207,0.253,0.875,High school,"09,10,11,12,SE",-73.912686,40.877379,X,7,2004
+10X291,10,10,P.S. 291,X015,0.193,0.278,0.995,Elementary,"0K,01,02,03,04,05,SE",-73.909763,40.859243,X,3,1995
+10X306,10,10,P.S. 306,X306,0.192,0.164,0.906,Elementary,"0K,01,02,03,04,05,SE",-73.910827,40.850722,X,2,1994
+10X331,10,10,The Bronx School of Young Leaders,X306,0.27,0.184,0.882,Junior High-Intermediate-Middle,"06,07,08,SE",-73.910827,40.850722,X,2,2004
+10X342,10,10,International School for Liberal Arts,X430,0.094,0.699,0.97,Secondary School,"06,07,08,09,10,11,12,SE",-73.897066,40.869061,X,5,2005
+10X344,10,10,Ampark Neighborhood,X095,0.258,0.028,0.503,Elementary,"PK,0K,01,02,03,04,05,SE",-73.891664,40.883049,X,2,2006
+10X351,10,10,Bronx Collaborative High School,X440,0.216,0.171,0.807,High school,"09,10,11,12,SE",-73.889011,40.879958,X,3,2013
+10X353,10,10,World View High School,X440,0.197,0.233,0.782,High school,"09,10,11,12,SE",-73.889011,40.879958,X,3,2013
+10X368,10,10,In-Tech Academy (M.S. / High School 368),X368,0.212,0.171,0.874,Secondary School,"06,07,08,09,10,11,12,SE",-73.913694,40.877935,X,2,2004
+10X374,10,10,Knowledge and Power Preparatory Academy International High School (Kappa),X435,0.238,0.102,0.869,High school,"09,10,11,12,SE",-73.888625,40.859466,X,6,2007
+10X382,10,10,"Elementary School for Math, Science, and Technology",X079,0.191,0.324,0.95,Elementary,"0K,01,02,03,04,05,SE",-73.903139,40.855337,X,3,2008
+10X386,10,10,School for Environmental Citizenship,X079,0.159,0.296,0.967,Elementary,"PK,0K,01,02,03,04,05,SE",-73.903139,40.855337,X,3,2008
+10X390,10,10,M.S. 390,X026,0.225,0.273,0.953,Junior High-Intermediate-Middle,"06,07,08,09,SE",-73.913016,40.854335,X,2,1999
+10X391,10,10,The Angelo Patri Middle School,X137,0.27,0.31,0.946,Junior High-Intermediate-Middle,"06,07,08,SE",-73.897404,40.854257,X,2,1999
+10X396,10,10,P.S. 396,X026,0.371,0.228,0.922,Elementary,"PK,0K,01,02,03,04,05,SE",-73.913016,40.854335,X,2,1999
+10X397,10,10,English Language Learners and International Support Preparatory Academy (ELLIS),X475,0.009,0.93,0.94,High school,"09,10,11,12",-73.912686,40.877379,X,7,2008
+10X433,10,10,High School for Teaching and the Professions,X430,0.229,0.239,0.894,High school,"09,10,11,12,SE",-73.897066,40.869061,X,5,2001
+10X434,10,10,Belmont Preparatory High School,X435,0.221,0.093,0.853,High school,"09,10,11,12,SE",-73.888625,40.859466,X,6,2001
+10X437,10,10,Fordham High School for the Arts,X435,0.23,0.024,0.851,High school,"09,10,11,12,SE",-73.888625,40.859466,X,6,2001
+10X438,10,10,Fordham Leadership Academy,X435,0.244,0.155,0.887,High school,"09,10,11,12,SE",-73.888625,40.859466,X,6,2001
+10X439,10,10,Bronx High School for Law and Community Service,X435,0.234,0.121,0.894,High school,"09,10,11,12,SE",-73.888625,40.859466,X,6,2001
+10X440,10,10,DeWitt Clinton High School,X440,0.205,0.11,0.858,High school,"09,10,11,12,SE",-73.889011,40.879958,X,3,1929
+10X442,10,10,"Celia Cruz Bronx High School of Music, The",X430,0.211,0.043,0.857,High school,"09,10,11,12,SE",-73.897066,40.869061,X,5,2003
+10X447,10,10,Creston Academy,X079,0.207,0.259,0.967,Junior High-Intermediate-Middle,"06,07,08,SE",-73.903139,40.855337,X,3,2009
+10X477,10,10,Marble Hill High School for International Studies,X475,0.156,0.281,0.88,High school,"09,10,11,12,SE",-73.912686,40.877379,X,7,2002
+10X524,10,10,Crotona International High School,X660,0.047,0.964,0.846,High school,"09,10,11,12",-73.882487,40.855392,X,3,2011
+10X546,10,10,Bronx Theatre High School,X475,0.235,0.037,0.845,High school,"09,10,11,12,SE",-73.912686,40.877379,X,7,2003
+10X549,10,10,Discovery High School,X430,0.249,0.194,0.9,High school,"09,10,11,12,SE",-73.897066,40.869061,X,5,2003
+10X565,10,10,High School for Energy and Technology,X660,0.272,0.123,0.856,High school,"09,10,11,12,SE",-73.882487,40.855392,X,3,2012
+11X127,11,11,J.H.S. 127 The Castle Hill,X127,0.201,0.145,0.789,Junior High-Intermediate-Middle,"06,07,08,SE",-73.853203,40.838759,X,2,1953
+11X144,11,11,J.H.S. 144 Michelangelo,X144,0.264,0.098,0.783,Junior High-Intermediate-Middle,"06,07,08,SE",-73.836525,40.863842,X,3,1968
+11X153,11,11,P.S. 153 Helen Keller,X153,0.128,0.016,0.659,Elementary,"PK,0K,01,02,03,04,05,SE",-73.831669,40.874035,X,2,1971
+11X160,11,11,P.S. 160 Walt Disney,X160,0.249,0.023,0.746,Elementary,"PK,0K,01,02,03,04,05,SE",-73.823816,40.864073,X,2,1972
+11X178,11,11,P.S. 178 - Dr. Selman Waksman,X178,0.209,0.034,0.785,Elementary,"0K,01,02,03,04,05,SE",-73.831669,40.874035,X,1,1972
+11X181,11,11,I.S. 181 Pablo Casals,X181,0.234,0.028,0.815,Junior High-Intermediate-Middle,"06,07,08,SE",-73.831669,40.874035,X,2,1972
+11X189,11,11,Cornerstone Academy for Social Action,X189,0.182,0.041,0.913,Elementary,"PK,0K,01,02,03,04,05,SE",-73.830616,40.882778,X,2,2007
+11X194,11,11,P.S./M.S. 194,X194,0.152,0.171,0.817,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.846594,40.83541,X,1,2003
+11X249,11,11,Bronx Health Sciences High School,X455,0.108,0.038,0.794,High school,"09,10,11,12,SE",-73.831669,40.874035,X,2,2004
+11X253,11,11,Bronx High School for Writing and Communication Arts,X425,0.229,0.153,0.787,High school,"09,10,11,12,SE",-73.861649,40.875172,X,6,2004
+11X265,11,11,Bronx Lab School,X425,0.265,0.163,0.869,High school,"09,10,11,12,SE",-73.861649,40.875172,X,6,2004
+11X270,11,11,Academy for Scholarship and Entrepreneurship: A College Board School,X362,0.196,0.058,0.777,High school,"09,10,11,12,SE",-73.852714,40.888242,X,3,2005
+11X275,11,11,High School of Computers and Technology,X425,0.249,0.09,0.779,High school,"09,10,11,12,SE",-73.861649,40.875172,X,6,2004
+11X287,11,11,North Bronx School of Empowerment,X113,0.253,0.158,0.873,Junior High-Intermediate-Middle,"06,07,08,SE",-73.860126,40.880649,X,2,2005
+11X288,11,11,Collegiate Institute for Math and Science,X415,0.163,0.032,0.742,High school,"09,10,11,12,SE",-73.860729,40.860443,X,5,2004
+11X290,11,11,Bronx Academy of Health Careers,X425,0.206,0.106,0.83,High school,"09,10,11,12,SE",-73.861649,40.875172,X,6,2004
+11X299,11,11,Astor Collegiate Academy,X415,0.207,0.075,0.81,High school,"09,10,11,12,SE",-73.860729,40.860443,X,5,2004
+11X326,11,11,Bronx Green Middle School,X135,0.195,0.19,0.911,Junior High-Intermediate-Middle,"06,07,08,SE",-73.865028,40.862098,X,3,2006
+11X355,11,11,Bronx Alliance Middle School,X142,0.262,0.038,0.85,Junior High-Intermediate-Middle,"06,07,08,SE",-73.839682,40.886002,X,3,2013
+11X370,11,11,Leaders of Tomorrow,X113,0.296,0.138,0.836,Junior High-Intermediate-Middle,"06,07,08,SE",-73.860126,40.880649,X,2,2007
+11X418,11,11,Bronx High School for the Visual Arts,X839,0.291,0.05,0.795,High school,"09,10,11,12,SE",-73.864438,40.851577,X,1,2001
+11X455,11,11,Harry S Truman High School,X455,0.239,0.073,0.748,High school,"09,10,11,12,SE",-73.831669,40.874035,X,2,1973
+11X462,11,11,Cornerstone Academy for Social Action Middle School (CASA),X189,0.198,0.028,0.794,Junior High-Intermediate-Middle,"06,07,08,SE",-73.830616,40.882778,X,2,2009
+11X468,11,11,Pelham Academy of Academics and Community Engagement,X135,0.231,0.157,0.883,Junior High-Intermediate-Middle,"06,07,08,SE",-73.865028,40.862098,X,3,2009
+11X481,11,11,The STEAM Bridge School,X311,0.165,0.262,0.884,Elementary,"0K,01,02,03,04,SE",-73.865498,40.843531,X,2,2015
+11X483,11,11,The Matilda Avenue School,X314,0.136,0.052,0.878,Elementary,"0K,01,02,03,04,SE",-73.854402,40.901436,X,1,2015
+11X498,11,11,P.S./M.S. 11X498 - Van Nest Academy,X498,0.201,0.081,0.768,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.857989,40.845023,X,2,2010
+11X508,11,11,Bronxdale High School,X415,0.239,0.071,0.895,High school,"09,10,11,12,SE",-73.860729,40.860443,X,5,2011
+11X509,11,11,High School of Language and Innovation,X415,0.044,0.803,0.94,High school,"09,10,11,12",-73.860729,40.860443,X,5,2011
+11X513,11,11,New World High School,X362,0.068,0.668,0.945,High school,"09,10,11,12,SE",-73.852714,40.888242,X,3,2004
+11X514,11,11,The Bronxwood Preparatory Academy,X362,0.249,0.059,0.76,High school,"09,10,11,12,SE",-73.852714,40.888242,X,3,2004
+11X529,11,11,One World Middle School at Edenwald,X142,0.252,0.046,0.869,Junior High-Intermediate-Middle,"06,07,08,SE",-73.839682,40.886002,X,3,2011
+11X532,11,11,Baychester Middle School,X142,0.215,0.076,0.858,Junior High-Intermediate-Middle,"06,07,08,SE",-73.839682,40.886002,X,3,2011
+11X534,11,11,District 11 Pre-K Center,X311,0.063,0,0.746,,,,,X,2,
+11X534,11,11,District 11 Pre-K Center, X314,0.063,0,0.746,,,,,X,1,
+11X542,11,11,Pelham Preparatory Academy,X415,0.248,0.063,0.754,High school,"09,10,11,12,SE",-73.860729,40.860443,X,5,2003
+11X544,11,11,High School for Contemporary Arts,X425,0.246,0.174,0.851,High school,"09,10,11,12,SE",-73.861649,40.875172,X,6,2003
+11X545,11,11,Bronx Aerospace High School,X425,0.251,0.19,0.84,High school,"09,10,11,12,SE",-73.861649,40.875172,X,6,2003
+11X556,11,11,Bronx Park Middle School,X135,0.184,0.216,0.897,Junior High-Intermediate-Middle,"06,07,08,SE",-73.865028,40.862098,X,3,2012
+11X566,11,11,Pelham Gardens Middle School,X144,0.262,0.067,0.805,Junior High-Intermediate-Middle,"06,07,08,SE",-73.836525,40.863842,X,3,2012
+11X567,11,11,Linden Tree Elementary School,X127,0.245,0.278,0.83,Elementary,"PK,0K,01,02,03,04,05,SE",-73.853203,40.838759,X,2,2012
+12X006,12,12,P.S. 006 West Farms,X006,0.232,0.118,0.971,Elementary,"PK,0K,01,02,03,04,05,SE",-73.882531,40.840445,X,2,1904
+12X044,12,12,P.S. 044 David C. Farragut,X044,0.163,0.208,0.981,Elementary,"PK,0K,01,02,03,04,05,SE",-73.891086,40.842564,X,2,1911
+12X057,12,12,P.S. 057 Crescent,X057,0.239,0.184,0.91,Elementary,"PK,0K,01,02,03,04,05,SE",-73.888987,40.848748,X,2,1921
+12X061,12,12,P.S. 061 Francisco Oller,X061,0.205,0.129,0.958,Elementary,"PK,0K,01,02,03,04,05,SE",-73.892784,40.836156,X,2,1922
+12X066,12,12,P.S. 066 School of Higher Expectations,X066,0.215,0.113,0.918,Elementary,"PK,0K,01,02,03,04,05,SE",-73.88654,40.831493,X,2,1924
+12X098,12,12,J.H.S. 098 Herman Ridder,X098,0.231,0.39,0.924,Junior High-Intermediate-Middle,"06,07,08,SE",-73.890591,40.836245,X,3,1931
+12X129,12,12,M.S. 129 Academy for Independent Learning and Leadership,X129,0.263,0.125,0.963,Junior High-Intermediate-Middle,"06,07,08,SE",-73.886721,40.846128,X,3,1971
+12X190,12,12,E.S.M.T- I.S. 190,X061,0.191,0.125,0.941,Junior High-Intermediate-Middle,"06,07,08,SE",-73.892784,40.836156,X,2,2001
+12X195,12,12,P.S. 195,X077,0.225,0.322,0.901,Elementary,"PK,0K,01,02,03,04,05,SE",-73.877305,40.830811,X,2,1999
+12X196,12,12,P.S. 196,X077,0.218,0.324,0.871,Elementary,"PK,0K,01,02,03,04,05,SE",-73.877305,40.830811,X,2,1999
+12X211,12,12,P.S. 211,X193,0.217,0.133,0.904,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.890145,40.843705,X,3,1990
+12X212,12,12,P.S. 212,X198,0.155,0.23,0.969,K-8,"PK,0K,01,02,03,04,05,SE",-73.900121,40.828406,X,3,1999
+12X214,12,12,P.S. 214,X167,0.195,0.153,0.957,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.879931,40.839297,X,2,1999
+12X217,12,12,School of Performing Arts,X116,0.353,0.166,0.948,Junior High-Intermediate-Middle,"06,07,08,SE",-73.894368,40.822056,X,3,2001
+12X242,12,12,Mott Hall V,X423,0.296,0.128,0.891,Secondary School,"06,07,08,09,10,11,12,SE",-73.878191,40.832508,X,2,2005
+12X251,12,12,Explorations Academy H.S.,X098,0.261,0.229,0.882,High school,"09,10,11,12,SE",-73.890591,40.836245,X,3,2005
+12X267,12,12,Bronx Latin,X158,0.26,0.104,0.955,Secondary School,"05,06,07,08,09,10,11,12,SE",-73.900593,40.826933,X,3,2004
+12X273,12,12,Frederick Douglass Academy V. Middle School,X057,0.313,0.159,0.923,Junior High-Intermediate-Middle,"06,07,08,SE",-73.888987,40.848748,X,2,2004
+12X286,12,12,Fannie Lou Hamer Middle School,X066,0.225,0.173,0.863,Junior High-Intermediate-Middle,"06,07,08,SE",-73.88654,40.831493,X,2,2005
+12X300,12,12,The School of Science and Applied Learning,X129,0.311,0.12,0.936,Elementary,"PK,0K,01,02,03,04,05,SE",-73.886721,40.846128,X,3,2005
+12X314,12,12,Fairmont Neighborhood School,X050,0.312,0.125,0.946,Elementary,"PK,0K,01,02,03,04,05,SE",-73.886995,40.834188,X,2,2013
+12X316,12,12,Kappa III,X129,0.273,0.094,0.906,Junior High-Intermediate-Middle,"06,07,08,SE",-73.886721,40.846128,X,3,2004
+12X318,12,12,"I.S. X318 Math, Science & Technology Through Arts",X193,0.305,0.159,0.956,Junior High-Intermediate-Middle,"06,07,08,SE",-73.890145,40.843705,X,3,2000
+12X341,12,12,Accion Academy,X116,0.263,0.263,0.969,Junior High-Intermediate-Middle,"06,07,08,SE",-73.894368,40.822056,X,3,2004
+12X383,12,12,Emolior Academy,X167,0.241,0.203,0.914,Junior High-Intermediate-Middle,"06,07,08,SE",-73.879931,40.839297,X,2,2008
+12X388,12,12,Pan American International High School at Monroe,X420,0.014,0.869,0.955,High school,"09,10,11,12",-73.878191,40.832508,X,4,2008
+12X446,12,12,Arturo A. Schomburg Satellite Academy Bronx,X401,0.28,0.126,0.886,High school,"10,11,12",-73.898265,40.823124,X,3,2010
+12X458,12,12,Samara Community School,X050,0.226,0.157,0.955,Elementary,"PK,0K,01,02,03,04,05,SE",-73.886995,40.834188,X,2,2014
+12X463,12,12,Urban Scholars Community School,X198,0.267,0.144,0.969,Elementary,"PK,0K,01,02,03,04,05,SE",-73.900121,40.828406,X,3,2009
+12X478,12,12,The Cinema School,X423,0.206,0.048,0.845,High school,"09,10,11,12,SE",-73.878191,40.832508,X,2,2009
+12X479,12,12,Bronx Career and College Preparatory High School,X158,0.313,0.182,0.898,High school,"09,10,11,12,SE",-73.900593,40.826933,X,3,2009
+12X480,12,12,Bronx Regional High School,X401,0.213,0.093,0.858,High school,"10,11,12",-73.898265,40.823124,X,3,1996
+12X511,12,12,Bronx Envision Academy,X098,0.282,0.148,0.863,High school,"09,10,11,12,SE",-73.890591,40.836245,X,3,2011
+12X521,12,12,The Metropolitan Soundview High School,X420,0.242,0.142,0.931,High school,"09,10,11,12,SE",-73.878191,40.832508,X,4,2011
+12X531,12,12,Archer Elementary School,X102,0.297,0.247,0.959,Elementary,"PK,0K,01,02,03,04,05,SE",-73.866038,40.838151,X,3,2011
+12X536,12,12,P.S. 536,X102,0.185,0.2,0.926,Elementary,"PK,0K,01,02,03,04,05,SE",-73.866038,40.838151,X,3,2011
+12X550,12,12,High School of World Cultures,X420,0.036,0.808,0.976,High school,"09,10,11,12,SE",-73.878191,40.832508,X,4,1996
+12X595,12,12,P.S. 595,X092,0.215,0.194,0.921,Elementary,"PK,0K,01,02,03,SE",-73.889602,40.846205,X,1,2018
+12X691,12,12,Bronx Little School,X102,0.217,0.164,0.887,Elementary,"PK,0K,01,02,03,04,05,SE",-73.866038,40.838151,X,3,1999
+13K020,13,13,P.S. 020 Clinton Hill,K020,0.158,0.048,0.534,Elementary,"PK,0K,01,02,03,04,05,SE",-73.970896,40.690742,K,2,1951
+13K044,13,13,P.S. 044 Marcus Garvey,K044,0.234,0.048,0.944,Elementary,"PK,0K,01,02,03,04,05,SE",-73.940859,40.686213,K,2,1951
+13K046,13,13,P.S. 046 Edward C. Blum,K046,0.283,0.131,0.837,Elementary,"PK,0K,01,02,03,04,05,06,SE",-73.971644,40.69453,K,2,1960
+13K054,13,13,P.S. 054 Samuel C. Barnes,K054,0.188,0.064,0.856,Elementary,"PK,0K,01,02,03,04,05,SE",-73.952504,40.692616,K,1,1922
+13K056,13,13,P.S. 056 Lewis H. Latimer,K056,0.225,0.061,0.543,Elementary,"PK,0K,01,02,03,04,05,SE",-73.960536,40.684286,K,3,1966
+13K067,13,13,P.S. 067 Charles A. Dorsey,K067,0.32,0.095,0.986,Elementary,"PK,0K,01,02,03,04,05,06,SE",-73.977674,40.695339,K,2,1923
+13K093,13,13,P.S. 093 William H. Prescott,K093,0.27,0.114,0.962,Elementary,"PK,0K,01,02,03,04,05,SE",-73.946381,40.679079,K,2,1909
+13K113,13,13,M.S. 113 Ronald Edmonds Learning Center,K113,0.3,0.036,0.898,Junior High-Intermediate-Middle,"06,07,08,SE",-73.971474,40.688769,K,3,1962
+13K133,13,13,P.S. 133 William A. Butler,K317,0.161,0.059,0.35,Elementary,"PK,0K,01,02,03,04,05,SE",-73.980455,40.679916,K,1,1900
+13K256,13,13,P.S. 256 Benjamin Banneker,K256,0.173,0.136,0.949,Elementary,"PK,0K,01,02,03,04,05,SE",-73.94961,40.690595,K,2,1959
+13K265,13,13,Dr. Susan S. McKinney Secondary School of the Arts,K265,0.299,0.03,0.85,Secondary School,"06,07,08,09,10,11,12,SE",-73.976104,40.697177,K,2,1958
+13K266,13,13,M.S. K266 - Park Place Community Middle School,K902,0.307,0.036,0.747,Junior High-Intermediate-Middle,"06,07,08,SE",-73.976648,40.678809,K,1,2000
+13K270,13,13,P.S. 270 Johann DeKalb,K270,0.277,0.106,0.947,Elementary,"PK,0K,01,02,03,04,05,06,SE",-73.961134,40.691275,K,1,1959
+13K287,13,13,P.S. 287 Bailey K. Ashford,K287,0.214,0.068,0.932,Elementary,"PK,0K,01,02,03,04,05,SE",-73.98112,40.697856,K,1,1953
+13K301,13,13,Satellite East Middle School,K093,0.307,0.148,0.955,Junior High-Intermediate-Middle,"06,07,08,SE",-73.946381,40.679079,K,2,2002
+13K313,13,13,Dock Street School for STEAM Studies,K611,0.187,0.004,0.644,Junior High-Intermediate-Middle,"06,07,08,SE",-73.992076,40.702952,K,2,1999
+13K350,13,13,Urban Assembly School of Music and Art,K805,0.249,0.036,0.829,High school,"09,10,11,12,SE",-73.984528,40.69733,K,3,2005
+13K351,13,13,The Urban Assembly Unison School,K056,0.343,0.087,0.884,Junior High-Intermediate-Middle,"06,07,08,SE",-73.960536,40.684286,K,3,2012
+13K412,13,13,Brooklyn Community Arts & Media High School (BCAM),K117,0.266,0.035,0.9,High school,"09,10,11,12,SE",-73.95818,40.692015,K,2,2006
+13K419,13,13,"Science Skills Center High School for Science, Technology and the Creative Arts",K805,0.117,0.03,0.807,High school,"09,10,11,12,SE",-73.984528,40.69733,K,3,1996
+13K439,13,13,Brooklyn International High School,K805,0.027,0.817,0.825,High school,"09,10,11,12",-73.984528,40.69733,K,3,1999
+13K483,13,13,The Urban Assembly School for Law and Justice,K313,0.162,0.022,0.755,High school,"09,10,11,12,SE",-73.988323,40.694629,K,2,2004
+13K492,13,13,Academy of Arts and Letters,K020,0.205,0.006,0.22,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.970896,40.690742,K,2,2006
+13K499,13,17,ACORN Community High School,K909,0.34,0.029,0.854,High school,"09,10,11,12,SE",-73.961636,40.678591,K,2,1996
+13K527,13,13,Urban Assembly Institute of Math and Science for Young Women,K313,0.173,0.067,0.857,Secondary School,"06,07,08,09,10,11,12,SE",-73.988323,40.694629,K,2,2006
+13K553,13,13,Brooklyn Academy High School,K458,0.315,0.014,0.863,High school,"10,11,12",-73.947873,40.684654,K,2,2003
+13K594,13,17,Gotham Professional Arts Academy,K909,0.316,0.02,0.803,High school,"09,10,11,12,SE",-73.961636,40.678591,K,2,2007
+13K605,13,13,George Westinghouse Career and Technical Education High School,K580,0.195,0.037,0.788,High school,"08,09,10,11,12,SE",-73.986105,40.695444,K,3,1996
+13K616,13,13,Brooklyn High School for Leadership and Community Service,K117,0.243,0.023,0.842,High school,"09,10,11,12,SE",-73.95818,40.692015,K,2,2008
+13K674,13,13,"City Polytechnic High School of Engineering, Architecture, and Technology",K580,0.18,0.025,0.776,High school,"09,10,11,12,SE",-73.986105,40.695444,K,3,2009
+13K691,13,13,Fort Greene Preparatory Academy,K046,0.316,0.057,0.919,Junior High-Intermediate-Middle,"06,07,08,SE",-73.971644,40.69453,K,2,2010
+13K869,13,,District 13 PRE-K Center,K611,0.069,0,0.056,,,,,K,2,
+13K915,13,13,I.S. 915,K580,0.194,0.022,0.367,Junior High-Intermediate-Middle,"06,07,08,SE",-73.986105,40.695444,K,3,2019
+14K016,14,14,P.S. 016 Leonard Dunkly,K016,0.316,0.057,0.912,Elementary,"PK,0K,01,02,03,04,05,SE",-73.962049,40.706069,K,2,1918
+14K017,14,14,P.S. 017 Henry D. Woodworth,K017,0.313,0.163,0.7,Elementary,"PK,0K,01,02,03,04,05,SE",-73.9573,40.715268,K,2,1921
+14K023,14,14,P.S. 023 Carter G. Woodson,K023,0.346,0.085,0.915,Elementary,"PK,0K,01,02,03,04,05,SE",-73.947256,40.69447,K,2,1966
+14K050,14,14,J.H.S. 050 John D. Wells,K050,0.304,0.132,0.929,Junior High-Intermediate-Middle,"06,07,08,SE",-73.960137,40.711915,K,2,1915
+14K059,14,14,P.S. 059 William Floyd,K059,0.317,0.098,0.874,Elementary,"PK,0K,01,02,03,04,05,SE",-73.943279,40.697619,K,2,1956
+14K071,14,14,Juan Morel Campos Secondary School,K071,0.322,0.251,0.857,Secondary School,"06,07,08,09,10,11,12,SE",-73.953304,40.703996,K,2,1970
+14K120,14,14,P.S. 120 Carlos Tapia,K120,0.209,0.182,0.878,Elementary,"PK,0K,01,02,03,04,05,SE",-73.937888,40.700819,K,1,1965
+14K126,14,14,John Ericsson Middle School 126,K126,0.302,0.088,0.851,Junior High-Intermediate-Middle,"06,07,08,SE",-73.947932,40.719818,K,2,1966
+14K147,14,14,P.S. 147 Isaac Remsen,K147,0.193,0.087,0.642,Elementary,"PK,0K,01,02,03,04,05,SE",-73.93879,40.705005,K,2,1906
+14K196,14,14,P.S. 196 Ten Eyck,K196,0.23,0.107,0.832,Elementary,"PK,0K,01,02,03,04,05,SE",-73.939385,40.708804,K,2,1924
+14K297,14,14,P.S. 297 Abraham Stockton,K297,0.237,0.155,0.884,Elementary,"PK,0K,01,02,03,04,05,SE",-73.948166,40.697377,K,1,1959
+14K380,14,14,P.S. 380 John Wayne Elementary,K380,0.292,0.199,0.824,Elementary,"PK,0K,01,02,03,04,05,SE",-73.953702,40.70179,K,1,1981
+14K449,14,14,"Brooklyn Latin School, The",K049,0.029,0.001,0.581,High school,"09,10,11,12",-73.944463,40.709765,K,3,2006
+14K454,14,14,The Williamsburg High School of Art and Technology,K049,0.242,0.139,0.848,High school,"09,10,11,12,SE",-73.944463,40.709765,K,3,2006
+14K474,14,14,PROGRESS High School for Professional Careers,K450,0.221,0.218,0.899,High school,"09,10,11,12,SE",-73.938921,40.711134,K,3,1999
+14K477,14,14,East Williamsburg Scholars Academy,K450,0.155,0.337,0.918,High school,"09,10,11,12,SE",-73.938921,40.711134,K,3,1999
+14K478,14,14,"The High School for Enterprise, Business and Technology",K450,0.17,0.13,0.898,High school,"09,10,11,12,SE",-73.938921,40.711134,K,3,1996
+14K488,14,14,Brooklyn Preparatory High School,K650,0.169,0.028,0.853,High school,"09,10,11,12,SE",-73.954815,40.715561,K,3,2004
+14K558,14,14,Williamsburg High School for Architecture and Design,K650,0.228,0.027,0.802,High school,"09,10,11,12,SE",-73.954815,40.715561,K,3,2004
+14K561,14,14,Williamsburg Preparatory School,K650,0.198,0.032,0.775,High school,"09,10,11,12,SE",-73.954815,40.715561,K,3,2004
+14K577,14,14,Conselyea Preparatory School,K017,0.202,0.034,0.555,Junior High-Intermediate-Middle,"06,07,08,SE",-73.9573,40.715268,K,2,2004
+14K582,14,14,M.S. 582,K196,0.322,0.116,0.836,Junior High-Intermediate-Middle,"06,07,08,SE",-73.939385,40.708804,K,2,2004
+14K586,14,14,Lyons Community School,K049,0.269,0.086,0.914,Secondary School,"06,07,08,09,10,11,12,SE",-73.944463,40.709765,K,3,2007
+14K614,14,14,Young Women's Leadership School of Brooklyn,K147,0.221,0.075,0.803,Secondary School,"06,07,08,09,10,11,12,SE",-73.93879,40.705005,K,2,2008
+15K088,15,15,J.H.S. 088 Peter Rouget,K088,0.23,0.119,0.721,Junior High-Intermediate-Middle,"06,07,08,SE",-73.988743,40.660805,K,2,1967
+15K136,15,15,I.S. 136 Charles O. Dewey,K136,0.25,0.358,0.941,Junior High-Intermediate-Middle,"06,07,08,SE",-74.007596,40.652127,K,2,1901
+15K146,15,15,"The Brooklyn New School, P.S. 146",K142,0.294,0.039,0.335,Elementary,"PK,0K,01,02,03,04,05,SE",-74.002022,40.679462,K,2,1992
+15K295,15,15,P.S. 295,K845,0.301,0.08,0.369,Elementary,"PK,0K,01,02,03,04,05,06,SE",-73.988743,40.660805,K,2,1996
+15K429,15,15,Digital Arts and Cinema Technology High School,K293,0.218,0.011,0.814,Secondary School,"09,10,11,12,SE",-73.993293,40.685006,K,3,1996
+15K442,15,15,M.S. 442 Carroll Gardens School for Innovation,K280,0.301,0.018,0.301,Junior High-Intermediate-Middle,"06,07,08,SE",-73.983116,40.656952,K,2,2003
+15K443,15,15,New Voices School of Academic & Creative Arts,K845,0.201,0.031,0.4,Junior High-Intermediate-Middle,"06,07,08,SE",-73.988743,40.660805,K,2,2003
+15K447,15,15,The Math & Science Exploratory School,K655,0.27,0.022,0.339,Junior High-Intermediate-Middle,"06,07,08,SE",-73.980266,40.683951,K,2,2003
+15K448,15,15,Brooklyn Collaborative Studies,K142,0.289,0.048,0.645,Secondary School,"06,07,08,09,10,11,12,SE",-74.002022,40.679462,K,2,2003
+15K462,15,15,John Jay School for Law,K460,0.191,0.039,0.781,High school,"09,10,11,12,SE",-73.97858,40.669255,K,4,2001
+15K463,15,15,Cyberarts Studio Academy,K460,0.207,0.159,0.752,High school,"09,10,11,12,SE",-73.97858,40.669255,K,4,2003
+15K464,15,15,Park Slope Collegiate,K460,0.238,0.064,0.629,Secondary School,"06,07,08,09,10,11,12,SE",-73.97858,40.669255,K,4,2003
+15K497,15,15,The Boerum Hill School for International Studies,K293,0.193,0.065,0.453,Secondary School,"06,07,08,09,10,11,12,SE",-73.993293,40.685006,K,3,2001
+15K656,15,15,Brooklyn High School of the Arts,K655,0.182,0.014,0.649,High school,"09,10,11,12,SE",-73.980266,40.683951,K,2,2000
+15K667,15,15,Sunset Park High School,K564,0.182,0.204,0.85,High school,"09,10,11,12,SE",-74.004342,40.655583,K,1,2009
+15K676,15,15,Red Hook Neighborhood School,K027,0.421,0.131,1,Elementary,"PK,0K,01,02,03,04,05,SE",-74.005151,40.677914,K,2,2009
+15K684,15,15,Millennium Brooklyn HS,K460,0.152,0.001,0.402,High school,"09,10,11,12,SE",-73.97858,40.669255,K,4,2011
+15K821,15,15,Sunset Park Prep,K136,0.249,0.21,0.903,Junior High-Intermediate-Middle,"06,07,08,SE",-74.007596,40.652127,K,2,1999
+15K839,15,15,M.S. 839,K437,0.272,0.041,0.44,Junior High-Intermediate-Middle,"06,07,08,SE",-73.973363,40.647598,K,1,2015
+15K863,15,,Pre-K Center at Bishop Ford School Site,K280,0.077,0,0.107,,,,,K,2,
+16K005,16,16,P.S. 005 Dr. Ronald McNair,K005,0.258,0.052,0.794,Elementary,"PK,0K,01,02,03,04,05,SE",-73.92197,40.685241,K,2,1966
+16K025,16,16,P.S. 025 Eubie Blake School,K025,0.149,0.189,0.932,Elementary,"PK,0K,01,02,03,04,05,SE",-73.940749,40.691472,K,2,1942
+16K026,16,16,P.S. 026 Jesse Owens,K026,0.223,0.039,0.682,Elementary,"PK,0K,01,02,03,04,05,SE",-73.9317,40.6921,K,2,1956
+16K028,16,16,P.S. 028 The Warren Prep Academy,K040,0.306,0.024,0.953,Elementary,"PK,0K,01,02,03,04,05,SE",-73.921099,40.680239,K,2,1913
+16K035,16,16,M.S. 035 Stephen Decatur,K035,0.317,0.03,0.894,Junior High-Intermediate-Middle,"06,07,08,SE",-73.935891,40.681528,K,2,1926
+16K040,16,16,P.S. 040 George W. Carver,K040,0.172,0.098,0.856,Elementary,"PK,0K,01,02,03,04,05,SE",-73.921099,40.680239,K,2,1965
+16K057,16,16,Whitelaw Reid Academy of Arts and Business,K057,0.345,0.092,0.924,Junior High-Intermediate-Middle,"06,07,08,SE",-73.932254,40.691467,K,3,1954
+16K081,16,16,P.S. 081 Thaddeus Stevens,K081,0.287,0.082,0.932,Elementary,"PK,0K,01,02,03,04,05,SE",-73.935123,40.692866,K,1,1966
+16K243,16,16,P.S. 243K- The Weeksville School,K243,0.255,0.051,0.931,Elementary,"PK,0K,01,02,03,04,05,SE",-73.935093,40.675675,K,2,1962
+16K262,16,16,P.S. 262 El Hajj Malik El Shabazz Elementary School,K262,0.181,0.025,0.9,Elementary,"PK,0K,01,02,03,04,05,SE",-73.930132,40.682949,K,2,1961
+16K267,16,16,"M.S. 267 Math, Science & Technology",K324,0.333,0.04,0.879,Junior High-Intermediate-Middle,"06,07,08,SE",-73.932066,40.68797,K,3,1999
+16K308,16,16,P.S. 308 Clara Cardwell,K308,0.27,0.02,0.918,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.935509,40.688323,K,1,1975
+16K309,16,16,P.S. 309 The George E. Wibecan Preparatory Academy,K309,0.242,0.034,0.773,Elementary,"PK,0K,01,02,03,04,05,SE",-73.924422,40.6881,K,1,1963
+16K335,16,16,P.S. 335 Granville T. Woods,K335,0.257,0.089,0.925,Elementary,"PK,0K,01,02,03,04,05,SE",-73.928673,40.674491,K,2,1968
+16K455,16,16,Boys and Girls High School,K455,0.31,0.066,0.838,High school,"09,10,11,12,SE",-73.931604,40.678478,K,3,1976
+16K627,16,16,Brighter Choice Community School,K304,0.175,0.048,0.723,Elementary,"PK,0K,01,02,03,04,05,SE",-73.941278,40.693654,K,1,2008
+16K628,16,16,Brooklyn Brownstone School,K035,0.164,0.003,0.637,Elementary,"PK,0K,01,02,03,04,05,SE",-73.935891,40.681528,K,2,2008
+16K669,16,16,Research and Service High School,K455,0.336,0.034,0.866,High school,"09,10,11,12,SE",-73.931604,40.678478,K,3,2013
+16K681,16,16,Madiba Prep Middle School,K026,0.362,0.049,0.92,Junior High-Intermediate-Middle,"06,07,08,SE",-73.9317,40.6921,K,2,2012
+16K688,16,16,The Brooklyn Academy of Global Finance,K057,0.286,0.159,0.952,High school,"09,10,11,12,SE",-73.932254,40.691467,K,3,2009
+16K765,16,16,Nelson Mandela High School,K455,0.325,0.022,0.779,High school,"09,10,11,12,SE",-73.931604,40.678478,K,3,2014
+16K898,16,16,The Brooklyn Green School,K335,0.325,0.048,0.88,Junior High-Intermediate-Middle,"06,07,SE",-73.928673,40.674491,K,2,2018
+17K002,17,17,Parkside Preparatory Academy,K002,0.22,0.151,0.854,Junior High-Intermediate-Middle,"06,07,08,SE",-73.951575,40.656423,K,3,1994
+17K012,17,23,Dr. Jacqueline Peek-Davis School,K012,0.242,0.058,0.946,Elementary,"PK,0K,01,02,03,04,05,SE",-73.920095,40.673124,K,2,1993
+17K091,17,17,P.S. 091 The Albany Avenue School,K091,0.267,0.076,0.884,Elementary,"PK,0K,01,02,03,04,05,SE",-73.940707,40.661806,K,2,1904
+17K092,17,17,P.S. 092 Adrian Hegeman,K092,0.203,0.218,0.916,Elementary,"PK,0K,01,02,03,04,05,SE",-73.95381,40.656276,K,1,1906
+17K122,17,17,Pathways in Technology Early College High School (P-Tech),K625,0.164,0.019,0.718,High school,"09,10,11,12,SE",-73.939282,40.675905,K,2,2011
+17K138,17,17,P.S. 138 Brooklyn,K138,0.204,0.05,0.905,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.951559,40.673943,K,2,1902
+17K161,17,17,P.S. 161 The Crown,K161,0.244,0.098,0.914,Elementary,"PK,0K,01,02,03,04,05,SE",-73.949243,40.665757,K,2,1923
+17K181,17,17,P.S. 181 Brooklyn,K181,0.208,0.141,0.78,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.945883,40.648217,K,1,1922
+17K191,17,17,P.S. 191 Paul Robeson,K191,0.295,0.046,0.925,Elementary,"PK,0K,01,02,03,04,05,SE",-73.924127,40.67173,K,2,1938
+17K221,17,17,P.S. 221 Toussaint L'Ouverture,K221,0.173,0.031,0.827,Elementary,"PK,0K,01,02,03,04,05,SE",-73.935753,40.663964,K,2,1940
+17K246,17,17,M.S. 246 Walt Whitman,K246,0.219,0.281,0.827,Junior High-Intermediate-Middle,"06,07,08,SE",-73.95348,40.648352,K,1,1939
+17K289,17,17,P.S. 289 George V. Brower,K289,0.291,0.082,0.845,Elementary,"PK,0K,01,02,03,04,05,SE",-73.942401,40.674244,K,1,1959
+17K316,17,17,P.S. 316 Elijah Stroud,K316,0.152,0.03,0.601,Elementary,"PK,0K,01,02,03,04,05,SE",-73.961418,40.674685,K,2,1966
+17K352,17,17,Ebbets Field Middle School,K320,0.317,0.146,0.992,Junior High-Intermediate-Middle,"06,07,08,SE",-73.959484,40.665199,K,2,2005
+17K353,17,17,Elijah Stroud Middle School,K316,0.315,0.123,0.907,Junior High-Intermediate-Middle,"05,06,07,08,SE",-73.961418,40.674685,K,2,2005
+17K354,17,17,The School of Integrated Learning,K390,0.198,0.038,0.828,Junior High-Intermediate-Middle,"06,07,08,SE",-73.937601,40.67229,K,2,2005
+17K375,17,17,P.S. 375 Jackie Robinson School,K320,0.262,0.193,0.921,Elementary,"PK,0K,01,02,03,04,05,SE",-73.959484,40.665199,K,2,2001
+17K382,17,17,Academy for College Preparation and Career Exploration: A College Board School,K465,0.171,0.121,0.847,Secondary School,"06,07,08,09,10,11,12,SE",-73.957173,40.649602,K,5,2006
+17K394,17,17,M.S. K394,K210,0.148,0.068,0.899,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.928917,40.67271,K,2,1999
+17K398,17,17,P.S. 398 Walter Weaver,K398,0.211,0.075,0.962,Elementary,"PK,0K,01,02,03,04,05,SE",-73.927979,40.663388,K,2,1977
+17K408,17,17,Academy of Hospitality and Tourism,K465,0.238,0.16,0.885,High school,"09,10,11,12",-73.957173,40.649602,K,5,2006
+17K484,17,23,Ronald Edmonds Learning Center II,K012,0.341,0.081,0.902,Junior High-Intermediate-Middle,"06,07,08,SE",-73.920095,40.673124,K,2,2006
+17K524,17,17,International High School at Prospect Heights,K440,0.041,0.841,0.816,High school,"09,10,11,12,SE",-73.960689,40.669805,K,4,2004
+17K528,17,17,The High School for Global Citizenship,K440,0.162,0.081,0.833,High school,"09,10,11,12,SE",-73.960689,40.669805,K,4,2004
+17K531,17,17,"School for Human Rights, The",K470,0.187,0.071,0.837,Secondary School,"09,10,11,12,SE",-73.943839,40.658671,K,3,2004
+17K532,17,17,New Bridges Elementary,K167,0.198,0.082,0.846,Elementary,"PK,0K,01,02,03,04,05,SE",-73.934316,40.669557,K,2,2013
+17K537,17,17,High School for Youth and Community Development at Erasmus,K465,0.245,0.077,0.725,High school,"09,10,11,12,SE",-73.957173,40.649602,K,5,2004
+17K539,17,17,High School for Service & Learning at Erasmus,K465,0.204,0.14,0.816,High school,"09,10,11,12,SE",-73.957173,40.649602,K,5,2004
+17K543,17,17,"Science, Technology and Research Early College High School at Erasmus",K465,0.141,0.011,0.704,Secondary School,"06,07,08,09,10,11,12",-73.957173,40.649602,K,5,2003
+19K224,19,19,P.S. 224 Hale A. Woodruff,K224,0.244,0.09,0.928,Elementary,"PK,0K,01,02,03,04,05,SE",-73.866542,40.664143,K,1,1930
+17K546,17,17,High School for Public Service: Heroes of Tomorrow,K470,0.185,0.011,0.785,High school,"09,10,11,12,SE",-73.943839,40.658671,K,3,2003
+17K547,17,17,Brooklyn Academy of Science and the Environment,K440,0.164,0.061,0.781,High school,"09,10,11,12,SE",-73.960689,40.669805,K,4,2003
+17K548,17,17,Brooklyn School for Music & Theatre,K440,0.209,0.025,0.831,High school,"08,09,10,11,12,SE",-73.960689,40.669805,K,4,2003
+17K568,17,17,Brownsville Academy High School,K907,0.27,0.018,0.847,High school,"10,11,12,SE",-73.923881,40.666251,K,2,2004
+17K600,17,17,Clara Barton High School,K600,0.172,0.07,0.708,High school,"09,10,11,12,SE",-73.960689,40.669805,K,1,1940
+17K646,17,17,Aspirations Diploma Plus High School,K824,0.26,0.025,0.815,High school,"09,10,11,12,SE",-73.955188,40.669561,K,2,2008
+17K705,17,17,Brooklyn Arts and Science Elementary School,K022,0.231,0.121,0.682,Elementary,"PK,0K,01,02,03,04,05,SE",-73.960093,40.6771,K,2,2012
+17K722,17,17,New Heights Middle School,K391,0.294,0.065,0.831,Junior High-Intermediate-Middle,"06,07,08,SE",-73.936313,40.662092,K,2,2012
+17K745,17,17,Brooklyn Institute for Liberal Arts,K470,0.21,0.039,0.857,High school,"08,09,10,11,12,SE",-73.943839,40.658671,K,3,2012
+17K751,17,17,Academy for Health Careers,K625,0.148,0.036,0.884,High school,"09,10,11,12,SE",-73.939282,40.675905,K,2,2010
+17K770,17,17,P.S. 770 New American Academy,K398,0.153,0.017,0.462,Elementary,"PK,0K,01,02,03,04,05,SE",-73.927979,40.663388,K,2,2010
+18K066,18,18,P.S. 66,K066,0.142,0.042,0.717,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.907064,40.648749,K,1,2003
+18K068,18,18,I.S. 068 Isaac Bildersee,K068,0.297,0.247,0.849,Junior High-Intermediate-Middle,"06,07,08,SE",-73.911215,40.635388,K,2,1964
+18K114,18,18,P.S. 114 Ryder Elementary,K114,0.211,0.124,0.775,Elementary,"PK,0K,01,02,03,04,05,SE",-73.90788,40.642684,K,1,1907
+18K211,18,18,I.S. 211 John Wilson,K211,0.289,0.108,0.801,Junior High-Intermediate-Middle,"06,07,08,SE",-73.895224,40.642931,K,2,1958
+18K233,18,18,P.S. 233 Langston Hughes,K233,0.199,0.024,0.831,Elementary,"PK,0K,01,02,03,04,05,SE",-73.914282,40.651642,K,2,1930
+18K244,18,18,P.S. 244 Richard R. Green,K244,0.248,0.035,0.859,Elementary,"PK,0K,01,02,03,04,05,SE",-73.925592,40.647851,K,2,1939
+18K279,18,18,P.S. 279 Herman Schreiber,K279,0.152,0.046,0.796,Elementary,"PK,0K,01,02,03,04,05,SE",-73.892797,40.644134,K,1,1959
+18K563,18,18,It Takes a Village Academy,K415,0.163,0.166,0.703,High school,"09,10,11,12,SE",-73.922212,40.647728,K,3,2007
+18K566,18,18,Brooklyn Community High School for Excellence and Equity,K515,0.216,0.123,0.745,High school,"09,10,11,12,SE",-73.916927,40.634451,K,5,2007
+18K567,18,18,Brooklyn Theatre Arts High School,K515,0.204,0.027,0.822,High school,"09,10,11,12,SE",-73.916927,40.634451,K,5,2007
+18K569,18,18,Kurt Hahn Expeditionary Learning School,K415,0.305,0.062,0.811,High school,"09,10,11,12,SE",-73.922212,40.647728,K,3,2007
+18K576,18,18,Victory Collegiate High School,K515,0.212,0.059,0.779,High school,"09,10,11,12,SE",-73.916927,40.634451,K,5,2007
+18K578,18,18,Brooklyn Bridge Academy,K515,0.31,0.095,0.804,High school,"09,10,11,12,SE",-73.916927,40.634451,K,5,2007
+18K581,18,18,"The Middle School of Media, Law and Fine Arts",K232,0.244,0.094,0.829,Junior High-Intermediate-Middle,"06,07,08,SE",-73.928744,40.659088,K,2,2007
+18K588,18,18,Middle School for Art and Philosophy,K252,0.352,0.067,0.861,Junior High-Intermediate-Middle,"06,07,08,SE",-73.919818,40.657712,K,1,2007
+18K617,18,18,High School for Innovation in Advertising and Media,K500,0.236,0.053,0.779,High school,"09,10,11,12,SE",-73.898601,40.640543,K,4,2008
+18K629,18,18,Cultural Academy for the Arts and Sciences,K415,0.215,0.084,0.781,High school,"09,10,11,12,SE",-73.922212,40.647728,K,3,2008
+18K633,18,18,High School for Medical Professions,K500,0.145,0.053,0.85,High school,"09,10,11,12,SE",-73.898601,40.640543,K,4,2008
+18K635,18,19,Olympus Academy,K242,0.251,0.021,0.832,High school,"09,10,11,12",-73.898607,40.645965,K,1,2008
+18K637,18,18,Academy for Conservation and the Environment,K515,0.19,0.105,0.791,High school,"09,10,11,12,SE",-73.916927,40.634451,K,5,2008
+18K642,18,18,Urban Action Academy,K500,0.191,0.191,0.914,High school,"09,10,11,12,SE",-73.898601,40.640543,K,4,2008
+18K763,18,18,Brooklyn Science and Engineering Academy,K244,0.198,0.02,0.737,Junior High-Intermediate-Middle,"06,07,08,SE",-73.925592,40.647851,K,2,2014
+19K013,19,19,P.S. 013 Roberto Clemente,K013,0.242,0.089,0.926,Elementary,"PK,0K,01,02,03,04,05,SE",-73.893328,40.664067,K,2,1975
+19K065,19,19,P.S. 065,K798,0.117,0.223,0.838,Elementary,"PK,0K,01,02,03,04,05,SE",-73.878353,40.686534,K,1,1873
+19K171,19,19,I.S. 171 Abraham Lincoln,K171,0.179,0.294,0.93,Junior High-Intermediate-Middle,"06,07,08,SE",-73.869434,40.685852,K,2,1912
+19K190,19,19,P.S. 190 Sheffield,K190,0.174,0.058,0.942,Elementary,"PK,0K,01,02,03,04,05,SE",-73.894877,40.662243,K,2,1924
+19K202,19,19,P.S. 202 Ernest S. Jenkyns,K202,0.25,0.108,0.932,Elementary,"PK,0K,01,02,03,04,05,SE",-73.876084,40.665817,K,2,1925
+19K213,19,19,P.S. 213 New Lots,K213,0.178,0.085,0.9,Elementary,"PK,0K,01,02,03,04,05,SE",-73.889968,40.659845,K,1,1939
+19K218,19,19,J.H.S. 218 James P. Sinnott,K218,0.272,0.254,0.937,Junior High-Intermediate-Middle,"06,07,08,SE",-73.874537,40.67002,K,2,1964
+19K273,19,19,P.S. 273 Wortman,K273,0.225,0.03,0.827,Elementary,"PK,0K,01,02,03,04,05,SE",-73.879276,40.6585,K,1,1952
+19K292,19,19,J.H.S. 292 Margaret S. Douglas,K292,0.249,0.118,0.951,Junior High-Intermediate-Middle,"06,07,08,SE",-73.893319,40.671601,K,2,1967
+19K306,19,19,P.S. 306 Ethan Allen,K306,0.242,0.013,0.916,Elementary,"PK,0K,01,02,03,04,05,SE",-73.88662,40.65534,K,1,1965
+19K328,19,19,P.S. 328 Phyllis Wheatley,K328,0.223,0.107,0.99,Elementary,"PK,0K,01,02,03,04,05,SE",-73.898249,40.667985,K,2,1967
+19K346,19,19,P.S. 346 Abe Stark,K346,0.246,0.009,0.848,Elementary,"PK,0K,01,02,03,04,05,SE",-73.881997,40.64664,K,2,1977
+19K404,19,19,Academy for Young Writers,K422,0.247,0.03,0.858,Secondary School,"06,07,08,09,10,11,12,SE",-73.874064,40.657266,K,2,2006
+19K409,19,19,East New York Family Academy,K660,0.223,0.031,0.845,Secondary School,"06,07,08,09,10,11,12,SE",-73.895976,40.673766,K,2,1999
+19K422,19,19,Spring Creek Community School,K422,0.238,0.025,0.853,Secondary School,"06,07,08,09,10,11,12,SE",-73.874064,40.657266,K,2,2012
+19K452,19,19,Frederick Douglass Academy VIII Middle School,K346,0.186,0.023,0.948,Junior High-Intermediate-Middle,"06,07,08,SE",-73.881997,40.64664,K,2,2006
+19K502,19,19,FDNY - Captain Vernon A. Richard High School for Fire and Life Safety,K435,0.323,0.03,0.836,High school,"09,10,11,12,SE",-73.895122,40.666868,K,4,2004
+19K504,19,19,High School for Civil Rights,K435,0.305,0.15,0.807,High school,"08,09,10,11,12,SE",-73.895122,40.666868,K,4,2004
+19K507,19,19,Performing Arts and Technology High School,K435,0.232,0.174,0.879,High school,"09,10,11,12,SE",-73.895122,40.666868,K,4,2004
+19K510,19,19,World Academy for Total Community Health High School,K435,0.216,0.146,0.93,High school,"09,10,11,12,SE",-73.895122,40.666868,K,4,2004
+19K557,19,19,Brooklyn Gardens Elementary School,K174,0.256,0.058,0.919,Elementary,"PK,0K,01,02,03,04,05,SE",-73.897604,40.665446,K,2,2013
+19K583,19,19,Multicultural High School,K420,0.007,0.86,0.896,High school,"09,10,11,12",-73.869305,40.693002,K,5,2007
+19K618,19,19,Academy of Innovative Technology,K420,0.227,0.092,0.84,High school,"09,10,11,12,SE",-73.869305,40.693002,K,5,2008
+19K639,19,19,Brooklyn Lab School,K420,0.197,0.291,0.863,High school,"09,10,11,12,SE",-73.869305,40.693002,K,5,2008
+19K654,19,19,Van Siclen Community Middle School,K166,0.355,0.086,0.959,Junior High-Intermediate-Middle,"06,07,08,SE",-73.885704,40.659934,K,3,2013
+19K659,19,19,Cypress Hills Collegiate Preparatory School,K420,0.19,0.175,0.917,High school,"09,10,11,12,SE",-73.869305,40.693002,K,5,2008
+19K660,19,19,W. H. Maxwell Career and Technical Education High School,K660,0.351,0.119,0.937,High school,"09,10,11,12,SE",-73.895976,40.673766,K,2,1913
+19K661,19,19,Vista Academy,K302,0.207,0.091,0.954,Junior High-Intermediate-Middle,"06,07,08,SE",-73.884211,40.677112,K,2,2013
+19K662,19,19,Liberty Avenue Middle School,K302,0.22,0.175,0.967,Junior High-Intermediate-Middle,"06,07,08,SE",-73.884211,40.677112,K,2,2013
+19K663,19,19,School of the Future Brooklyn,K174,0.355,0.151,0.953,Junior High-Intermediate-Middle,"06,07,08,SE",-73.897604,40.665446,K,2,2013
+19K677,19,19,East New York Elementary School of Excellence,K072,0.198,0.132,0.93,Elementary,"PK,0K,01,02,03,04,05,SE",-73.879131,40.669358,K,2,2009
+19K678,19,19,East New York Middle School of Excellence,K072,0.277,0.115,0.965,Junior High-Intermediate-Middle,"06,07,08,SE",-73.879131,40.669358,K,2,2009
+19K683,19,19,School for Classics High School,K218,0.201,0.28,0.871,High school,"09,10,11,12,SE",-73.874537,40.67002,K,2,2009
+19K760,19,19,Highland Park Community School,K171,0.193,0.146,0.893,Junior High-Intermediate-Middle,"06,07,08,SE",-73.869434,40.685852,K,2,2014
+19K764,19,19,The Urban Assembly School for Collaborative Healthcare,K420,0.122,0.149,0.782,High school,"09,10,11,12,SE",-73.869305,40.693002,K,5,2014
+19K907,19,19,Legacy School of the Arts,K190,0.254,0.041,0.902,Junior High-Intermediate-Middle,"06,07,SE",-73.894877,40.662243,K,2,2018
+20K030,20,20,P.S./I.S. 30 Mary White Ovington,K331,0.207,0.191,0.804,K-8,"0K,01,02,03,04,05,06,07,08,SE",-74.02395,40.633598,K,1,1997
+20K030,20,20,P.S./I.S. 30 Mary White Ovington, K940,0.207,0.191,0.804,K-8,"0K,01,02,03,04,05,06,07,08,SE",-74.02395,40.633598,K,1,1997
+20K104,20,20,P.S./I.S. 104 The Fort Hamilton School,K104,0.152,0.114,0.598,K-8,"0K,01,02,03,04,05,06,07,08,SE",-74.028492,40.618077,K,1,1907
+20K163,20,20,P.S. 163 Bath Beach,K807,0.207,0.201,0.803,K-8,"0K,01,02,03,04,05,06,07,08,SE",-74.007469,40.606739,K,1,1909
+20K164,20,20,P.S. 164 Caesar Rodney,K164,0.187,0.144,0.834,Elementary,"PK,0K,01,02,03,04,05,SE",-73.985739,40.637101,K,2,1910
+20K180,20,20,The SEEALL Academy,K180,0.177,0.257,0.883,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.98925,40.626454,K,2,1925
+20K192,20,20,P.S. 192 - The Magnet School for Math and Science Inquiry,K192,0.22,0.26,0.836,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.97954,40.6288,K,2,1924
+20K223,20,20,J.H.S. 223 The Montauk,K223,0.161,0.252,0.959,Junior High-Intermediate-Middle,"06,07,08,SE",-73.982424,40.6351,K,2,1930
+20K264,20,20,P.S. 264 Bay Ridge Elementary School For The Arts,K264,0.223,0.139,0.644,Elementary,"0K,01,02,03,04,05,SE",-74.029444,40.621025,K,1,2010
+20K485,20,20,High School of Telecommunication Arts and Technology,K485,0.189,0.078,0.758,High school,"09,10,11,12,SE",-74.023419,40.636721,K,1,1915
+20K503,20,20,P.S. 503: The School of Discovery,K314,0.242,0.542,0.937,Elementary,"0K,01,02,03,04,05,SE",-74.019299,40.64195,K,2,2006
+20K506,20,20,P.S. 506: The School of Journalism & Technology,K314,0.232,0.297,0.947,Elementary,"0K,01,02,03,04,05,SE",-74.019299,40.64195,K,2,2006
+20K609,20,20,Urban Assembly School for Criminal Justice,K223,0.136,0.129,0.88,Secondary School,"06,07,08,09,10,11,12,SE",-73.982424,40.6351,K,2,2007
+20K682,20,21,The Academy of Talented Scholars,K237,0.255,0.165,0.458,Elementary,"0K,01,02,03,04,05,SE",-73.986678,40.606994,K,2,2009
+20K686,20,21,Brooklyn School of Inquiry,K237,0.073,0.088,0.281,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.986678,40.606994,K,2,2009
+21K096,21,21,I.S. 096 Seth Low,K096,0.192,0.265,0.759,Junior High-Intermediate-Middle,"06,07,08,SE",-73.984985,40.608135,K,2,1929
+21K100,21,21,P.S. 100 The Coney Island School,K100,0.163,0.222,0.525,Elementary,"PK,0K,01,02,03,04,05,SE",-73.97083,40.577591,K,2,1924
+21K215,21,21,P.S. 215 Morris H. Weiss,K215,0.157,0.207,0.704,Elementary,"PK,0K,01,02,03,04,05,SE",-73.970171,40.602722,K,1,1925
+21K225,21,21,P.S. K225 - The Eileen E. Zaglin,K225,0.194,0.354,0.815,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.955856,40.58026,K,1,1928
+21K238,21,21,P.S. 238 Anne Sullivan,K238,0.205,0.402,0.848,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.964586,40.608801,K,1,1931
+21K281,21,21,I.S. 281 Joseph B Cavallaro,K281,0.184,0.171,0.834,Junior High-Intermediate-Middle,"06,07,08,SE",-73.993565,40.594648,K,2,1966
+21K303,21,21,I.S. 303 Herbert S. Eisenberg,K303,0.143,0.161,0.792,Junior High-Intermediate-Middle,"06,07,08,SE",-73.972009,40.582518,K,2,1965
+21K329,21,21,P.S. 329 Surfside,K329,0.293,0.034,0.963,Elementary,"PK,0K,01,02,03,04,05,SE",-73.99577,40.574666,K,1,1974
+21K337,21,21,International High School at Lafayette,K400,0.019,0.882,0.866,High school,"09,10,11,12",-73.986313,40.593028,K,5,2005
+21K344,21,21,Rachel Carson High School for Coastal Studies,K303,0.163,0.195,0.746,High school,"09,10,11,12,SE",-73.972009,40.582518,K,2,2005
+21K348,21,21,High School of Sports Management,K400,0.227,0.167,0.732,High school,"09,10,11,12,SE",-73.986313,40.593028,K,5,2005
+21K410,21,21,Abraham Lincoln High School,K410,0.173,0.137,0.838,High school,"09,10,11,12,SE",-73.968733,40.582627,K,1,1930
+21K468,21,21,Kingsborough Early College School,K400,0.18,0.023,0.699,Secondary School,"06,07,08,09,10,11,12,SE",-73.986313,40.593028,K,5,2006
+21K525,21,21,Edward R. Murrow High School,K525,0.186,0.088,0.649,High school,"09,10,11,12,SE",-73.959141,40.619671,K,1,1974
+21K540,21,21,John Dewey High School,K540,0.132,0.181,0.814,High school,"09,10,11,12,SE",-73.981925,40.58807,K,1,1969
+21K559,21,21,Life Academy High School for Film and Music,K400,0.216,0.144,0.838,High school,"09,10,11,12,SE",-73.986313,40.593028,K,5,2007
+21K572,21,21,Leaders High School,K400,0.209,0.145,0.762,High school,"09,10,11,12,SE",-73.986313,40.593028,K,5,2007
+22K014,22,22,J.H.S. 014 Shell Bank,K014,0.223,0.227,0.889,Junior High-Intermediate-Middle,"06,07,08,SE",-73.938107,40.593232,K,3,1952
+22K078,22,22,J.H.S. 078 Roy H. Mann,K078,0.266,0.051,0.681,Junior High-Intermediate-Middle,"06,07,08,SE",-73.912914,40.620537,K,2,1964
+22K109,22,22,P.S. 109,K395,0.273,0.091,0.853,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.933099,40.635842,K,1,1995
+22K152,22,22,School of Science & Technology,K152,0.21,0.153,0.82,Elementary,"PK,0K,01,02,03,04,05,SE",-73.954269,40.632619,K,2,1907
+22K236,22,22,P.S. 236 Mill Basin,K236,0.155,0.063,0.383,Elementary,"PK,0K,01,02,03,04,05,SE",-73.912005,40.615494,K,1,1933
+22K240,22,22,Andries Hudde,K240,0.254,0.152,0.845,Junior High-Intermediate-Middle,"06,07,08,SE",-73.946836,40.623788,K,2,1951
+22K315,22,22,P.S. K315,K152,0.246,0.175,0.862,Elementary,"PK,0K,01,02,03,04,05,SE",-73.954269,40.632619,K,2,1999
+22K381,22,22,I. S. 381,K240,0.21,0.147,0.759,Junior High-Intermediate-Middle,"06,07,08,SE",-73.946836,40.623788,K,2,1999
+22K535,22,22,Leon M. Goldstein High School for the Sciences,K535,0.174,0.007,0.481,High school,"09,10,11,12,SE",-73.934449,40.578356,K,1,2002
+22K611,22,22,Origins High School,K495,0.118,0.287,0.799,High school,"09,10,11,12,SE",-73.936635,40.593157,K,4,2013
+22K630,22,22,Professional Pathways High School,K495,0.214,0.049,0.811,High school,"09,10,11,12",-73.936635,40.593157,K,4,2013
+22K889,22,15,P.S. 889,K338,0.112,0.066,0.543,Elementary,"PK,0K,01,02,SE",-73.97101,40.644861,K,2,2017
+22K890,22,15,M.S. 890,K338,0.165,0.055,0.735,Junior High-Intermediate-Middle,"06,07,08,SE",-73.97101,40.644861,K,2,2017
+23K150,23,23,P.S. 150 Christopher,K150,0.246,0.073,0.979,Elementary,"PK,0K,01,02,03,04,05,SE",-73.90514,40.668768,K,2,1907
+23K156,23,23,P.S. 156 Waverly,K356,0.206,0.016,0.894,Elementary,"PK,0K,01,02,03,04,05,SE",-73.91788,40.665553,K,2,1999
+23K178,23,23,P.S. 178 Saint Clair Mckelway,K178,0.181,0.059,0.9,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.915337,40.67538,K,1,1915
+23K284,23,23,"The Gregory Jocko Jackson School of Sports, Art, and Technology",K284,0.228,0.085,0.979,K-8,"PK,0K,01,02,03,04,05,SE",-73.907634,40.666942,K,1,1906
+23K298,23,23,P.S. 298 Dr. Betty Shabazz,K298,0.228,0.055,0.98,Elementary,"PK,0K,01,02,03,04,05,SE",-73.907718,40.671015,K,2,1960
+23K323,23,23,P.S./I.S. 323,K263,0.186,0.054,0.932,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.911279,40.666187,K,2,2000
+23K363,23,23,Brownsville Collaborative Middle School,K298,0.341,0.099,0.934,Junior High-Intermediate-Middle,"0K,06,07,08,SE",-73.907718,40.671015,K,2,2012
+23K392,23,23,I.S. 392,K356,0.178,0.009,0.834,Junior High-Intermediate-Middle,"06,07,08,SE",-73.91788,40.665553,K,2,2001
+23K401,23,23,Christopher Avenue Community School,K332,0.213,0.04,0.966,Elementary,"PK,0K,01,02,03,04,05,SE",-73.906018,40.672216,K,2,2011
+23K446,23,23,Riverdale Avenue Community School,K183,0.192,0.067,0.908,Elementary,"PK,0K,01,02,03,04,05,SE",-73.913508,40.659618,K,2,2012
+23K493,23,23,Brooklyn Collegiate: A College Board School,K055,0.243,0.062,0.8,High school,"09,10,11,12,SE",-73.912685,40.674456,K,2,2004
+23K514,23,23,Frederick Douglass Academy VII High School,K175,0.293,0.036,0.886,High school,"09,10,11,12,SE",-73.912102,40.665568,K,2,2004
+23K518,23,23,Kappa V (Knowledge and Power Preparatory Academy),K275,0.343,0.022,0.906,Junior High-Intermediate-Middle,"06,07,08,SE",-73.906662,40.655644,K,4,2004
+23K522,23,23,Mott Hall IV,K271,0.309,0,0.926,Junior High-Intermediate-Middle,"06,07,08,SE",-73.915106,40.678124,K,2,2004
+23K599,23,23,Brooklyn Landmark Elementary School,K073,0.192,0.036,0.762,Elementary,"PK,0K,01,02,03,04,05,SE",-73.910719,40.680679,K,2,2013
+23K643,23,23,Brooklyn Democracy Academy,K275,0.301,0.041,0.821,High school,"09,10,11,12,SE",-73.906662,40.655644,K,4,2008
+23K644,23,23,Eagle Academy for Young Men II,K271,0.296,0.005,0.789,Secondary School,"06,07,08,09,10,11,12,SE",-73.915106,40.678124,K,2,2008
+23K647,23,23,Metropolitan Diploma Plus High School,K275,0.361,0.058,0.911,High school,"09,10,11,12,SE",-73.906662,40.655644,K,4,2008
+23K664,23,23,Brooklyn Environmental Exploration School (BEES),K073,0.425,0.056,0.905,Junior High-Intermediate-Middle,"06,07,08,SE",-73.910719,40.680679,K,2,2013
+23K668,23,23,Riverdale Avenue Middle School,K183,0.338,0.085,0.979,Junior High-Intermediate-Middle,"06,07,08,SE",-73.913508,40.659618,K,2,2013
+23K671,23,23,Mott Hall Bridges Academy,K263,0.296,0.01,0.975,Junior High-Intermediate-Middle,"06,07,08,SE",-73.911279,40.666187,K,2,2010
+23K697,23,23,Teachers Preparatory High School,K175,0.436,0.11,0.926,Secondary School,"09,10,11,12,SE",-73.912102,40.665568,K,2,2001
+24Q005,24,24,I.S. 5 - The Walter Crowley Intermediate School,Q005,0.189,0.179,0.784,Junior High-Intermediate-Middle,"06,07,08,SE",-73.888133,40.737405,Q,2,1997
+24Q007,24,24,P.S. 007 Louis F. Simeone,Q007,0.134,0.382,0.831,Elementary,"PK,0K,01,02,03,04,05,SE",-73.882446,40.739644,Q,2,1994
+24Q007,24,24,P.S. 007 Louis F. Simeone, Q877,0.134,0.382,0.831,Elementary,"PK,0K,01,02,03,04,05,SE",-73.882446,40.739644,Q,1,1994
+24Q058,24,24,P.S. 58 - The School of Heroes,Q058,0.155,0.104,0.715,Elementary,"PK,0K,01,02,03,04,05,06,SE",-73.890638,40.728517,Q,1,2002
+24Q110,24,24,P.S. 110,Q315,0.183,0.363,0.914,Elementary,"0K,01,02,03,04,05,SE",-73.866372,40.745995,Q,1,2012
+24Q128,24,24,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",Q247,0.142,0.039,0.353,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.885974,40.715005,Q,1,1951
+24Q211,24,24,Elm Tree Elementary School,Q298,0.21,0.436,0.921,Elementary,"PK,0K,01,02,03,04,05,SE",-73.863408,40.741139,Q,1,2013
+24Q236,24,24,International High School for Health Sciences,Q455,0.034,0.777,0.911,High school,"09,10,11,12,SE",-73.874129,40.740824,Q,2,2013
+24Q239,24,24,P.S. 239,Q239,0.22,0.267,0.862,Elementary,"PK,0K,01,02,03,04,05,SE",-73.903838,40.699431,Q,1,2003
+24Q264,24,24,Academy of Finance and Enterprise,Q735,0.121,0.05,0.824,High school,"09,10,11,12,SE",-73.937004,40.744175,Q,3,2005
+24Q267,24,24,High School of Applied Communication,Q735,0.174,0.066,0.775,High school,"09,10,11,12,SE",-73.937004,40.744175,Q,3,2005
+24Q290,24,24,A.C.E. Academy for Scholars at the Geraldine Ferraro Campus,Q290,0.099,0.11,0.587,Elementary,"PK,0K,01,02,03,04,05,SE",-73.908307,40.71303,Q,1,2010
+24Q293,24,24,Civic Leadership Academy,Q744,0.169,0.067,0.805,High school,"09,10,11,12,SE",-73.871505,40.743228,Q,3,2008
+24Q296,24,24,Pan American International High School,Q744,0.016,0.769,0.744,High school,"09,10,11,12",-73.871505,40.743228,Q,3,2007
+24Q299,24,24,Bard High School Early College Queens,Q735,0.083,0.003,0.462,High school,"09,10,11,12",-73.937004,40.744175,Q,3,2008
+24Q305,24,24,Learners and Leaders,Q245,0.232,0.236,0.821,Elementary,"PK,0K,01,02,03,04,05,SE",-73.91499,40.706837,Q,2,2008
+24Q305,24,24,Learners and Leaders, Q320,0.232,0.236,0.821,Elementary,"PK,0K,01,02,03,04,05,SE",-73.91499,40.706837,Q,1,2008
+24Q307,24,24,Pioneer Academy,Q260,0.228,0.399,0.942,Elementary,"0K,01,02,03,04,05,SE",-73.865787,40.749175,Q,1,2008
+24Q311,24,24,Corona Arts & Sciences Academy,Q311,0.217,0.24,0.969,Junior High-Intermediate-Middle,"06,07,08,SE",-73.865239,40.74592,Q,1,2013
+24Q331,24,24,Mosaic Pre-K Center,Q245,0.18,0,0.715,,,,,Q,2,
+24Q331,24,24,Mosaic Pre-K Center, Q298,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q321,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q348,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q368,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q372,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q373,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q378,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q391,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q392,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q412,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q414,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q422,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q437,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q777,0.18,0,0.715,,,,,Q,2,
+24Q331,24,24,Mosaic Pre-K Center, Q855,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q906,0.18,0,0.715,,,,,Q,1,
+24Q331,24,24,Mosaic Pre-K Center, Q974,0.18,0,0.715,,,,,Q,1,
+24Q455,24,24,Newtown High School,Q455,0.147,0.238,0.769,High school,"09,10,11,12,SE",-73.874129,40.740824,Q,2,1922
+24Q485,24,24,Grover Cleveland High School,Q485,0.203,0.173,0.727,High school,"09,10,11,12,SE",-73.909202,40.711881,Q,1,1931
+24Q520,24,24,Middle College High School at LaGuardia Community College,Q520,0.166,0.012,0.748,High school,"09,10,11,12,SE",-73.933316,40.743253,Q,2,2000
+24Q530,24,24,International High School at LaGuardia Community College,Q520,0.019,0.605,0.696,High school,"09,10,11,12",-73.933316,40.743253,Q,2,1999
+24Q585,24,24,Maspeth High School,Q585,0.156,0.032,0.568,High school,"09,10,11,12",-73.887909,40.729104,Q,2,2011
+24Q744,24,24,VOYAGES Preparatory,Q744,0.133,0.038,0.792,High school,9,-73.871505,40.743228,Q,3,2008
+25Q025,25,25,I.S. 025 Adrien Block,Q025,0.15,0.126,0.603,Junior High-Intermediate-Middle,"06,07,08,SE",-73.789365,40.764884,Q,3,1970
+25Q130,25,26,P.S. 130,Q130,0.171,0.129,0.479,Elementary,"PK,0K,01,02,03,04,05,SE",-73.784009,40.760219,Q,1,1925
+25Q154,25,25,P.S. 154 Queens,Q154,0.179,0.184,0.793,Elementary,"PK,0K,01,02,03,04,05,SE",-73.80775,40.726473,Q,1,1930
+25Q169,25,25,P.S. 169 Bay Terrace,Q169,0.174,0.081,0.338,Elementary,"0K,01,02,03,04,05,SE",-73.77843,40.782331,Q,2,1957
+25Q189,25,25,J.H.S. 189 Daniel Carter Beard,Q189,0.185,0.22,0.85,Junior High-Intermediate-Middle,"06,07,08,SE",-73.818399,40.759963,Q,2,1957
+25Q209,25,25,P.S. 209 Clearview Gardens,Q209,0.159,0.105,0.38,Elementary,"PK,0K,01,02,03,04,05,SE",-73.795845,40.783777,Q,1,1956
+25Q237,25,25,I.S. 237,Q237,0.125,0.212,0.79,Junior High-Intermediate-Middle,"06,07,08,SE",-73.821402,40.74943,Q,2,1971
+25Q240,25,25,Veritas Academy,Q460,0.184,0.097,0.752,High school,"09,10,11,12,SE",-73.826811,40.764892,Q,3,2013
+25Q241,25,25,Queens High School for Language Studies,Q460,0.054,0.221,0.776,High school,"09,10,11,12,SE",-73.826811,40.764892,Q,3,2013
+25Q250,25,25,I.S. 250 The Robert F. Kennedy Community Middle School,Q168,0.214,0.135,0.854,Junior High-Intermediate-Middle,"06,07,08,SE",-73.80938,40.724195,Q,2,1999
+25Q252,25,25,"Queens School of Inquiry, The",Q168,0.161,0.03,0.559,Secondary School,"06,07,08,09,10,11,12,SE",-73.80938,40.724195,Q,2,2005
+25Q263,25,25,Flushing International High School,Q189,0.022,0.86,0.904,High school,"09,10,11,12",-73.818399,40.759963,Q,2,2004
+25Q281,25,25,East-West School of International Studies,Q237,0.138,0.066,0.785,Secondary School,"06,07,08,09,10,11,12,SE",-73.821402,40.74943,Q,2,2006
+25Q285,25,25,World Journalism Preparatory: A College Board School,Q025,0.196,0.018,0.578,Secondary School,"06,07,08,09,10,11,12,SE",-73.789365,40.764884,Q,3,2006
+25Q294,25,25,BELL Academy,Q169,0.194,0.025,0.465,Junior High-Intermediate-Middle,"06,07,08,SE",-73.77843,40.782331,Q,2,2007
+25Q460,25,25,Flushing High School,Q460,0.127,0.196,0.8,High school,"09,10,11,12,SE",-73.826811,40.764892,Q,3,1915
+25Q499,25,25,"The Queens College School for Math, Science and Technology",Q499,0.096,0.023,0.488,K-8,"PK,0K,01,02,03,04,05,06,07,08",-73.820821,40.738599,Q,1,1999
+25Q525,25,25,Townsend Harris High School,Q515,0.073,0.001,0.495,High school,"09,10,11,12",-73.821532,40.737038,Q,1,1996
+26Q026,26,26,P.S. 026 Rufus King,Q026,0.171,0.139,0.64,Elementary,"PK,0K,01,02,03,04,05,SE",-73.777607,40.735935,Q,2,1949
+26Q041,26,26,P.S. 041 Crocheron,Q041,0.174,0.085,0.399,Elementary,"0K,01,02,03,04,05,SE",-73.771225,40.770155,Q,2,1916
+26Q186,26,26,P.S. 186 Castlewood,Q186,0.293,0.035,0.376,Elementary,"PK,0K,01,02,03,04,05,SE",-73.721594,40.749556,Q,1,1953
+26Q191,26,26,P.S. 191 Mayflower,Q191,0.151,0.094,0.662,Elementary,"PK,0K,01,02,03,04,05,SE",-73.708617,40.734266,Q,1,1954
+26Q205,26,26,P.S. 205 Alexander Graham Bell,Q205,0.158,0.059,0.299,Elementary,"PK,0K,01,02,03,04,05,SE",-73.756374,40.738008,Q,1,1954
+26Q213,26,26,P.S. 213 The Carl Ullman School,Q213,0.138,0.127,0.545,Elementary,"PK,0K,01,02,03,04,05,SE",-73.74539,40.747457,Q,1,1955
+26Q266,26,26,P.S./I.S. 266,Q266,0.229,0.027,0.468,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.728415,40.746128,Q,1,2003
+26Q315,26,26,Business Technology Early College High School,Q435,0.127,0.033,0.732,High school,"09,10,11,12,SE",-73.739726,40.733888,Q,2,2014
+26Q430,26,26,Francis Lewis High School,Q430,0.144,0.099,0.69,High school,"09,10,11,12,SE",-73.795049,40.740875,Q,1,1960
+26Q435,26,26,Martin Van Buren High School,Q435,0.141,0.146,0.765,High school,"09,10,11,12,SE",-73.739726,40.733888,Q,2,1955
+26Q566,26,26,"Queens High School of Teaching, Liberal Arts and the Sciences",Q566,0.186,0.024,0.619,High school,"09,10,11,12,SE",-73.728834,40.744197,Q,1,2003
+27Q042,27,27,P.S./M.S 042 R. Vernam,Q042,0.303,0.033,0.958,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.794804,40.594358,Q,1,1925
+27Q043,27,27,P.S. 043,Q043,0.237,0.073,0.92,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.761086,40.59348,Q,2,1996
+27Q053,27,27,M.S. 053 Brian Piccolo,Q053,0.351,0.161,0.887,Junior High-Intermediate-Middle,"06,07,08,09,SE",-73.749891,40.604019,Q,3,1973
+27Q202,27,27,J.H.S. 202 Robert H. Goddard,Q202,0.158,0.065,0.748,Junior High-Intermediate-Middle,"06,07,08,SE",-73.845992,40.670905,Q,2,1964
+27Q226,27,27,J.H.S. 226 Virgil I. Grissom,Q226,0.191,0.074,0.876,Junior High-Intermediate-Middle,"06,07,08,SE",-73.81673,40.675021,Q,3,1975
+27Q253,27,27,P.S. 253,Q253,0.246,0.316,0.962,Elementary,"PK,0K,01,02,03,04,05,SE",-73.748799,40.607247,Q,1,2004
+27Q254,27,27,P.S. 254 - The Rosa Parks School,Q254,0.147,0.179,0.796,Elementary,"PK,0K,01,02,03,04,05,SE",-73.847886,40.6972,Q,1,2004
+27Q260,27,27,Frederick Douglass Academy VI High School,Q465,0.24,0.321,0.794,High school,"09,10,11,12,SE",-73.763995,40.601537,Q,4,2004
+27Q261,27,27,Voyages Prep - South Queens,Q400,0.123,0.016,0.713,High school,"09,12,SE",-73.782684,40.673949,Q,3,2013
+27Q262,27,27,Channel View School for Research,Q410,0.138,0.022,0.701,Secondary School,"06,07,08,09,10,11,12,SE",-73.825317,40.586012,Q,4,2004
+27Q282,27,27,Knowledge and Power Preparatory Academy VI,Q465,0.183,0.065,0.86,Junior High-Intermediate-Middle,"06,07,08,SE",-73.763995,40.601537,Q,4,2006
+27Q297,27,27,Hawtree Creek Middle School,Q226,0.229,0.033,0.882,Junior High-Intermediate-Middle,"06,07,08,SE",-73.81673,40.675021,Q,3,2013
+27Q302,27,27,"Queens High School for Information, Research, and Technology",Q465,0.198,0.181,0.726,High school,"09,10,11,12,SE",-73.763995,40.601537,Q,4,2008
+27Q308,27,27,Robert H. Goddard High School of Communication Arts and Technology,Q202,0.197,0.046,0.735,High school,"09,10,11,12,SE",-73.845992,40.670905,Q,2,2008
+27Q309,27,27,Academy of Medical Technology: A College Board School,Q465,0.165,0.179,0.844,Secondary School,"06,07,08,09,10,11,12,SE",-73.763995,40.601537,Q,4,2008
+27Q314,27,27,Epic High School - South,Q226,0.189,0.075,0.748,High school,"09,10,11,12,SE",-73.81673,40.675021,Q,3,2014
+27Q317,27,27,Waterside Children's Studio School,Q225,0.193,0.1,0.67,Elementary,"PK,0K,01,02,03,04,05,SE",-73.83109,40.580907,Q,2,2009
+27Q318,27,27,Waterside School For Leadership,Q225,0.265,0.072,0.879,Junior High-Intermediate-Middle,"06,07,08,SE",-73.83109,40.580907,Q,2,2009
+27Q319,27,27,Village Academy,Q053,0.27,0.146,0.83,Junior High-Intermediate-Middle,"06,07,08,SE",-73.749891,40.604019,Q,3,2009
+27Q324,27,27,Rockaway Park High School for Environmental Sustainability,Q410,0.319,0.132,0.882,High school,"09,10,11,12,SE",-73.825317,40.586012,Q,4,2010
+27Q333,27,27,Goldie Maple Academy,Q198,0.121,0.007,0.708,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.786649,40.594008,Q,1,2006
+27Q351,27,27,Rockaway Collegiate High School,Q410,0.281,0.122,0.899,High school,"09,10,11,12,SE",-73.825317,40.586012,Q,4,2011
+27Q377,27,27,P.S. 377,Q335,0.114,0.07,0.618,Elementary,"PK,0K,01,02,SE",-73.83685,40.668083,Q,1,2017
+27Q400,27,27,August Martin High School,Q400,0.23,0.051,0.84,High school,"09,10,11,12,SE",-73.782684,40.673949,Q,3,1942
+27Q475,27,27,Richmond Hill High School,Q475,0.151,0.196,0.808,High school,"09,10,11,12,SE",-73.833815,40.695171,Q,1,1929
+27Q480,27,27,John Adams High School,Q480,0.138,0.123,0.796,High school,"09,10,11,12,SE",-73.838616,40.680065,Q,1,1930
+27Q650,27,27,"High School for Construction Trades, Engineering and Architecture",Q650,0.169,0.016,0.706,High school,"09,10,11,12,SE",-73.841475,40.689177,Q,1,2006
+28Q008,28,28,J.H.S. 008 Richard S. Grossley,Q008,0.219,0.121,0.864,Junior High-Intermediate-Middle,"06,07,08,SE",-73.786403,40.69691,Q,3,1963
+28Q040,28,28,P.S. 040 Samuel Huntington,Q040,0.2,0.125,0.877,Elementary,"PK,0K,01,02,03,04,05,SE",-73.790975,40.693559,Q,2,1912
+28Q048,28,28,P.S. 048 William Wordsworth,Q276,0.204,0.085,0.886,Elementary,"PK,0K,01,02,03,04,05,SE",-73.796358,40.693736,Q,1,1936
+28Q072,28,28,Catherine & Count Basie Middle School 72,Q072,0.294,0.085,0.783,Junior High-Intermediate-Middle,"06,07,08,SE",-73.775643,40.675014,Q,2,1967
+28Q167,28,28,Metropolitan Expeditionary Learning School,Q686,0.198,0.025,0.676,Secondary School,"06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,2,2010
+28Q182,28,28,P.S. 182 Samantha Smith,Q277,0.187,0.376,0.951,Elementary,"PK,0K,01,02,03,04,05,SE",-73.803183,40.70675,Q,1,1987
+28Q284,28,28,York Early College Academy,Q008,0.122,0.005,0.743,Secondary School,"06,07,08,09,10,11,12,SE",-73.786403,40.69691,Q,3,2006
+28Q287,28,28,The Emerson School,Q008,0.217,0.142,0.836,Junior High-Intermediate-Middle,"06,07,08,SE",-73.786403,40.69691,Q,3,2013
+28Q310,28,28,Queens Collegiate: A College Board School,Q470,0.147,0.088,0.874,Secondary School,"06,07,08,09,10,11,12,SE",-73.798658,40.714551,Q,4,2008
+28Q312,28,28,Jamaica Children's School,Q040,0.312,0.101,0.873,Elementary,"0K,01,02,03,04,05,SE",-73.790975,40.693559,Q,2,2014
+28Q325,28,28,Hillside Arts & Letters Academy,Q470,0.186,0.124,0.706,High school,"09,10,11,12,SE",-73.798658,40.714551,Q,4,2010
+28Q328,28,28,High School for Community Leadership,Q470,0.16,0.134,0.706,High school,"09,10,11,12,SE",-73.798658,40.714551,Q,4,2010
+28Q332,28,28,Redwood Middle School,Q072,0.223,0.04,0.623,Junior High-Intermediate-Middle,"06,07,08,SE",-73.775643,40.675014,Q,2,2014
+28Q338,28,28,Queens Satellite High School for Opportunity,Q595,0.103,0.056,0.841,High school,"09,10,11,12",-73.799532,40.708204,Q,1,2010
+28Q349,28,28,The Queens School for Leadership and Excellence,Q314,0.135,0.194,0.862,Elementary,"PK,0K,01,02,03,04,SE",-73.797981,40.708698,Q,2,2015
+28Q350,28,28,Jamaica Gateway to the Sciences,Q470,0.141,0.091,0.72,High school,"09,10,11,12,SE",-73.798658,40.714551,Q,4,2011
+28Q358,28,28,M.S. 358,Q314,0.202,0.155,0.865,Junior High-Intermediate-Middle,"06,07,08,SE",-73.797981,40.708698,Q,2,2015
+28Q680,28,28,Queens Gateway to Health Sciences Secondary School,Q695,0.13,0.009,0.584,Secondary School,"06,07,08,09,10,11,12,SE",-73.805923,40.718027,Q,1,1998
+28Q686,28,28,Queens Metropolitan High School,Q686,0.185,0.041,0.571,High school,"09,10,11,12,SE",-73.855543,40.708431,Q,2,2010
+28Q690,28,28,High School for Law Enforcement and Public Safety,Q690,0.218,0.066,0.78,High school,"09,10,11,12,SE",-73.783438,40.685838,Q,1,2003
+29Q035,29,29,P.S. 035 Nathaniel Woodhull,Q035,0.149,0.155,0.808,Elementary,"PK,0K,01,02,03,04,05,SE",-73.768894,40.713438,Q,2,1931
+29Q037,29,29,Cynthia Jenkins School,Q037,0.207,0.045,0.819,Elementary,"PK,0K,01,02,03,04,05,SE",-73.758778,40.676201,Q,2,1928
+29Q059,29,29,I.S. 059 Springfield Gardens,Q059,0.191,0.04,0.681,Junior High-Intermediate-Middle,"06,07,08,SE",-73.752772,40.681881,Q,2,1956
+29Q131,29,29,P.S. 131 Abigail Adams,Q035,0.141,0.139,0.906,Elementary,"0K,01,02,03,04,05,SE",-73.794061,40.71715,Q,2,1926
+29Q131,29,29,P.S. 131 Abigail Adams, Q131,0.141,0.139,0.906,Elementary,"0K,01,02,03,04,05,SE",-73.794061,40.71715,Q,1,1926
+29Q134,29,29,P.S. 134 Hollis,Q134,0.152,0.14,0.807,Elementary,"PK,0K,01,02,03,04,05,SE",-73.754747,40.707535,Q,1,1928
+29Q138,29,29,P.S./M.S. 138 Sunrise,Q138,0.173,0.069,0.758,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.734342,40.659876,Q,2,1931
+29Q147,29,29,P.S./M.S. 147 Ronald McNair,Q147,0.211,0.064,0.658,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.74014,40.698028,Q,1,1930
+29Q156,29,29,P.S. 156 Laurelton,Q156,0.137,0.086,0.64,Elementary,"PK,0K,01,02,03,04,05,SE",-73.743327,40.672259,Q,2,1931
+29Q192,29,29,I.S. 192 The Linden,Q192,0.239,0.07,0.729,Junior High-Intermediate-Middle,"06,07,08,SE",-73.752885,40.705989,Q,2,1963
+29Q208,29,26,P.S./I.S. 208,Q208,0.197,0.018,0.411,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.727632,40.744276,Q,1,2003
+29Q243,29,29,Institute for Health Professions at Cambria Heights,Q490,0.107,0.102,0.784,High school,"09,10,11,12,SE",-73.74633,40.698786,Q,4,2013
+29Q248,29,29,Queens Preparatory Academy,Q420,0.155,0.105,0.798,High school,"09,10,11,12,SE",-73.757744,40.66903,Q,4,2005
+29Q259,29,29,Pathways College Preparatory School: A College Board School,Q192,0.164,0.024,0.74,Secondary School,"06,07,08,09,10,11,12,SE",-73.752885,40.705989,Q,2,2005
+29Q265,29,29,Excelsior Preparatory High School,Q420,0.178,0.057,0.751,High school,"09,10,11,12,SE",-73.757744,40.66903,Q,4,2004
+29Q268,29,29,P.S./I.S. 268,Q268,0.166,0.178,0.749,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.78521,40.707648,Q,1,2003
+29Q270,29,29,The Gordon Parks School,Q270,0.17,0.004,0.867,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.736232,40.67507,Q,1,2003
+29Q272,29,29,George Washington Carver High School for the Sciences,Q420,0.172,0.023,0.695,High school,"09,10,11,12,SE",-73.757744,40.66903,Q,4,2004
+29Q283,29,29,Preparatory Academy for Writers: A College Board School,Q420,0.158,0.041,0.716,Secondary School,"06,07,08,09,10,11,12,SE",-73.757744,40.66903,Q,4,2006
+29Q289,29,29,Queens United Middle School,Q156,0.236,0.051,0.708,Junior High-Intermediate-Middle,"06,07,08,SE",-73.743327,40.672259,Q,2,2013
+29Q295,29,29,P.S./I.S. 295,Q263,0.176,0.082,0.765,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.731398,40.720617,Q,1,2007
+29Q313,29,29,Benjamin Franklin High School for Finance & Information Technology,Q490,0.172,0.116,0.838,High school,"09,10,11,12,SE",-73.74633,40.698786,Q,4,2014
+29Q355,29,29,Collaborative Arts Middle School,Q231,0.216,0.053,0.808,Junior High-Intermediate-Middle,"06,07,08,SE",-73.759396,40.664809,Q,2,2011
+29Q356,29,29,Community Voices Middle School,Q231,0.262,0.071,0.785,Junior High-Intermediate-Middle,"06,07,08,SE",-73.759396,40.664809,Q,2,2011
+29Q492,29,29,"Mathematics, Science Research and Technology Magnet High School",Q490,0.105,0.172,0.825,High school,"09,10,11,12,SE",-73.74633,40.698786,Q,4,1996
+29Q498,29,29,Humanities & Arts Magnet High School,Q490,0.167,0.102,0.817,High school,"09,10,11,12,SE",-73.74633,40.698786,Q,4,1996
+30Q017,30,30,P.S. 017 Henry David Thoreau,Q017,0.2,0.24,0.716,Elementary,"PK,0K,01,02,03,04,05,SE",-73.922544,40.768034,Q,2,1967
+30Q076,30,30,P.S. 076 William Hallet,Q076,0.323,0.143,0.808,Elementary,"PK,0K,01,02,03,04,05,SE",-73.94163,40.760862,Q,2,1966
+30Q078,30,30,P.S./I.S. 78Q,Q312,0.128,0.057,0.178,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.957177,40.744368,Q,1,1997
+30Q078,30,30,P.S./I.S. 78Q, Q868,0.128,0.057,0.178,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.957177,40.744368,Q,1,1997
+30Q111,30,30,P.S. 111 Jacob Blackwell,Q111,0.274,0.119,0.951,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.939181,40.758342,Q,2,1950
+30Q126,30,30,Albert Shanker School for Visual and Performing Arts,Q126,0.15,0.072,0.819,Junior High-Intermediate-Middle,"06,07,08,SE",-73.92999,40.766008,Q,1,1925
+30Q204,30,30,I.S. 204 Oliver W. Holmes,Q204,0.274,0.148,0.888,Junior High-Intermediate-Middle,"06,07,08,SE",-73.932628,40.756471,Q,2,1957
+30Q234,30,30,P.S. 234,Q234,0.182,0.138,0.771,Elementary,"PK,0K,01,02,03,04,05,SE",-73.923044,40.766898,Q,2,2003
+30Q235,30,30,Academy for New Americans,Q234,0,1,0.882,Junior High-Intermediate-Middle,"06,07,08",-73.923044,40.766898,Q,2,1999
+30Q258,30,30,Energy Tech High School,Q204,0.176,0.047,0.721,High school,"09,10,11,12,SE",-73.932628,40.756471,Q,2,2013
+30Q291,30,30,Hunters Point Community Middle School,Q404,0.245,0.036,0.564,Junior High-Intermediate-Middle,"06,07,08,SE",-73.959183,40.742964,Q,2,2013
+30Q300,30,30,The 30th Avenue School (G&T Citywide),Q017,0.051,0.028,0.254,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.922544,40.768034,Q,2,2014
+30Q300,30,30,The 30th Avenue School (G&T Citywide), Q126,0.051,0.028,0.254,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.922544,40.768034,Q,1,2014
+30Q301,30,30,Academy for Careers in Television and Film,Q404,0.223,0.036,0.646,High school,"09,10,11,12,SE",-73.959183,40.742964,Q,2,2008
+30Q384,30,30,P.S. 384,Q972,0.105,0.2,0.219,Elementary,"0K,01",-73.940316,40.748159,Q,1,2018
+30Q450,30,30,Long Island City High School,Q452,0.171,0.105,0.827,High school,"09,10,11,12,SE",-73.933907,40.765881,Q,1,1996
+30Q501,30,30,Frank Sinatra School of the Arts High School,Q570,0.184,0.006,0.338,High school,"09,10,11,12,SE",-73.925182,40.756099,Q,1,2000
+30Q502,30,30,Information Technology High School,Q725,0.197,0.068,0.778,High school,"09,10,11,12,SE",-73.946488,40.748502,Q,1,2002
+30Q555,30,30,Newcomers High School,Q450,0.014,0.742,0.9,High school,"09,10,11,12,SE",-73.936592,40.751838,Q,2,1996
+30Q575,30,30,Academy of American Studies,Q450,0.078,0.016,0.619,High school,"09,10,11,12,SE",-73.937564,40.751144,Q,2,1996
+31R002,31,31,I.S. R002 George L. Egbert,R002,0.215,0.082,0.735,Junior High-Intermediate-Middle,"06,07,08,SE",-74.099685,40.576728,R,2,1963
+31R006,31,31,P.S. 6 Corporal Allan F. Kivlehan School,R006,0.355,0.028,0.388,Elementary,"PK,0K,01,02,03,04,05,SE",-74.230118,40.510207,R,2,2000
+31R007,31,31,I.S. 007 Elias Bernstein,R007,0.197,0.02,0.396,Junior High-Intermediate-Middle,"06,07,08,SE",-74.186096,40.522971,R,2,1965
+31R010,31,31,Fort Hill Collaborative Elementary School,R016,0.443,0.224,0.953,Elementary,"0K,01,02,03,04,05,SE",-74.079594,40.639638,R,2,2014
+31R016,31,31,P.S. 016 John J. Driscoll,R016,0.279,0.276,0.982,Elementary,"PK,0K,01,02,03,04,05,SE",-74.079594,40.639638,R,2,1966
+31R024,31,31,I.S. 024 Myra S. Barnes,R024,0.249,0.012,0.46,Junior High-Intermediate-Middle,"06,07,08,SE",-74.145558,40.54549,R,2,1968
+31R028,31,31,The Eagle Academy for Young Men of Staten Island,R049,0.405,0.049,0.82,Secondary School,"06,07,08,09,10,11,SE",-74.080695,40.620443,R,2,2014
+31R028,31,31,The Eagle Academy for Young Men of Staten Island, R082,0.405,0.049,0.82,Secondary School,"06,07,08,09,10,11,SE",-74.080695,40.620443,R,1,2014
+31R036,31,31,P.S. 036 J. C. Drumgoole,R036,0.209,0.032,0.369,Elementary,"PK,0K,01,02,03,04,05,SE",-74.182548,40.543433,R,1,1974
+31R047,31,31,CSI High School for International Studies,R043,0.16,0.002,0.503,High school,"09,10,11,12,SE",-74.159343,40.581958,R,3,2005
+31R048,31,31,P.S. 048 William G. Wilcox,R071,0.193,0.066,0.421,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.091239,40.603492,R,1,1931
+31R049,31,31,I.S. 49 Berta A. Dreyfus,R049,0.358,0.138,0.929,Junior High-Intermediate-Middle,"06,07,08,SE",-74.080695,40.620443,R,2,1962
+31R058,31,31,Space Shuttle Columbia School,R058,0.247,0.097,0.548,Elementary,"PK,0K,01,02,03,04,05,SE",-74.160867,40.582791,R,1,2003
+31R061,31,31,I.S. 061 William A Morris,R061,0.301,0.109,0.805,Junior High-Intermediate-Middle,"06,07,08,SE",-74.097941,40.634497,R,1,1971
+31R063,31,31,Marsh Avenue School for Expeditionary Learning,R043,0.23,0.013,0.494,Junior High-Intermediate-Middle,"06,07,08,SE",-74.159343,40.581958,R,3,2008
+31R064,31,31,Gaynor McCown Expeditionary Learning School,R043,0.3,0.014,0.483,High school,"09,10,11,12,SE",-74.159343,40.581958,R,3,2008
+31R066,31,31,The Richmond Pre-K Center,R066,0.216,0,0.363,,,,,R,2,
+31R066,31,31,The Richmond Pre-K Center, R068,0.216,0,0.363,,,,,R,1,
+31R066,31,31,The Richmond Pre-K Center, R077,0.216,0,0.363,,,,,R,1,
+31R066,31,31,The Richmond Pre-K Center, R094,0.216,0,0.363,,,,,R,1,
+31R066,31,31,The Richmond Pre-K Center, R113,0.216,0,0.363,,,,,R,1,
+31R066,31,31,The Richmond Pre-K Center, R091,0.216,0,0.363,,,,,R,1,
+31R066,31,31,The Richmond Pre-K Center, R093,0.216,0,0.363,,,,,R,1,
+31R066,31,31,The Richmond Pre-K Center, R090,0.216,0,0.363,,,,,R,1,
+31R068,31,31,Port Richmond School for Visionary Learning,R066,0.237,0.048,0.756,Elementary,"PK,0K,01,02,03,SE",-74.142526,40.624781,R,2,2016
+31R075,31,31,I.S. 075 Frank D. Paulo,R075,0.224,0.01,0.376,Junior High-Intermediate-Middle,"06,07,08,SE",-74.197033,40.544535,R,1,1985
+31R080,31,31,The Michael J. Petrides School,R880,0.294,0.012,0.467,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.105883,40.607637,R,2,1995
+31R440,31,31,New Dorp High School,R435,0.232,0.048,0.612,High school,"09,10,11,12,SE",-74.105878,40.570909,R,1,1996
+31R445,31,31,Port Richmond High School,R445,0.296,0.102,0.777,High school,"09,10,11,12,SE",-74.141924,40.635562,R,1,1927
+31R455,31,31,Tottenville High School,R455,0.211,0.019,0.351,High school,"09,10,11,12,SE",-74.193431,40.528152,R,1,1972
+31R861,31,31,Staten Island School of Civic Leadership,R861,0.25,0.048,0.737,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.164427,40.62031,R,1,2009
+32K168,32,32,The Brooklyn School for Math and Research,K480,0.204,0.105,0.914,High school,"09,10,11,12,SE",-73.911751,40.696457,K,4,2011
+32K291,32,32,J.H.S. 291 Roland Hayes,K291,0.236,0.344,0.9,Junior High-Intermediate-Middle,"06,07,08,SE",-73.915217,40.695875,K,3,1975
+32K347,32,32,I.S. 347 School of Humanities,K111,0.223,0.271,0.935,Junior High-Intermediate-Middle,"06,07,08,SE",-73.927938,40.70081,K,2,2000
+32K349,32,32,"I.S. 349 Math, Science & Tech.",K111,0.218,0.178,0.943,Junior High-Intermediate-Middle,"06,07,08,09,SE",-73.927938,40.70081,K,2,2000
+32K377,32,32,P.S. 377 Alejandrina B. De Gautier,K377,0.169,0.134,0.817,K-8,"PK,0K,01,02,03,04,05,SE",-73.915159,40.693542,K,2,1974
+32K383,32,32,J.H.S. 383 Philippa Schuyler,K383,0.177,0.039,0.837,Junior High-Intermediate-Middle,"05,06,07,08,SE",-73.919088,40.697898,K,1,1977
+32K384,32,32,P.S. /I.S. 384 Frances E. Carter,K384,0.265,0.209,0.858,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.904695,40.689883,K,1,1975
+32K403,32,32,Academy for Excellence in Leadership,K480,0.166,0.516,0.924,High school,"09,10,11,12,SE",-73.911751,40.696457,K,4,2006
+32K549,32,32,The Brooklyn School for Social Justice,K480,0.207,0.399,0.808,High school,"09,10,11,12,SE",-73.911751,40.696457,K,4,2003
+32K552,32,32,The Academy of Urban Planning and Engineering,K480,0.24,0.268,0.885,High school,"09,10,11,12,SE",-73.911751,40.696457,K,4,2003
+32K562,32,32,Evergreen Middle School for Urban Exploration,K296,0.234,0.174,0.924,Junior High-Intermediate-Middle,"06,07,08,SE",-73.910589,40.688647,K,2,2012
+32K564,32,32,Bushwick Community High School,K291,0.322,0.065,0.874,High school,"09,10,11,12",-73.915217,40.695875,K,3,2004
+75K036,75,19,P.S. 36,K192,0.99,0.085,0.91,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.887195,40.660465,K,2,1989
+75K036,75,19,P.S. 36, K213,0.99,0.085,0.91,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.887195,40.660465,K,1,1989
+75K036,75,19,P.S. 36, K224,0.99,0.085,0.91,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.887195,40.660465,K,1,1989
+75K036,75,19,P.S. 36, K470,0.99,0.085,0.91,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.887195,40.660465,K,1,1989
+75K036,75,19,P.S. 36, K857,0.99,0.085,0.91,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.887195,40.660465,K,1,1989
+75K053,75,15,P.S. K053,K088,1,0.282,0.918,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.988743,40.660805,K,2,1989
+75K053,75,15,P.S. K053, K104,1,0.282,0.918,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.988743,40.660805,K,1,1989
+75K053,75,15,P.S. K053, K296,1,0.282,0.918,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.988743,40.660805,K,1,1989
+75K053,75,15,P.S. K053, K384,1,0.282,0.918,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.988743,40.660805,K,1,1989
+75K053,75,15,P.S. K053, K410,1,0.282,0.918,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.988743,40.660805,K,2,1989
+75K053,75,15,P.S. K053, K422,1,0.282,0.918,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.988743,40.660805,K,1,1989
+75K053,75,15,P.S. K053, K437,1,0.282,0.918,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.988743,40.660805,K,1,1989
+75K053,75,15,P.S. K053, K535,1,0.282,0.918,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.988743,40.660805,K,1,1989
+75K053,75,15,P.S. K053, KBXG,1,0.282,0.918,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.988743,40.660805,K,1,1989
+75K077,75,13,P.S. K077,K164,1,0.275,0.837,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.976648,40.678809,K,2,1999
+75K077,75,13,P.S. K077, K178,1,0.275,0.837,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.976648,40.678809,K,1,1999
+75K077,75,13,P.S. K077, K555,1,0.275,0.837,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.976648,40.678809,K,2,1999
+75K077,75,13,P.S. K077, K902,1,0.275,0.837,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.976648,40.678809,K,1,1999
+75K077,75,13,P.S. K077, K917,1,0.275,0.837,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.976648,40.678809,K,1,1999
+75K077,75,13,P.S. K077, K660,1,0.275,0.837,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.976648,40.678809,K,1,1999
+75K140,75,13,P.S. K140,K005,1,0.083,0.931,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.9456,40.68192,K,2,1999
+75K140,75,13,P.S. K140, K021,1,0.083,0.931,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.9456,40.68192,K,1,1999
+75K140,75,13,P.S. K140, K026,1,0.083,0.931,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.9456,40.68192,K,1,1999
+75K140,75,13,P.S. K140, K258,1,0.083,0.931,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.9456,40.68192,K,1,1999
+75K140,75,13,P.S. K140, K304,1,0.083,0.931,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.9456,40.68192,K,1,1999
+75K141,75,17,P.S. K141,K002,0.995,0.199,0.883,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.951575,40.656423,K,3,1996
+75K141,75,17,P.S. K141, K035,0.995,0.199,0.883,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.951575,40.656423,K,1,1996
+75K141,75,17,P.S. K141, K054,0.995,0.199,0.883,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.951575,40.656423,K,1,1996
+75K141,75,17,P.S. K141, K071,0.995,0.199,0.883,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.951575,40.656423,K,1,1996
+75K141,75,17,P.S. K141, K380,0.995,0.199,0.883,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.951575,40.656423,K,1,1996
+75K231,75,20,P.S. K231,K180,0.997,0.332,0.835,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.98925,40.626454,K,2,1995
+75K231,75,20,P.S. K231, K215,0.997,0.332,0.835,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.98925,40.626454,K,1,1995
+75K231,75,20,P.S. K231, K238,0.997,0.332,0.835,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.98925,40.626454,K,1,1995
+75K231,75,20,P.S. K231, K264,0.997,0.332,0.835,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.98925,40.626454,K,1,1995
+75K231,75,20,P.S. K231, K331,0.997,0.332,0.835,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.98925,40.626454,K,1,1995
+75K368,75,14,P.S. 368,K033,0.942,0.109,0.931,K-12 all grades,"PK,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.947557,40.696698,K,2,1989
+75K368,75,14,P.S. 368, K120,0.942,0.109,0.931,K-12 all grades,"PK,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.947557,40.696698,K,1,1989
+75K368,75,14,P.S. 368, K293,0.942,0.109,0.931,K-12 all grades,"PK,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.947557,40.696698,K,1,1989
+75K368,75,14,P.S. 368, KBBY,0.942,0.109,0.931,K-12 all grades,"PK,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.947557,40.696698,K,1,1989
+75K369,75,15,P.S. K369 - Coy L. Cox School,K056,0.998,0.164,0.871,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.983312,40.687432,K,3,1922
+75K369,75,15,P.S. K369 - Coy L. Cox School, K067,0.998,0.164,0.871,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.983312,40.687432,K,1,1922
+75K369,75,15,P.S. K369 - Coy L. Cox School, K117,0.998,0.164,0.871,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.983312,40.687432,K,1,1922
+75K369,75,15,P.S. K369 - Coy L. Cox School, K261,0.998,0.164,0.871,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.983312,40.687432,K,1,1922
+75K369,75,15,P.S. K369 - Coy L. Cox School, K265,0.998,0.164,0.871,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.983312,40.687432,K,1,1922
+75K369,75,15,P.S. K369 - Coy L. Cox School, K313,0.998,0.164,0.871,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.983312,40.687432,K,1,1922
+75K369,75,15,P.S. K369 - Coy L. Cox School, K317,0.998,0.164,0.871,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.983312,40.687432,K,1,1922
+75K369,75,15,P.S. K369 - Coy L. Cox School, K369,0.998,0.164,0.871,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.983312,40.687432,K,1,1922
+75K369,75,15,P.S. K369 - Coy L. Cox School, K580,0.998,0.164,0.871,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.983312,40.687432,K,1,1922
+75K370,75,21,P.S. 370,K100,1,0.304,0.856,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.969872,40.577709,K,2,1921
+75K370,75,21,P.S. 370, K237,1,0.304,0.856,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.969872,40.577709,K,1,1921
+75K370,75,21,P.S. 370, K370,1,0.304,0.856,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.969872,40.577709,K,1,1921
+75K370,75,21,P.S. 370, K445,1,0.304,0.856,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.969872,40.577709,K,1,1921
+75K370,75,21,P.S. 370, K620,1,0.304,0.856,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.969872,40.577709,K,1,1921
+75K370,75,21,P.S. 370, K807,1,0.304,0.856,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.969872,40.577709,K,1,1921
+75K371,75,15,P.S. 371 - Lillian L. Rashkis,K371,0.98,0.144,0.912,High school,"09,10,11,12,SE",-74.005168,40.654306,K,1,1966
+75K371,75,15,P.S. 371 - Lillian L. Rashkis, K485,0.98,0.144,0.912,High school,"09,10,11,12,SE",-74.005168,40.654306,K,1,1966
+75K371,75,15,P.S. 371 - Lillian L. Rashkis, K564,0.98,0.144,0.912,High school,"09,10,11,12,SE",-74.005168,40.654306,K,1,1966
+75K372,75,15,P.S. 372 -The Children's School,K113,0.995,0.062,0.415,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.9855,40.676198,K,3,1996
+75K373,75,14,P.S. 373 - Brooklyn Transition Center,K148,0.996,0.252,0.908,High school,"09,10,11,12,SE",-73.945211,40.699214,K,2,1995
+75K373,75,14,P.S. 373 - Brooklyn Transition Center, K458,0.996,0.252,0.908,High school,"09,10,11,12,SE",-73.945211,40.699214,K,3,1995
+75K373,75,14,P.S. 373 - Brooklyn Transition Center, K555,0.996,0.252,0.908,High school,"09,10,11,12,SE",-73.945211,40.699214,K,2,1995
+75K373,75,14,P.S. 373 - Brooklyn Transition Center, K804,0.996,0.252,0.908,High school,"09,10,11,12,SE",-73.945211,40.699214,K,1,1995
+75K373,75,14,P.S. 373 - Brooklyn Transition Center, K877,0.996,0.252,0.908,High school,"09,10,11,12,SE",-73.945211,40.699214,K,1,1995
+75K373,75,14,P.S. 373 - Brooklyn Transition Center, KBCA,0.996,0.252,0.908,High school,"09,10,11,12,SE",-73.945211,40.699214,K,1,1995
+75K396,75,23,P.S. K396,K167,0.996,0.222,0.89,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.911788,40.668232,K,2,1967
+75K396,75,23,P.S. K396, K181,0.996,0.222,0.89,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.911788,40.668232,K,1,1967
+75K396,75,23,P.S. K396, K263,0.996,0.222,0.89,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.911788,40.668232,K,1,1967
+75K396,75,23,P.S. K396, K289,0.996,0.222,0.89,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.911788,40.668232,K,1,1967
+75K396,75,23,P.S. K396, K327,0.996,0.222,0.89,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.911788,40.668232,K,1,1967
+75K771,75,21,P.S. K771,K014,0.998,0.227,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.955856,40.58026,K,3,1994
+75K771,75,21,P.S. K771, K066,0.998,0.227,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.955856,40.58026,K,1,1994
+75K771,75,21,P.S. K771, K225,0.998,0.227,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.955856,40.58026,K,1,1994
+75K771,75,21,P.S. K771, K236,0.998,0.227,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.955856,40.58026,K,1,1994
+75K771,75,21,P.S. K771, K303,0.998,0.227,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.955856,40.58026,K,2,1994
+75K771,75,21,P.S. K771, K329,0.998,0.227,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.955856,40.58026,K,1,1994
+75K771,75,21,P.S. K771, K721,0.998,0.227,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.955856,40.58026,K,1,1994
+75K811,75,22,P.S. K811 Connie Lekas School,K014,0.997,0.304,0.923,Secondary School,"06,07,08,09,10,11,12,SE",-73.93861,40.591132,K,3,1991
+75K811,75,22,P.S. K811 Connie Lekas School, K281,0.997,0.304,0.923,Secondary School,"06,07,08,09,10,11,12,SE",-73.93861,40.591132,K,1,1991
+75K811,75,22,P.S. K811 Connie Lekas School, K286,0.997,0.304,0.923,Secondary School,"06,07,08,09,10,11,12,SE",-73.93861,40.591132,K,1,1991
+75K811,75,22,P.S. K811 Connie Lekas School, K525,0.997,0.304,0.923,Secondary School,"06,07,08,09,10,11,12,SE",-73.93861,40.591132,K,2,1991
+75M035,75,2,P.S. 035,M058,0.887,0.074,0.851,K-12 all grades,"03,04,05,06,07,08,09,10,11,12,SE",-73.985899,40.764129,M,1,1997
+75M035,75,2,P.S. 035, M912,0.887,0.074,0.851,K-12 all grades,"03,04,05,06,07,08,09,10,11,12,SE",-73.985899,40.764129,M,1,1997
+75M079,75,5,P.S. M079 - Horan School,M079,0.993,0.361,0.949,Secondary School,"03,06,07,08,09,10,11,12,SE",-73.942009,40.802547,M,1,1963
+75M094,75,2,P.S. M094,M015,0.998,0.186,0.842,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.017456,40.706384,M,2,1999
+75M094,75,2,P.S. M094, M061,0.998,0.186,0.842,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.017456,40.706384,M,1,1999
+75M094,75,2,P.S. M094, M188,0.998,0.186,0.842,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.017456,40.706384,M,2,1999
+75M094,75,2,P.S. M094, M276,0.998,0.186,0.842,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.017456,40.706384,M,1,1999
+75M094,75,2,P.S. M094, M281,0.998,0.186,0.842,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.017456,40.706384,M,1,1999
+75M094,75,2,P.S. M094, M338,0.998,0.186,0.842,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.017456,40.706384,M,1,1999
+75M094,75,2,P.S. M094, M340,0.998,0.186,0.842,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.017456,40.706384,M,2,1999
+75M094,75,2,P.S. M094, M971,0.998,0.186,0.842,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.017456,40.706384,M,1,1999
+75M138,75,5,P.S. 138,M030,1,0.283,0.896,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.935461,40.805653,M,3,1989
+75M138,75,5,P.S. 138, M033,1,0.283,0.896,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.935461,40.805653,M,1,1989
+75M138,75,5,P.S. 138, M090,1,0.283,0.896,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.935461,40.805653,M,1,1989
+75M138,75,5,P.S. 138, M114,1,0.283,0.896,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.935461,40.805653,M,1,1989
+75M138,75,5,P.S. 138, M117,1,0.283,0.896,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.935461,40.805653,M,1,1989
+75M138,75,5,P.S. 138, M189,1,0.283,0.896,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.935461,40.805653,M,1,1989
+75M138,75,5,P.S. 138, M380,1,0.283,0.896,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.935461,40.805653,M,1,1989
+75M138,75,5,P.S. 138, M535,1,0.283,0.896,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.935461,40.805653,M,1,1989
+75M169,75,2,P.S. M169 - Robert F. Kennedy,M102,0.986,0.124,0.919,K-12 all grades,"0K,01,02,03,04,05,06,07,08,10,11,12,SE",-73.955594,40.780798,M,2,1973
+75M169,75,2,P.S. M169 - Robert F. Kennedy, M146,0.986,0.124,0.919,K-12 all grades,"0K,01,02,03,04,05,06,07,08,10,11,12,SE",-73.955594,40.780798,M,1,1973
+75M169,75,2,P.S. M169 - Robert F. Kennedy, M169,0.986,0.124,0.919,K-12 all grades,"0K,01,02,03,04,05,06,07,08,10,11,12,SE",-73.955594,40.780798,M,1,1973
+75M169,75,2,P.S. M169 - Robert F. Kennedy, M435,0.986,0.124,0.919,K-12 all grades,"0K,01,02,03,04,05,06,07,08,10,11,12,SE",-73.955594,40.780798,M,1,1973
+75M169,75,2,P.S. M169 - Robert F. Kennedy, M488,0.986,0.124,0.919,K-12 all grades,"0K,01,02,03,04,05,06,07,08,10,11,12,SE",-73.955594,40.780798,M,1,1973
+75M226,75,2,P.S. M226,M076,0.997,0.166,0.838,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.98259,40.732665,M,2,1999
+75M226,75,2,P.S. M226, M208,0.997,0.166,0.838,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.98259,40.732665,M,1,1999
+75M226,75,2,P.S. M226, M475,0.997,0.166,0.838,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.98259,40.732665,M,1,1999
+75M226,75,2,P.S. M226, M477,0.997,0.166,0.838,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.98259,40.732665,M,1,1999
+75M226,75,2,P.S. M226, M480,0.997,0.166,0.838,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.98259,40.732665,M,1,1999
+75M226,75,2,P.S. M226, M660,0.997,0.166,0.838,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.98259,40.732665,M,1,1999
+75M226,75,2,P.S. M226, M824,0.997,0.166,0.838,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.98259,40.732665,M,1,1999
+75M226,75,2,P.S. M226, M875,0.997,0.166,0.838,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.98259,40.732665,M,1,1999
+75M226,75,2,P.S. M226, MAMX,0.997,0.166,0.838,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.98259,40.732665,M,1,1999
+75M721,75,2,P.S. M721 - Manhattan Occupational Training Center,M047,1,0.385,0.922,Secondary School,"06,07,08,09,10,11,12,SE",-74.006155,40.729052,M,3,1990
+75M721,75,2,P.S. M721 - Manhattan Occupational Training Center, M615,1,0.385,0.922,Secondary School,"06,07,08,09,10,11,12,SE",-74.006155,40.729052,M,1,1990
+75M721,75,2,P.S. M721 - Manhattan Occupational Training Center, M641,1,0.385,0.922,Secondary School,"06,07,08,09,10,11,12,SE",-74.006155,40.729052,M,1,1990
+75M721,75,2,P.S. M721 - Manhattan Occupational Training Center, M844,1,0.385,0.922,Secondary School,"06,07,08,09,10,11,12,SE",-74.006155,40.729052,M,1,1990
+75M721,75,2,P.S. M721 - Manhattan Occupational Training Center, M883,1,0.385,0.922,Secondary School,"06,07,08,09,10,11,12,SE",-74.006155,40.729052,M,1,1990
+75M751,75,1,Manhattan School for Career Development,M323,0.987,0.241,0.909,High school,"05,06,07,08,09,10,11,12,SE",-73.987791,40.725892,M,2,1894
+75M751,75,1,Manhattan School for Career Development, M440,0.987,0.241,0.909,High school,"05,06,07,08,09,10,11,12,SE",-73.987791,40.725892,M,1,1894
+75M751,75,1,Manhattan School for Career Development, M600,0.987,0.241,0.909,High school,"05,06,07,08,09,10,11,12,SE",-73.987791,40.725892,M,1,1894
+75M751,75,1,Manhattan School for Career Development, M751,0.987,0.241,0.909,High school,"05,06,07,08,09,10,11,12,SE",-73.987791,40.725892,M,1,1894
+75M751,75,1,Manhattan School for Career Development, M807,0.987,0.241,0.909,High school,"05,06,07,08,09,10,11,12,SE",-73.987791,40.725892,M,2,1894
+75M811,75,3,P.S. M811 - Mickey Mantle School,M101,0.997,0.145,0.911,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.979217,40.78633,M,2,1996
+75M811,75,3,P.S. M811 - Mickey Mantle School, M149,0.997,0.145,0.911,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.979217,40.78633,M,2,1996
+75M811,75,3,P.S. M811 - Mickey Mantle School, M163,0.997,0.145,0.911,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.979217,40.78633,M,1,1996
+75M811,75,3,P.S. M811 - Mickey Mantle School, M200,0.997,0.145,0.911,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.979217,40.78633,M,1,1996
+75M811,75,3,P.S. M811 - Mickey Mantle School, M841,0.997,0.145,0.911,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.979217,40.78633,M,1,1996
+75M811,75,3,P.S. M811 - Mickey Mantle School, M155,0.997,0.145,0.911,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.979217,40.78633,M,1,1996
+75Q004,75,26,P.S. Q004,Q138,1,0.149,0.751,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.778118,40.7417,Q,2,1991
+75Q004,75,26,P.S. Q004, Q161,1,0.149,0.751,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.778118,40.7417,Q,1,1991
+75Q004,75,26,P.S. Q004, Q179,1,0.149,0.751,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.778118,40.7417,Q,1,1991
+75Q004,75,26,P.S. Q004, Q213,1,0.149,0.751,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.778118,40.7417,Q,1,1991
+75Q004,75,26,P.S. Q004, Q270,1,0.149,0.751,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.778118,40.7417,Q,1,1991
+75Q004,75,26,P.S. Q004, Q667,1,0.149,0.751,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.778118,40.7417,Q,1,1991
+75Q009,75,24,P.S. 009,Q005,0.997,0.302,0.83,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.912458,40.718234,Q,2,1907
+75Q009,75,24,P.S. 009, Q009,0.997,0.302,0.83,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.912458,40.718234,Q,1,1907
+75Q009,75,24,P.S. 009, Q058,0.997,0.302,0.83,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.912458,40.718234,Q,1,1907
+75Q009,75,24,P.S. 009, Q209,0.997,0.302,0.83,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.912458,40.718234,Q,1,1907
+75Q009,75,24,P.S. 009, Q268,0.997,0.302,0.83,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.912458,40.718234,Q,1,1907
+75Q009,75,24,P.S. 009, Q277,0.997,0.302,0.83,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.912458,40.718234,Q,1,1907
+75Q009,75,24,P.S. 009, Q882,0.997,0.302,0.83,K-8,"0K,01,02,03,04,05,06,07,08,09,SE",-73.912458,40.718234,Q,1,1907
+75Q224,75,26,P.S. Q224,Q026,1,0.239,0.706,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.721594,40.749556,Q,2,1989
+75Q224,75,26,P.S. Q224, Q186,1,0.239,0.706,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.721594,40.749556,Q,1,1989
+75Q224,75,26,P.S. Q224, Q205,1,0.239,0.706,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.721594,40.749556,Q,1,1989
+75Q224,75,26,P.S. Q224, Q266,1,0.239,0.706,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.721594,40.749556,Q,1,1989
+75Q224,75,26,P.S. Q224, Q809,1,0.239,0.706,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.721594,40.749556,Q,1,1989
+75Q233,75,28,P.S. Q233,Q025,1,0.244,0.832,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,3,1989
+75Q233,75,28,P.S. Q233, Q042,1,0.244,0.832,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,1,1989
+75Q233,75,28,P.S. Q233, Q134,1,0.244,0.832,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,1,1989
+75Q233,75,28,P.S. Q233, Q226,1,0.244,0.832,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,1,1989
+75Q233,75,28,P.S. Q233, Q335,1,0.244,0.832,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,1,1989
+75Q233,75,28,P.S. Q233, Q650,1,0.244,0.832,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,1,1989
+75Q233,75,28,P.S. Q233, Q686,1,0.244,0.832,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,1,1989
+75Q233,75,28,P.S. Q233, Q835,1,0.244,0.832,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,1,1989
+75Q233,75,28,P.S. Q233, Q875,1,0.244,0.832,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.855543,40.708431,Q,1,1989
+75Q255,75,25,P.S. Q255,Q007,0.998,0.413,0.812,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.80938,40.724195,Q,2,1991
+75Q255,75,25,P.S. Q255, Q154,0.998,0.413,0.812,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.80938,40.724195,Q,1,1991
+75Q255,75,25,P.S. Q255, Q168,0.998,0.413,0.812,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.80938,40.724195,Q,1,1991
+75Q255,75,25,P.S. Q255, Q247,0.998,0.413,0.812,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.80938,40.724195,Q,1,1991
+75Q255,75,25,P.S. Q255, Q260,0.998,0.413,0.812,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.80938,40.724195,Q,1,1991
+75Q255,75,25,P.S. Q255, Q397,0.998,0.413,0.812,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.80938,40.724195,Q,1,1991
+75Q255,75,25,P.S. Q255, Q515,0.998,0.413,0.812,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.80938,40.724195,Q,1,1991
+75Q255,75,25,P.S. Q255, Q885,0.998,0.413,0.812,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.80938,40.724195,Q,1,1991
+75Q256,75,0,P.S. Q256,Q043,0.827,0.171,0.743,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",,,Q,2,1999
+75Q256,75,0,P.S. Q256, Q114,0.827,0.171,0.743,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",,,Q,1,1999
+75Q256,75,0,P.S. Q256, Q198,0.827,0.171,0.743,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",,,Q,1,1999
+75Q256,75,0,P.S. Q256, Q253,0.827,0.171,0.743,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",,,Q,1,1999
+75Q256,75,0,P.S. Q256, Q410,0.827,0.171,0.743,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",,,Q,2,1999
+75Q256,75,0,P.S. Q256, Q816,0.827,0.171,0.743,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",,,Q,1,1999
+75Q256,75,0,P.S. Q256, QBHF,0.827,0.171,0.743,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",,,Q,1,1999
+75Q277,75,24,The Riverview School,Q076,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,2,2013
+75Q277,75,24,The Riverview School, Q290,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,1,2013
+75Q277,75,24,The Riverview School, Q311,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,1,2013
+75Q277,75,24,The Riverview School, Q312,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,1,2013
+75Q277,75,24,The Riverview School, Q314,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,1,2013
+75Q277,75,24,The Riverview School, Q315,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,1,2013
+75Q277,75,24,The Riverview School, Q404,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,1,2013
+75Q277,75,24,The Riverview School, Q485,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,1,2013
+75Q277,75,24,The Riverview School, Q777,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,2,2013
+75Q277,75,24,The Riverview School, Q204,0.998,0.393,0.796,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.921346,40.73668,Q,1,2013
+75Q721,75,24,John F. Kennedy Jr. School,Q585,0.998,0.435,0.873,High school,"0K,09,10,11,12,SE",-73.867882,40.735613,Q,2,1999
+75Q721,75,24,John F. Kennedy Jr. School, Q722,0.998,0.435,0.873,High school,"0K,09,10,11,12,SE",-73.867882,40.735613,Q,1,1999
+75Q721,75,24,John F. Kennedy Jr. School, Q725,0.998,0.435,0.873,High school,"0K,09,10,11,12,SE",-73.867882,40.735613,Q,1,1999
+75Q721,75,24,John F. Kennedy Jr. School, QBFD,0.998,0.435,0.873,High school,"0K,09,10,11,12,SE",-73.867882,40.735613,Q,1,1999
+75Q752,75,28,Queens Transition Center,Q142,0.99,0.247,0.863,High school,"09,10,11,12,SE",-73.800875,40.683473,Q,1,1999
+75Q752,75,28,Queens Transition Center, Q620,0.99,0.247,0.863,High school,"09,10,11,12,SE",-73.800875,40.683473,Q,1,1999
+75Q752,75,28,Queens Transition Center, Q690,0.99,0.247,0.863,High school,"09,10,11,12,SE",-73.800875,40.683473,Q,1,1999
+75Q752,75,28,Queens Transition Center, Q695,0.99,0.247,0.863,High school,"09,10,11,12,SE",-73.800875,40.683473,Q,1,1999
+75Q752,75,28,Queens Transition Center, Q744,0.99,0.247,0.863,High school,"09,10,11,12,SE",-73.800875,40.683473,Q,1,1999
+75Q752,75,28,Queens Transition Center, Q400,0.99,0.247,0.863,High school,"09,10,11,12,SE",-73.800875,40.683473,Q,2,1999
+75Q811,75,26,P.S. Q811,Q037,1,0.27,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.728412,40.756481,Q,2,1953
+75Q811,75,26,P.S. Q811, Q147,1,0.27,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.728412,40.756481,Q,1,1953
+75Q811,75,26,P.S. Q811, Q227,1,0.27,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.728412,40.756481,Q,1,1953
+75Q811,75,26,P.S. Q811, Q405,1,0.27,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.728412,40.756481,Q,1,1953
+75Q811,75,26,P.S. Q811, Q430,1,0.27,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.728412,40.756481,Q,1,1953
+75Q811,75,26,P.S. Q811, Q566,1,0.27,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.728412,40.756481,Q,1,1953
+75Q811,75,26,P.S. Q811, Q811,1,0.27,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.728412,40.756481,Q,1,1953
+75Q811,75,26,P.S. Q811, Q822,1,0.27,0.831,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.728412,40.756481,Q,1,1953
+75Q993,75,26,P.S. Q993,Q041,1,0.402,0.813,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.708617,40.734266,Q,2,1991
+75Q993,75,26,P.S. Q993, Q072,1,0.402,0.813,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.708617,40.734266,Q,1,1991
+75Q993,75,26,P.S. Q993, Q130,1,0.402,0.813,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.708617,40.734266,Q,1,1991
+75Q993,75,26,P.S. Q993, Q191,1,0.402,0.813,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.708617,40.734266,Q,1,1991
+75Q993,75,26,P.S. Q993, Q208,1,0.402,0.813,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.708617,40.734266,Q,1,1991
+75Q993,75,26,P.S. Q993, Q415,1,0.402,0.813,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.708617,40.734266,Q,1,1991
+75Q993,75,26,P.S. Q993, Q452,1,0.402,0.813,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.708617,40.734266,Q,2,1991
+75Q993,75,26,P.S. Q993, Q499,1,0.402,0.813,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.708617,40.734266,Q,1,1991
+75Q993,75,26,P.S. Q993, Q570,1,0.402,0.813,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.708617,40.734266,Q,1,1991
+75R025,75,31,South Richmond High School I.S./P.S. 25,R007,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,2,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, R025,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,1,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, R034,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,1,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, R061,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,2,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, R075,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,1,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, R435,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,2,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, R445,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,1,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, R450,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,1,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, R455,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,2,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, R826,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,1,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, RADL,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,1,1992
+75R025,75,31,South Richmond High School I.S./P.S. 25, RADM,0.983,0.052,0.849,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.218688,40.512019,R,1,1992
+75R037,75,31,The David Marquis School of the Arts,R002,0.997,0.089,0.793,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.151368,40.5641,R,2,1992
+75R037,75,31,The David Marquis School of the Arts, R004,0.997,0.089,0.793,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.151368,40.5641,R,1,1992
+75R037,75,31,The David Marquis School of the Arts, R030,0.997,0.089,0.793,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.151368,40.5641,R,1,1992
+75R037,75,31,The David Marquis School of the Arts, R036,0.997,0.089,0.793,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.151368,40.5641,R,1,1992
+75R037,75,31,The David Marquis School of the Arts, R840,0.997,0.089,0.793,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.151368,40.5641,R,1,1992
+75R037,75,31,The David Marquis School of the Arts, R843,0.997,0.089,0.793,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.151368,40.5641,R,1,1992
+75R037,75,31,The David Marquis School of the Arts, R844,0.997,0.089,0.793,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.151368,40.5641,R,1,1992
+75R037,75,31,The David Marquis School of the Arts, R880,0.997,0.089,0.793,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-74.151368,40.5641,R,1,1992
+75R373,75,31,P.S. R373,R006,1,0.129,0.844,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.095454,40.64118,R,2,1993
+75R373,75,31,P.S. R373, R040,1,0.129,0.844,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.095454,40.64118,R,1,1993
+75R373,75,31,P.S. R373, R058,1,0.129,0.844,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.095454,40.64118,R,1,1993
+75R373,75,31,P.S. R373, R061,1,0.129,0.844,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.095454,40.64118,R,2,1993
+75R373,75,31,P.S. R373, R071,1,0.129,0.844,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.095454,40.64118,R,1,1993
+75R373,75,31,P.S. R373, R861,1,0.129,0.844,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.095454,40.64118,R,1,1993
+75R373,75,31,P.S. R373, R884,1,0.129,0.844,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-74.095454,40.64118,R,1,1993
+75R721,75,31,The Richard H. Hungerford School,R024,1,0.154,0.915,Secondary School,"06,07,08,09,10,11,12,SE",-74.077054,40.620835,R,2,1967
+75R721,75,31,The Richard H. Hungerford School, R043,1,0.154,0.915,Secondary School,"06,07,08,09,10,11,12,SE",-74.077054,40.620835,R,1,1967
+75R721,75,31,The Richard H. Hungerford School, R435,1,0.154,0.915,Secondary School,"06,07,08,09,10,11,12,SE",-74.077054,40.620835,R,2,1967
+75R721,75,31,The Richard H. Hungerford School, R455,1,0.154,0.915,Secondary School,"06,07,08,09,10,11,12,SE",-74.077054,40.620835,R,2,1967
+75R721,75,31,The Richard H. Hungerford School, R600,1,0.154,0.915,Secondary School,"06,07,08,09,10,11,12,SE",-74.077054,40.620835,R,1,1967
+75R721,75,31,The Richard H. Hungerford School, R722,1,0.154,0.915,Secondary School,"06,07,08,09,10,11,12,SE",-74.077054,40.620835,R,1,1967
+75X010,75,8,P.S. X010,X015,0.998,0.263,0.887,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.829211,40.82708,X,3,1995
+75X010,75,8,P.S. X010, X026,0.998,0.263,0.887,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.829211,40.82708,X,1,1995
+75X010,75,8,P.S. X010, X060,0.998,0.263,0.887,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.829211,40.82708,X,1,1995
+75X010,75,8,P.S. X010, X101,0.998,0.263,0.887,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.829211,40.82708,X,1,1995
+75X010,75,8,P.S. X010, X162,0.998,0.263,0.887,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.829211,40.82708,X,1,1995
+75X010,75,8,P.S. X010, X240,0.998,0.263,0.887,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.829211,40.82708,X,1,1995
+75X010,75,8,P.S. X010, X415,0.998,0.263,0.887,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.829211,40.82708,X,1,1995
+75X010,75,8,P.S. X010, X817,0.998,0.263,0.887,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.829211,40.82708,X,1,1995
+75X010,75,8,P.S. X010, X234,0.998,0.263,0.887,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.829211,40.82708,X,1,1995
+75X017,75,7,P.S. X017,X043,0.994,0.197,0.902,K-8,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.905389,40.818703,X,2,1991
+75X017,75,7,P.S. X017, X156,0.994,0.197,0.902,K-8,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.905389,40.818703,X,1,1991
+75X017,75,7,P.S. X017, X161,0.994,0.197,0.902,K-8,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.905389,40.818703,X,1,1991
+75X017,75,7,P.S. X017, X184,0.994,0.197,0.902,K-8,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.905389,40.818703,X,2,1991
+75X017,75,7,P.S. X017, X450,0.994,0.197,0.902,K-8,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.905389,40.818703,X,1,1991
+75X017,75,7,P.S. X017, X174,0.994,0.197,0.902,K-8,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.905389,40.818703,X,1,1991
+75X168,75,10,P.S. 168,X020,0.996,0.218,0.902,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.878731,40.869482,X,2,1997
+75X168,75,10,P.S. 168, X160,0.996,0.218,0.902,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.878731,40.869482,X,1,1997
+75X168,75,10,P.S. 168, X183,0.996,0.218,0.902,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.878731,40.869482,X,1,1997
+75X168,75,10,P.S. 168, X194,0.996,0.218,0.902,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.878731,40.869482,X,1,1997
+75X168,75,10,P.S. 168, X440,0.996,0.218,0.902,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.878731,40.869482,X,2,1997
+75X168,75,10,P.S. 168, X842,0.996,0.218,0.902,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.878731,40.869482,X,1,1997
+75X168,75,10,P.S. 168, X441,0.996,0.218,0.902,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.878731,40.869482,X,1,1997
+75X176,75,11,P.S. X176,X181,1,0.115,0.867,K-12 all grades,"06,07,08,09,10,11,12,SE",-73.831669,40.874035,X,2,1999
+75X176,75,11,P.S. X176, X425,1,0.115,0.867,K-12 all grades,"06,07,08,09,10,11,12,SE",-73.831669,40.874035,X,2,1999
+75X176,75,11,P.S. X176, X455,1,0.115,0.867,K-12 all grades,"06,07,08,09,10,11,12,SE",-73.831669,40.874035,X,1,1999
+75X176,75,11,P.S. X176, X980,1,0.115,0.867,K-12 all grades,"06,07,08,09,10,11,12,SE",-73.831669,40.874035,X,1,1999
+75X352,75,12,The Vida Bogart School for All Children,X006,0.998,0.161,0.903,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.882531,40.840445,X,2,2006
+75X352,75,12,The Vida Bogart School for All Children, X040,0.998,0.161,0.903,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.882531,40.840445,X,1,2006
+75X352,75,12,The Vida Bogart School for All Children, X074,0.998,0.161,0.903,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.882531,40.840445,X,1,2006
+75X352,75,12,The Vida Bogart School for All Children, X075,0.998,0.161,0.903,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.882531,40.840445,X,1,2006
+75X352,75,12,The Vida Bogart School for All Children, X092,0.998,0.161,0.903,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.882531,40.840445,X,1,2006
+75X469,75,10,P469X - The Bronx School for Continuous Learners,X027,0.99,0.235,0.939,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.875375,40.872559,X,2,2014
+75X469,75,10,P469X - The Bronx School for Continuous Learners, X042,0.99,0.235,0.939,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.875375,40.872559,X,1,2014
+75X469,75,10,P469X - The Bronx School for Continuous Learners, X147,0.99,0.235,0.939,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.875375,40.872559,X,1,2014
+75X469,75,10,P469X - The Bronx School for Continuous Learners, X177,0.99,0.235,0.939,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.875375,40.872559,X,1,2014
+75X469,75,10,P469X - The Bronx School for Continuous Learners, X855,0.99,0.235,0.939,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.875375,40.872559,X,1,2014
+75X596,75,11,P.S. X596,X153,1,0.114,0.78,Elementary,"PK,0K,01,02,03,04,05,06,07,SE",-73.831669,40.874035,X,2,2018
+75X596,75,11,P.S. X596, X178,1,0.114,0.78,Elementary,"PK,0K,01,02,03,04,05,06,07,SE",-73.831669,40.874035,X,1,2018
+75X596,75,11,P.S. X596, X498,1,0.114,0.78,Elementary,"PK,0K,01,02,03,04,05,06,07,SE",-73.831669,40.874035,X,1,2018
+75X721,75,11,P.S. X721 - Stephen McSweeney School,X368,1,0.36,0.923,High school,"09,10,11,12,SE",-73.839114,40.842725,X,2,1999
+75X721,75,11,P.S. X721 - Stephen McSweeney School, X405,1,0.36,0.923,High school,"09,10,11,12,SE",-73.839114,40.842725,X,1,1999
+75X721,75,11,P.S. X721 - Stephen McSweeney School, X423,1,0.36,0.923,High school,"09,10,11,12,SE",-73.839114,40.842725,X,1,1999
+75X721,75,11,P.S. X721 - Stephen McSweeney School, X440,1,0.36,0.923,High school,"09,10,11,12,SE",-73.839114,40.842725,X,2,1999
+75X721,75,11,P.S. X721 - Stephen McSweeney School, X722,1,0.36,0.923,High school,"09,10,11,12,SE",-73.839114,40.842725,X,1,1999
+75X721,75,11,P.S. X721 - Stephen McSweeney School, XAHZ,1,0.36,0.923,High school,"09,10,11,12,SE",-73.839114,40.842725,X,1,1999
+75X723,75,11,P.S. 723,X049,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,2,2005
+75X723,75,11,P.S. 723, X099,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,1,2005
+75X723,75,11,P.S. 723, X189,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,1,2005
+75X723,75,11,P.S. 723, X235,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,1,2005
+75X723,75,11,P.S. 723, X338,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,1,2005
+75X723,75,11,P.S. 723, X425,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,2,2005
+75X723,75,11,P.S. 723, X701,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,1,2005
+75X723,75,11,P.S. 723, X909,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,1,2005
+75X723,75,11,P.S. 723, X927,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,1,2005
+75X723,75,11,P.S. 723, XAHW,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,1,2005
+75X723,75,11,P.S. 723, XAIF,0.984,0.08,0.934,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.831856,40.88298,X,1,2005
+75X754,75,7,J. M. Rapport School Career Development,Q733,0.991,0.305,0.937,High school,"09,10,11,12,SE",-73.909363,40.811051,X,1,1999
+75X754,75,7,J. M. Rapport School Career Development, X155,0.991,0.305,0.937,High school,"09,10,11,12,SE",-73.909363,40.811051,X,2,1999
+75X754,75,7,J. M. Rapport School Career Development, X184,0.991,0.305,0.937,High school,"09,10,11,12,SE",-73.909363,40.811051,X,2,1999
+75X754,75,7,J. M. Rapport School Career Development, X362,0.991,0.305,0.937,High school,"09,10,11,12,SE",-73.909363,40.811051,X,1,1999
+79M331,79,4,JUDITH S. KAYE SCHOOL - D79,M646,0.391,0.043,0.87,,,,,M,2,
+79M331,79,28,JUDITH S. KAYE SCHOOL - D79, Q142,0.391,0.043,0.87,,,,,M,3,
+79M645,79,18,School for Cooperative Technical Education,K500,0.011,0.056,0.652,,,,,M,4,
+79M645,79,5,School for Cooperative Technical Education, M079,0.011,0.056,0.652,,,,,M,1,
+79M645,79,4,School for Cooperative Technical Education, M646,0.011,0.056,0.652,,,,,M,1,
+79M645,79,0,School for Cooperative Technical Education, M827,0.011,0.056,0.652,,,,,M,2,
+79M645,79,28,School for Cooperative Technical Education, Q142,0.011,0.056,0.652,,,,,M,3,
+79M645,79,30,School for Cooperative Technical Education, Q452,0.011,0.056,0.652,,,,,M,2,
+79M645,79,0,School for Cooperative Technical Education, RAAC,0.011,0.056,0.652,,,,,M,1,
+79M645,79,8,School for Cooperative Technical Education, X039,0.011,0.056,0.652,,,,,M,1,
+79M645,79,27,School for Cooperative Technical Education, Q465,0.011,0.056,0.652,,,,,M,1,
+79M973,79,17,Restart Academy,K824,0.486,0.148,0.824,,,,,M,2,
+79M973,79,0,Restart Academy, KBJH,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, KCBV,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, KCQH,0.486,0.148,0.824,,,,,M,1,
+79M973,79,1,Restart Academy, M056,0.486,0.148,0.824,,,,,M,1,
+79M973,79,6,Restart Academy, M465,0.486,0.148,0.824,,,,,M,2,
+79M973,79,2,Restart Academy, M834,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, MAKG,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, MASF,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, MASJ,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, MBGX,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, MBMU,0.486,0.148,0.824,,,,,M,1,
+79M973,79,27,Restart Academy, Q400,0.486,0.148,0.824,,,,,M,2,
+79M973,79,27,Restart Academy, Q410,0.486,0.148,0.824,,,,,M,2,
+79M973,79,25,Restart Academy, Q460,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, QARD,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, QBEX,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, QBHI,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, QBNO,0.486,0.148,0.824,,,,,M,1,
+79M973,79,7,Restart Academy, X655,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, X897,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, XALW,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, XALX,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, XAUF,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, XAXF,0.486,0.148,0.824,,,,,M,1,
+79M973,79,0,Restart Academy, XAX,0.486,0.148,0.824,,,,,M,1,
+79Q950,79,14,Pathways to Graduation,K148,0.131,0.161,0.722,,,,,Q,2,
+79Q950,79,0,Pathways to Graduation, K371,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, K410,0.131,0.161,0.722,,,,,Q,2,
+79Q950,79,0,Pathways to Graduation, K420,0.131,0.161,0.722,,,,,Q,2,
+79Q950,79,0,Pathways to Graduation, K428,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,16,Pathways to Graduation, K455,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, K458,0.131,0.161,0.722,,,,,Q,3,
+79Q950,79,0,Pathways to Graduation, K515,0.131,0.161,0.722,,,,,Q,2,
+79Q950,79,0,Pathways to Graduation, K525,0.131,0.161,0.722,,,,,Q,2,
+79Q950,79,0,Pathways to Graduation, K871,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, K893,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, KAUS,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, KBJL,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, KBJO,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, KBJQ,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, KBJR,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, KBJS,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, KCQJ,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, KCTB,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, M058,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, M465,0.131,0.161,0.722,,,,,Q,2,
+79Q950,79,0,Pathways to Graduation, M510,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, M807,0.131,0.161,0.722,,,,,Q,2,
+79Q950,79,0,Pathways to Graduation, M827,0.131,0.161,0.722,,,,,Q,2,
+79Q950,79,0,Pathways to Graduation, M911,0.131,0.161,0.722,,,,,Q,1,
+79Q950,79,0,Pathways to Graduation, MAN,0.131,0.161,0.722,,,,,Q,1,
+84K037,84,14,Beginning with Children Charter School II,K071,0.191,0.129,0.925,K-8,"0K,01,02,03,04,05,06,07,08",-73.953304,40.703996,K,2,2012
+84K037,84,14,Beginning with Children Charter School II, KABV,0.191,0.129,0.925,K-8,"0K,01,02,03,04,05,06,07,08",-73.953304,40.703996,K,1,2012
+84K125,84,14,Success Academy Charter School - Bed-Stuy 2,K059,0.166,0.016,0.653,Elementary,"0K,01,02,03,04,05",-73.943279,40.697619,K,2,2012
+84K129,84,15,Success Academy Charter School - Cobble Hill,K293,0.097,0.048,0.499,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.993293,40.685006,K,3,2012
+84K182,84,14,Success Academy Charter School - Williamsburg,K050,0.161,0.076,0.568,Elementary,"0K,01,02,03,04,05,06,08",-73.960137,40.711915,K,2,2012
+84K333,84,17,Explore Exceed Charter School,K022,0.242,0.065,0.798,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.960093,40.6771,K,2,2012
+84K333,84,17,Explore Exceed Charter School, K320,0.242,0.065,0.798,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.960093,40.6771,K,1,2012
+84K355,84,14,Williamsburg Collegiate Charter School,K016,0.161,0.052,0.839,Junior High-Intermediate-Middle,"05,06,07,08",-73.962049,40.706069,K,2,2005
+84K356,84,17,Achievement First Crown Heights Charter School,K391,0.159,0.01,0.815,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.936313,40.662092,K,2,2005
+84K356,84,17,Achievement First Crown Heights Charter School, K434,0.159,0.01,0.815,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.936313,40.662092,K,2,2005
+84K357,84,17,KIPP AMP Charter School,K390,0.177,0.018,0.865,K-12 all grades,"0K,01,02,03,04,05,06,07,08",-73.937601,40.67229,K,2,2005
+84K357,84,17,KIPP AMP Charter School, XAVN,0.177,0.018,0.865,K-12 all grades,"0K,01,02,03,04,05,06,07,08",-73.937601,40.67229,K,5,2005
+84K358,84,19,Achievement First East New York Charter School,K013,0.109,0.017,0.852,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.893328,40.664067,K,2,2005
+84K358,84,19,Achievement First East New York Charter School, K065,0.109,0.017,0.852,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.893328,40.664067,K,1,2005
+84K358,84,19,Achievement First East New York Charter School, K111,0.109,0.017,0.852,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.893328,40.664067,K,1,2005
+84K359,84,19,The Uft Charter School,K166,0.108,0.113,0.835,High school,"09,10,11,12,SE",-73.885704,40.659934,K,3,2005
+84K360,84,16,Launch Expeditionary Learning Charter School,K243,0.264,0.027,0.876,Junior High-Intermediate-Middle,"06,07,08",-73.935093,40.675675,K,2,2012
+84K367,84,14,Success Academy Charter School - Bed-Stuy 1,K033,0.173,0.018,0.644,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.947557,40.696698,K,2,2011
+84K379,84,18,Explore Excel Charter School,K068,0.207,0.086,0.791,K-8,"0K,01,02,03,04,05,06,07,08",-73.90788,40.642684,K,2,2011
+84K379,84,18,Explore Excel Charter School, K114,0.207,0.086,0.791,K-8,"0K,01,02,03,04,05,06,07,08",-73.90788,40.642684,K,1,2011
+84K395,84,17,New Visions A.I.M. Charter High School I,K907,0.463,0.04,0.909,High school,"09,10,11,12",-73.923881,40.666251,K,2,2012
+84K406,84,16,"EMBER Charter School for Mindful Education, Innovation and Transformation",K262,0.163,0.054,0.876,K-8,"0K,01,02,03,04,05,06,07,08",-73.935509,40.688323,K,2,2011
+84K406,84,16,"EMBER Charter School for Mindful Education, Innovation and Transformation", K308,0.163,0.054,0.876,K-8,"0K,01,02,03,04,05,06,07,08",-73.935509,40.688323,K,1,2011
+84K517,84,13,Leadership Prep Bedford Stuyvesant Uncommon Prep Charter School,K258,0.114,0.038,0.774,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.9456,40.68192,K,1,2006
+84K517,84,13,Leadership Prep Bedford Stuyvesant Uncommon Prep Charter School, K458,0.114,0.038,0.774,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.9456,40.68192,K,3,2006
+84K536,84,13,Community Roots Charter School,K067,0.249,0.013,0.291,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.977674,40.695339,K,2,2006
+84K536,84,13,Community Roots Charter School, K287,0.249,0.013,0.291,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.977674,40.695339,K,1,2006
+84K538,84,32,Achievement First Bushwick Charter School,K296,0.23,0.114,0.874,K-12 all grades,"0K,01,02,03,04,05,06,07,08,SE",-73.919088,40.697898,K,2,2006
+84K538,84,32,Achievement First Bushwick Charter School, K383,0.23,0.114,0.874,K-12 all grades,"0K,01,02,03,04,05,06,07,08,SE",-73.919088,40.697898,K,1,2006
+84K608,84,18,Kings Collegiate Charter School,K232,0.128,0.018,0.817,K-12 all grades,"0K,01,02,03,05,06,07,08,09,10,11",-73.919818,40.657712,K,2,2007
+84K608,84,18,Kings Collegiate Charter School, K252,0.128,0.018,0.817,K-12 all grades,"0K,01,02,03,05,06,07,08,09,10,11",-73.919818,40.657712,K,1,2007
+84K608,84,18,Kings Collegiate Charter School, K420,0.128,0.018,0.817,K-12 all grades,"0K,01,02,03,05,06,07,08,09,10,11",-73.919818,40.657712,K,2,2007
+84K626,84,23,Achievement First Brownsville Charter School,K055,0.118,0.026,0.809,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.912685,40.674456,K,2,2008
+84K626,84,23,Achievement First Brownsville Charter School, K292,0.118,0.026,0.809,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.912685,40.674456,K,1,2008
+84K648,84,16,Bedford Stuyvesant Collegiate Charter School,K324,0.17,0.066,0.833,Secondary School,"05,06,07,08",-73.932066,40.68797,K,3,2008
+84K649,84,16,La Cima Charter School,K324,0.17,0.158,0.884,Elementary,"0K,01,02,03,04,05",-73.932066,40.68797,K,3,2008
+84K680,84,19,Achievement First Aspire Charter School,K202,0.113,0.036,0.816,Elementary,"0K,01,02,03,04,05,06,07",-73.876084,40.665817,K,2,2013
+84K680,84,19,Achievement First Aspire Charter School, K306,0.113,0.036,0.816,Elementary,"0K,01,02,03,04,05,06,07",-73.876084,40.665817,K,1,2013
+84K693,84,14,Northside Charter High School,K126,0.209,0.043,0.796,High school,"09,10,11,12",-73.947932,40.719818,K,2,2009
+84K701,84,14,Brooklyn Charter School,K023,0.155,0.05,0.832,Elementary,"0K,01,02,03,04,05",-73.947256,40.69447,K,2,2000
+84K702,84,13,Community Partnership Charter School,K256,0.208,0.028,0.847,K-8,"PK,0K,01,02,03,04,05,06,07,08",-73.961134,40.691275,K,2,2000
+84K702,84,13,Community Partnership Charter School, K270,0.208,0.028,0.847,K-8,"PK,0K,01,02,03,04,05,06,07,08",-73.961134,40.691275,K,1,2000
+84K704,84,17,Explore Charter School,K002,0.141,0.087,0.81,K-8,"0K,01,02,03,04,05,06,07,08",-73.951575,40.656423,K,3,2001
+84K707,84,15,Brooklyn Prospect Charter School,KAGI,0.191,0.016,0.474,K-12 all grades,"07,08,09,10,11,12,SE",-73.97872,40.647893,K,2,2009
+84K710,84,23,Brownsville Collegiate Charter School,K150,0.199,0.08,0.902,Junior High-Intermediate-Middle,"05,06,07,08,09",-73.90514,40.668768,K,2,2009
+84K711,84,23,Leadership Preparatory Brownsville Charter School,K275,0.106,0.026,0.916,K-8,"0K,01,02,03,04,05,06,07,08",-73.906662,40.655644,K,4,2009
+84K711,84,23,Leadership Preparatory Brownsville Charter School, K284,0.106,0.026,0.916,K-8,"0K,01,02,03,04,05,06,07,08",-73.906662,40.655644,K,1,2009
+84K712,84,16,Excellence Girls Charter School,K191,0.147,0.021,0.78,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.924422,40.6881,K,2,2009
+84K712,84,16,Excellence Girls Charter School, K309,0.147,0.021,0.78,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.924422,40.6881,K,1,2009
+84K712,84,16,Excellence Girls Charter School, K434,0.147,0.021,0.78,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.924422,40.6881,K,2,2009
+84K724,84,18,Leadership Prep Canarsie Charter School (Leadership Prep CS 4),K211,0.108,0.017,0.771,K-8,"0K,01,02,03,04,05,06,07,08",-73.892797,40.644134,K,2,2013
+84K724,84,18,Leadership Prep Canarsie Charter School (Leadership Prep CS 4), K279,0.108,0.017,0.771,K-8,"0K,01,02,03,04,05,06,07,08",-73.892797,40.644134,K,1,2013
+84K730,84,15,Summit Academy Charter School,K027,0.246,0.049,0.803,Secondary School,"06,07,08,09,10,11,12",-74.005151,40.677914,K,2,2009
+84K733,84,32,"Math, Engineering, and Science Academy Charter High School",K291,0.144,0.128,0.807,High school,"09,10,11,12",-73.915217,40.695875,K,3,2013
+84K736,84,18,New American Academy Charter School,K233,0.159,0.027,0.771,Elementary,"0K,01,02,03,04,05",-73.914282,40.651642,K,2,2013
+84K737,84,23,Brownsville Ascend Charter School,KBVT,0.162,0.008,0.767,K-8,"0K,01,02,03,04,05,06,07,08",-73.918123,40.668608,K,1,2009
+84K738,84,22,New Visions Charter High School for Advanced Math and Science III,K495,0.122,0.05,0.761,High school,"09,10,11,12",-73.936635,40.593157,K,4,2013
+84K739,84,22,New Visions Charter High School for the Humanities III,K495,0.202,0.052,0.813,High school,"09,10,11,12",-73.936635,40.593157,K,4,2013
+84K741,84,17,Success Academy Crown Heights (Brooklyn 7),K161,0.147,0.016,0.6,Elementary,"0K,01,02,03,04,05,06,07",-73.949243,40.665757,K,2,2013
+84K741,84,17,Success Academy Crown Heights (Brooklyn 7), K246,0.147,0.016,0.6,Elementary,"0K,01,02,03,04,05,06,07",-73.949243,40.665757,K,1,2013
+84K742,84,17,Explore Empower Charter School,K210,0.2,0.026,0.804,K-8,"0K,01,02,03,04,05,06,07,08",-73.928917,40.67271,K,2,2009
+84K744,84,21,Coney Island Preparatory Public Charter School,K281,0.226,0.063,0.861,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.972009,40.582518,K,2,2009
+84K744,84,21,Coney Island Preparatory Public Charter School, K303,0.226,0.063,0.861,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.972009,40.582518,K,2,2009
+84K744,84,21,Coney Island Preparatory Public Charter School, KAEG,0.226,0.063,0.861,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.972009,40.582518,K,1,2009
+84K752,84,13,Success Academy Fort Greene (Brooklyn 5),K265,0.189,0.058,0.649,Elementary,"0K,01,02,03,04,05,SE",-73.976104,40.697177,K,2,2013
+84K756,84,17,Success Academy Prospect Heights (Brooklyn 6),K138,0.145,0.011,0.613,K-8,"0K,01,02,03,04,05,06,07,08",-73.951559,40.673943,K,2,2013
+84K756,84,17,Success Academy Prospect Heights (Brooklyn 6), K297,0.145,0.011,0.613,K-8,"0K,01,02,03,04,05,06,07,08",-73.951559,40.673943,K,1,2013
+84K757,84,13,Unity Prep Charter School,K044,0.233,0.02,0.757,Secondary School,"06,07,08,09,10,11,12",-73.940859,40.686213,K,2,2013
+84K757,84,13,Unity Prep Charter School, KCVL,0.233,0.02,0.757,Secondary School,"06,07,08,09,10,11,12",-73.940859,40.686213,K,1,2013
+84K769,84,19,Hyde Leadership Charter School- Brooklyn,K328,0.194,0.067,0.921,Elementary,"0K,01,02,03,04,05,06,07",-73.898249,40.667985,K,2,2010
+84K769,84,19,Hyde Leadership Charter School- Brooklyn, KCVM,0.194,0.067,0.921,Elementary,"0K,01,02,03,04,05,06,07",-73.898249,40.667985,K,1,2010
+84K772,84,21,Success Academy Charter School - Bensonhurst - New York 3,K096,0.121,0.189,0.517,Elementary,"0K,01,02,03,04,05",-73.984985,40.608135,K,2,2014
+84K774,84,19,Achievement First Apollo Charter School,K292,0.093,0.066,0.832,K-8,"0K,01,02,03,04,05,06,07,08,09",-73.884211,40.677112,K,2,2010
+84K774,84,19,Achievement First Apollo Charter School, K302,0.093,0.066,0.832,K-8,"0K,01,02,03,04,05,06,07,08,09",-73.884211,40.677112,K,1,2010
+84K775,84,23,Leadership Preparatory Ocean Hill Charter School,K332,0.101,0.026,0.797,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.906018,40.672216,K,2,2010
+84K775,84,23,Leadership Preparatory Ocean Hill Charter School, K515,0.101,0.026,0.797,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.906018,40.672216,K,2,2010
+84K777,84,23,Ocean Hill Collegiate Charter School,K221,0.131,0.042,0.805,Junior High-Intermediate-Middle,"0K,01,05,06,07,08",-73.915106,40.678124,K,2,2010
+84K777,84,23,Ocean Hill Collegiate Charter School, K271,0.131,0.042,0.805,Junior High-Intermediate-Middle,"0K,01,05,06,07,08",-73.915106,40.678124,K,1,2010
+84K780,84,13,Brooklyn East Collegiate Charter School,K458,0.158,0.059,0.755,Junior High-Intermediate-Middle,"05,06,07,08",-73.947873,40.684654,K,2,2010
+84K781,84,22,Success Academy Charter School - Bergen Beach - New York 4,K078,0.111,0.024,0.521,Elementary,"0K,01,02,03,04,05,06,SE",-73.912914,40.620537,K,2,2014
+84K781,84,22,Success Academy Charter School - Bergen Beach - New York 4, K864,0.111,0.024,0.521,Elementary,"0K,01,02,03,04,05,06,SE",-73.912914,40.620537,K,1,2014
+84K784,84,32,Achievement First North Brooklyn Prep Charter School,K377,0.16,0.173,0.854,Elementary,"0K,01,02,03,04,05,06",-73.915159,40.693542,K,2,2014
+84K788,84,19,Achievement First Linden Elementary School,K166,0.142,0.011,0.827,Elementary,"0K,01,02,03,04,05,06",-73.885704,40.659934,K,3,2014
+84K788,84,19,Achievement First Linden Elementary School, K218,0.142,0.011,0.827,Elementary,"0K,01,02,03,04,05,06",-73.885704,40.659934,K,1,2014
+84K789,84,13,Compass Charter School,K113,0.209,0.027,0.248,Elementary,"PK,0K,01,02,03,04,05,SE",-73.971474,40.688769,K,3,2014
+84K803,84,13,Brooklyn LAB¬†Charter School,KCVO,0.3,0.034,0.692,Junior High-Intermediate-Middle,"06,07,08,09,10,11,SE",-73.987399,40.70043,K,2,2014
+84K876,84,17,Achievement First Voyager Charter School,K091,0.13,0.013,0.718,Secondary School,"0K,01,05,06,07,08",-73.95381,40.656276,K,2,2016
+84K876,84,17,Achievement First Voyager Charter School, K092,0.13,0.013,0.718,Secondary School,"0K,01,05,06,07,08",-73.95381,40.656276,K,1,2016
+84K883,84,16,Success Academy Charter School - Bed Stuy 3,K025,0.207,0,0.506,Junior High-Intermediate-Middle,"05,06",-73.940749,40.691472,K,2,2016
+84K892,84,16,Brooklyn Emerging Leaders Academy,K057,0.177,0.022,0.801,High school,"09,10,11,SE",-73.932254,40.691467,K,3,2017
+84K910,84,19,Cypress Hills Ascend Charter School,KAKT,0.149,0.219,0.758,Early Childhood,"0K,01,02",-73.867071,40.681183,K,2,2018
+84K911,84,13,Edmund W. Gordon Brooklyn Laboratory Charter School,KCVO,0.212,0.024,0.727,Secondary School,"06,07,09",-73.987399,40.70043,K,2,2018
+84K928,84,15,Brooklyn Prospect Charter School 15.2,KAGI,0.248,0.071,0.549,Junior High-Intermediate-Middle,6,-73.97872,40.647893,K,2,2019
+84K929,84,19,East Brooklyn Ascend Charter School,KAKT,0.231,0,0.808,Junior High-Intermediate-Middle,0K,-73.867071,40.681183,K,2,2019
+84K933,84,18,Lefferts Gardens Ascend Charter School,KAJJ,0.149,0.021,0.766,Elementary,"0K,01",-73.939706,40.652671,K,2,2019
+84K934,84,18,East Flatbush Ascend Charter School,KAJJ,0.13,0.026,0.623,Elementary,"0K,01",-73.939706,40.652671,K,2,2019
+84M065,84,5,Democracy Prep Endurance Charter School,M154,0.203,0.057,0.831,Secondary School,"06,07,08,09,10,11,12",-73.948902,40.810499,M,2,2012
+84M065,84,5,Democracy Prep Endurance Charter School, MADR,0.203,0.057,0.831,Secondary School,"06,07,08,09,10,11,12",-73.948902,40.810499,M,2,2012
+84M068,84,6,KIPP Washington Heights Middle School,M090,0.214,0.095,0.907,K-12 all grades,"0K,01,02,03,04,05,06,07,08",-73.935815,40.839139,M,3,2012
+84M068,84,6,KIPP Washington Heights Middle School, M115,0.214,0.095,0.907,K-12 all grades,"0K,01,02,03,04,05,06,07,08",-73.935815,40.839139,M,1,2012
+84M068,84,6,KIPP Washington Heights Middle School, XAVN,0.214,0.095,0.907,K-12 all grades,"0K,01,02,03,04,05,06,07,08",-73.935815,40.839139,M,5,2012
+84M080,84,1,Manhattan Charter School II,M056,0.275,0.072,0.869,Elementary,"0K,01,02,03,04,05",-73.986051,40.713362,M,3,2012
+84M168,84,4,East Harlem Scholars Academy Charter School II,M013,0.236,0.127,0.842,Elementary,"PK,0K,01,02,03,04,05,06,07,SE",-73.948488,40.793649,M,3,2013
+84M170,84,2,Success Academy Hell's Kitchen (Manhattan 2),M625,0.172,0.086,0.615,Elementary,"0K,01,02,03,04,05,06,SE",-73.990318,40.763655,M,4,2013
+84M174,84,2,Success Academy Union Square (Manhattan 1),M460,0.173,0.032,0.313,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.987064,40.735361,M,6,2013
+84M174,84,2,Success Academy Union Square (Manhattan 1), MBMO,0.173,0.032,0.313,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.987064,40.735361,M,1,2013
+84M279,84,3,The Opportunity Charter School,M113,0.638,0.127,0.878,Secondary School,"06,07,08,09,10,11,12,SE",-73.955583,40.801573,M,3,2004
+84M320,84,1,Manhattan Charter School,M142,0.254,0.111,0.893,Elementary,"0K,01,02,03,04,05",-73.984116,40.718121,M,2,2005
+84M329,84,3,Harlem Link Charter School,M208,0.235,0.093,0.918,Elementary,"PK,0K,01,02,03,04,05",-73.950146,40.798461,M,1,2005
+84M330,84,1,Girls Preparatory Charter School of New York,M060,0.199,0.012,0.81,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.97738,40.719888,M,2,2005
+84M330,84,1,Girls Preparatory Charter School of New York, M188,0.199,0.012,0.81,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.97738,40.719888,M,2,2005
+84M335,84,4,Harlem Village Academy East Charter School,M045,0.226,0.02,0.864,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.93374,40.799265,M,2,2005
+84M335,84,4,Harlem Village Academy East Charter School, M280,0.226,0.02,0.864,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.93374,40.799265,M,2,2005
+84M336,84,5,KIPP Infinity Charter School,M195,0.193,0.057,0.88,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.956814,40.819793,M,2,2005
+84M336,84,5,KIPP Infinity Charter School, XAVN,0.193,0.057,0.88,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.956814,40.819793,M,5,2005
+84M337,84,4,NYC Autism Charter School East Harlem,M050,1,0.025,0.925,Ungraded,"0K,01,02,03,04,05,06,08,09,10,11,SE",-73.940919,40.785559,M,3,2005
+84M338,84,6,WHIN Music Community,M164,0.245,0.115,0.703,Elementary,"0K,01,02,03",-73.937263,40.836982,M,2,2017
+84M341,84,5,Harlem Children's Zone Promise Academy II Charter School,M501,0.179,0.047,0.887,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.938714,40.807019,M,2,2005
+84M341,84,5,Harlem Children's Zone Promise Academy II Charter School, MANO,0.179,0.047,0.887,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.938714,40.807019,M,1,2005
+84M350,84,5,Democracy Prep Charter School,M092,0.165,0.054,0.79,K-12 all grades,"06,07,08,09,10,11,12,SE",-73.938347,40.813532,M,3,2006
+84M350,84,5,Democracy Prep Charter School, M197,0.165,0.054,0.79,K-12 all grades,"06,07,08,09,10,11,12,SE",-73.938347,40.813532,M,1,2006
+84M351,84,3,Success Academy Charter School - Harlem 1,M088,0.109,0.023,0.656,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.948088,40.802649,M,3,2006
+84M351,84,3,Success Academy Charter School - Harlem 1, M149,0.109,0.023,0.656,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.948088,40.802649,M,2,2006
+84M351,84,3,Success Academy Charter School - Harlem 1, M620,0.109,0.023,0.656,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.948088,40.802649,M,2,2006
+84M358,84,2,Success Academy Charter School - Hudson Yards,MBMO,0.214,0.084,0.508,Elementary,"0K,01,02,03,SE",-73.996499,40.758759,M,1,2017
+84M380,84,5,Harlem Village Academy West 2 Charter School,MAGD,0.161,0.08,0.875,Elementary,"0K,01",-73.945603,40.80669,M,1,2019
+84M382,84,4,DREAM Charter School,M050,0.284,0.05,0.894,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11",-73.945101,40.789174,M,3,2008
+84M382,84,4,DREAM Charter School, MBMF,0.284,0.05,0.894,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11",-73.945101,40.789174,M,1,2008
+84M382,84,4,DREAM Charter School, MBMR,0.284,0.05,0.894,K-12 all grades,"PK,0K,01,02,03,04,05,06,07,08,09,10,11",-73.945101,40.789174,M,1,2008
+84M384,84,5,Success Academy Charter School - Harlem 2,M030,0.16,0.056,0.735,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.935461,40.805653,M,3,2008
+84M384,84,5,Success Academy Charter School - Harlem 2, M043,0.16,0.056,0.735,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.935461,40.805653,M,1,2008
+84M385,84,4,Success Academy Charter School - Harlem 3,M099,0.169,0.028,0.698,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.942154,40.785107,M,3,2008
+84M385,84,4,Success Academy Charter School - Harlem 3, M101,0.169,0.028,0.698,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.942154,40.785107,M,1,2008
+84M385,84,4,Success Academy Charter School - Harlem 3, M620,0.169,0.028,0.698,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,SE",-73.942154,40.785107,M,2,2008
+84M386,84,3,Success Academy Charter School - Harlem 4,M113,0.141,0.056,0.738,K-8,"0K,01,02,03,04,05,SE",-73.955583,40.801573,M,3,2008
+84M388,84,5,St. HOPE Leadership Academy Charter School,M092,0.248,0.048,0.973,Junior High-Intermediate-Middle,"06,07,08",-73.945838,40.814917,M,3,2008
+84M433,84,4,Renaissance Charter High School for Innovation,M099,0.339,0.075,0.863,High school,"09,10,11,12",-73.942154,40.785107,M,3,2010
+84M482,84,5,Success Academy Charter School - Harlem 5,M123,0.146,0.061,0.75,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.944551,40.820216,M,2,2010
+84M482,84,5,Success Academy Charter School - Harlem 5, M175,0.146,0.061,0.75,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.944551,40.820216,M,1,2010
+84M518,84,4,East Harlem Scholars Academy Charter School,M645,0.28,0.102,0.855,K-8,"PK,0K,01,02,03,04,05,06,07,08,09",-73.942482,40.79001,M,2,2011
+84M518,84,4,East Harlem Scholars Academy Charter School, MBMC,0.28,0.102,0.855,K-8,"PK,0K,01,02,03,04,05,06,07,08,09",-73.942482,40.79001,M,1,2011
+84M523,84,3,Success Academy Charter School - Upper West,M470,0.158,0.028,0.4,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.974483,40.786134,M,5,2011
+84M523,84,3,Success Academy Charter School - Upper West, M625,0.158,0.028,0.4,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.974483,40.786134,M,1,2011
+84M708,84,4,Harlem Prep Charter School,M121,0.205,0.052,0.872,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.935335,40.801547,M,2,2000
+84M708,84,4,Harlem Prep Charter School, MADR,0.205,0.052,0.872,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.935335,40.801547,M,2,2000
+84M709,84,5,Harlem Village Academy West Charter School,M194,0.188,0.029,0.834,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.941111,40.821208,M,2,2003
+84M709,84,5,Harlem Village Academy West Charter School, M280,0.188,0.029,0.834,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.941111,40.821208,M,2,2003
+84M709,84,5,Harlem Village Academy West Charter School, MAGD,0.188,0.029,0.834,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.941111,40.821208,M,1,2003
+84M709,84,5,Harlem Village Academy West Charter School, MBTD,0.188,0.029,0.834,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.941111,40.821208,M,1,2003
+84M726,84,5,KIPP STAR College Prep Charter School,M125,0.238,0.037,0.882,K-12 all grades,"0K,01,02,03,04,05,06,07,08",-73.955722,40.810793,M,3,2003
+84M726,84,5,KIPP STAR College Prep Charter School, M195,0.238,0.037,0.882,K-12 all grades,"0K,01,02,03,04,05,06,07,08",-73.955722,40.810793,M,1,2003
+84M726,84,5,KIPP STAR College Prep Charter School, XAVN,0.238,0.037,0.882,K-12 all grades,"0K,01,02,03,04,05,06,07,08",-73.955722,40.810793,M,5,2003
+84M861,84,3,Future Leaders Institute Charter School,M144,0.152,0.072,0.835,K-8,"0K,01,02,03,04,05,06,07,08",-73.948385,40.806055,M,2,2001
+84Q304,84,30,VOICE Charter School of New York,Q111,0.185,0.166,0.803,K-8,"0K,01,02,03,04,05,06,07,08",-73.939984,40.760376,Q,2,2008
+84Q304,84,30,VOICE Charter School of New York, QALJ,0.185,0.166,0.803,K-8,"0K,01,02,03,04,05,06,07,08",-73.939984,40.760376,Q,1,2008
+84Q320,84,27,New Visions Charter High School for Advanced Math and Science IV,Q400,0.158,0.039,0.74,High school,"09,10,11,12,SE",-73.782684,40.673949,Q,3,2015
+84Q339,84,29,Success Academy Charter School - Springfield Gardens - New York 6,Q059,0.099,0.005,0.489,Elementary,"0K,01,02,03,04,05,06,SE",-73.752772,40.681881,Q,2,2014
+84Q373,84,27,New Visions Charter High School for the Humanities IV,Q410,0.208,0.015,0.713,High school,"09,10,11",-73.825317,40.586012,Q,4,2017
+84Q375,84,27,Success Academy Charter School - Far Rockaway,Q053,0.167,0.021,0.739,Elementary,"0K,01,02,03,04",-73.749891,40.604019,Q,3,2016
+84R012,84,31,New Ventures Charter School,RAHR,0.37,0.021,0.747,High school,"09,10,11,12,SE",-74.178183,40.607104,R,3,2015
+84R067,84,31,John W. Lavelle Preparatory Charter School,RAHR,0.39,0.022,0.789,K-12 all grades,"03,04,05,06,07,08,09,10,11,12,SE",-74.178183,40.607104,R,3,2009
+84R070,84,31,Lois and Richard Nicotra Early College Charter School,RAHR,0.269,0.022,0.694,Secondary School,"08,09,10,SE",-74.166566,40.552293,R,3,2018
+84R076,84,31,Bridge Preparatory Charter School,R880,0.635,0,0.682,Elementary,"01,02",-74.105883,40.607637,R,2,2019
+84X124,84,12,Children's Aid College Prep Charter School,X193,0.208,0.103,0.868,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.890145,40.843705,X,3,2012
+84X124,84,12,Children's Aid College Prep Charter School, XBBN,0.208,0.103,0.868,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.890145,40.843705,X,1,2012
+84X133,84,9,Icahn Charter School 6,X004,0.087,0.08,0.839,K-8,"0K,01,02,03,04,05,06,07,08",-73.897943,40.841758,X,2,2012
+84X133,84,9,Icahn Charter School 6, XADA,0.087,0.08,0.839,K-8,"0K,01,02,03,04,05,06,07,08",-73.897943,40.841758,X,1,2012
+84X200,84,12,New Visions A.I.M. Charter High School II,X401,0.411,0.061,0.911,High school,"09,10,11,12",-73.898265,40.823124,X,3,2012
+84X202,84,8,New Visions Charter High School for Advanced Math and Science II,X650,0.173,0.072,0.902,High school,"09,10,11,12,SE",-73.902892,40.821723,X,2,2012
+84X208,84,7,New Visions Charter High School for the Humanities II,X655,0.198,0.143,0.829,High school,"09,10,11,12,SE",-73.907528,40.810671,X,3,2012
+84X255,84,11,Bronx Charter School for Excellence,XAEF,0.11,0.064,0.785,K-8,"0K,01,02,03,04,05,06,07,08",-73.858533,40.834025,X,3,2004
+84X255,84,11,Bronx Charter School for Excellence, XAJK,0.11,0.064,0.785,K-8,"0K,01,02,03,04,05,06,07,08",-73.858533,40.834025,X,1,2004
+84X255,84,11,Bronx Charter School for Excellence, XBAX,0.11,0.064,0.785,K-8,"0K,01,02,03,04,05,06,07,08",-73.858533,40.834025,X,1,2004
+84X345,84,8,Hyde Leadership Charter School,X074,0.242,0.151,0.905,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.885284,40.815827,X,2,2006
+84X345,84,8,Hyde Leadership Charter School, XATU,0.242,0.151,0.905,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12,SE",-73.885284,40.815827,X,1,2006
+84X346,84,12,South Bronx Classical Charter School,X116,0.106,0.192,0.85,K-8,"0K,01,02,03,04,05,06,07,08",-73.894368,40.822056,X,3,2006
+84X362,84,8,Icahn Charter School 7,X093,0.078,0.069,0.775,K-8,"0K,01,02,03,04,05,06,07,08",-73.877274,40.822522,X,2,2013
+84X362,84,8,Icahn Charter School 7, X107,0.078,0.069,0.775,K-8,"0K,01,02,03,04,05,06,07,08",-73.877274,40.822522,X,1,2013
+84X364,84,7,South Bronx Classical Charter School II,X154,0.13,0.15,0.882,Elementary,"0K,01,02,03,04,05,06,07",-73.925459,40.808194,X,2,2013
+84X364,84,7,South Bronx Classical Charter School II, XBCA,0.13,0.15,0.882,Elementary,"0K,01,02,03,04,05,06,07",-73.925459,40.808194,X,1,2013
+84X378,84,11,Icahn Charter School 2,X498,0.099,0.037,0.58,K-8,"0K,01,02,03,04,05,06,07,08",-73.857989,40.845023,X,2,2007
+84X380,84,9,Success Academy Charter School - Bronx 3,X039,0.163,0.04,0.768,Elementary,"0K,01,02,03,04,05,06,07,SE",-73.914067,40.827438,X,2,2013
+84X380,84,9,Success Academy Charter School - Bronx 3, X145,0.163,0.04,0.768,Elementary,"0K,01,02,03,04,05,06,07,SE",-73.914067,40.827438,X,1,2013
+84X389,84,7,Bronx Global Learning Institute for Girls Charter School,X156,0.115,0.147,0.919,K-8,"0K,01,02,03,04,05,06,07,08",-73.922527,40.823014,X,2,2008
+84X393,84,7,University Prep Charter High School,X162,0.136,0.056,0.899,High school,"09,10,11,12",-73.912038,40.814857,X,3,2008
+84X422,84,11,Icahn Charter School 3,XAGA,0.065,0.022,0.72,K-8,"0K,01,02,03,04,05,06,07,08",-73.843013,40.856531,X,3,2008
+84X464,84,8,Success Academy Charter School - Bronx 4 - New York 2,X131,0.167,0.049,0.683,Elementary,"0K,01,02,03,04,05,06,SE",-73.859998,40.822925,X,3,2014
+84X465,84,7,Boys Preparatory Charter School of New York,XBCA,0.211,0.048,0.868,Elementary,"PK,0K,01,02,03,04,05,06",-73.927397,40.820298,X,1,2014
+84X471,84,7,American Dream Charter School,X030,0.162,0.17,0.973,Junior High-Intermediate-Middle,"06,07,08,09,10,11",-73.917417,40.809023,X,2,2014
+84X471,84,7,American Dream Charter School, XBPP,0.162,0.17,0.973,Junior High-Intermediate-Middle,"06,07,08,09,10,11",-73.917417,40.809023,X,1,2014
+84X482,84,12,Dr. Richard Izquierdo Health and Science Charter School,X158,0.192,0.094,0.943,Secondary School,"06,07,08,09,10,11,12",-73.900593,40.826933,X,3,2010
+84X484,84,11,Bronx Charter School for Better Learning II,X144,0.104,0.032,0.787,Elementary,"0K,01,02,03,04",-73.836525,40.863842,X,3,2015
+84X487,84,8,Girls Preparatory Charter School of the Bronx,X052,0.182,0.04,0.925,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.901599,40.816078,X,2,2009
+84X487,84,8,Girls Preparatory Charter School of the Bronx, X120,0.182,0.04,0.925,K-8,"PK,0K,01,02,03,04,05,06,07,08,SE",-73.901599,40.816078,X,1,2009
+84X488,84,11,The Equality Charter School,X160,0.258,0.064,0.797,Secondary School,"06,07,08,09,10,11,12,SE",-73.823816,40.864073,X,2,2009
+84X488,84,11,The Equality Charter School, XADU,0.258,0.064,0.797,Secondary School,"06,07,08,09,10,11,12,SE",-73.823816,40.864073,X,1,2009
+84X489,84,9,South Bronx Classical Charter School III,XBBZ,0.096,0.183,0.898,Elementary,"0K,01,02,03,04,05",-73.906403,40.829793,X,2,2015
+84X491,84,7,Academic Leadership Charter School,X065,0.105,0.127,0.944,K-8,"0K,01,02,03,04,05,06,07,08",-73.912557,40.807916,X,2,2009
+84X491,84,7,Academic Leadership Charter School, X155,0.105,0.127,0.944,K-8,"0K,01,02,03,04,05,06,07,08",-73.912557,40.807916,X,2,2009
+84X493,84,7,Success Academy Charter School - Bronx 1,X183,0.134,0.081,0.811,K-8,"0K,01,02,03,04,05,06,07,SE",-73.925995,40.813681,X,2,2010
+84X494,84,9,Success Academy Charter School - Bronx 2,X022,0.153,0.074,0.776,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.90497,40.835934,X,3,2010
+84X494,84,9,Success Academy Charter School - Bronx 2, X055,0.153,0.074,0.776,K-8,"0K,01,02,03,04,05,06,07,08,SE",-73.90497,40.835934,X,1,2010
+84X496,84,11,Icahn Charter School 4,XAGA,0.116,0.022,0.652,K-8,"0K,01,02,03,04,05,06,07,08",-73.843013,40.856531,X,3,2009
+84X538,84,11,Icahn Charter School 5,XAGA,0.062,0.012,0.765,K-8,"0K,01,02,03,04,05,06,07,08",-73.843013,40.856531,X,3,2011
+84X539,84,10,New Visions Charter High School for Advanced Math and Science,X475,0.12,0.049,0.795,High school,"09,10,11,12,SE",-73.912686,40.877379,X,7,2011
+84X553,84,10,New Visions Charter High School for the Humanities,X475,0.188,0.06,0.87,High school,"09,10,11,12,SE",-73.912686,40.877379,X,7,2011
+84X554,84,7,New York City Montessori Charter School,XAFI,0.256,0.177,0.918,Elementary,"PK,0K,01,02,03,04,05",-73.921888,40.808703,X,2,2011
+84X581,84,7,South Bronx Community Charter School,X790,0.221,0.067,0.868,High school,"09,10,11,12",-73.922366,40.821828,X,3,2016
+84X587,84,12,NYC Autism Charter School Bronx,X198,1,0.032,0.903,Ungraded,"0K,01,02,03,04,SE",-73.900121,40.828406,X,3,2017
+84X588,84,9,South Bronx Classical Charter School IV,XBBZ,0.14,0.287,0.97,Elementary,"0K,01,02,03",-73.906403,40.829793,X,2,2017
+84X589,84,11,Bronx Charter School for Excellence 3,XAEF,0.107,0.038,0.757,Elementary,"0K,01,02,03",-73.862924,40.888351,X,3,2017
+84X597,84,12,The Urban Assembly Charter School for Computer Science,X420,0.232,0.071,0.875,High school,"09,10",-73.878191,40.832508,X,4,2018
+84X598,84,10,KIPP Freedom Charter School,X044,0.19,0.117,0.931,Elementary,"0K,05,06",-73.903764,40.857932,X,2,2018
+84X598,84,10,KIPP Freedom Charter School, X859,0.19,0.117,0.931,Elementary,"0K,05,06",-73.903764,40.857932,X,1,2018
+84X608,84,11,Bronx Charter School for Excellence 4,XAEF,0.145,0.064,0.75,Junior High-Intermediate-Middle,"0K,01,02",-73.862924,40.888351,X,3,2018
+84X611,84,7,AECI II: NYC Charter High School for Computer Engineering and Innovation,XAFI,0.213,0.111,0.87,High school,9,-73.921888,40.808703,X,2,2019
+84X614,84,7,DREAM Mott Haven Charter School,X151,0.2,0.123,0.815,Elementary,0K,-73.92114,40.822574,X,4,2019
+84X615,84,7,University Prep Charter Middle School,X155,0.161,0.058,0.961,K-8,"05,06",-73.909363,40.811051,X,1,2019
+84X616,84,10,KIPP Elements Primary Charter School,X859,0.127,0.055,0.901,Elementary,"0K,01",-73.903764,40.857932,X,2,2019
+84X617,84,10,KIPP All Charter School,X859,0.229,0.089,0.95,K-8,"05,06",-73.903764,40.857932,X,2,2019
+84X623,84,7,Neighborhood Charter School: Bronx,XBPP,0.29,0.065,0.71,Elementary,"0K,01",-73.909019,40.808963,X,1,2019
+84X704,84,7,KIPP Academy Charter School,X151,0.155,0.087,0.886,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.92114,40.822574,X,4,2000
+84X704,84,7,KIPP Academy Charter School, X790,0.155,0.087,0.886,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.92114,40.822574,X,1,2000
+84X704,84,7,KIPP Academy Charter School, XAVN,0.155,0.087,0.886,K-12 all grades,"0K,01,02,03,04,05,06,07,08,09,10,11,12",-73.92114,40.822574,X,5,2000
+84X730,84,8,Bronx Charter School for the Arts,X972,0.22,0.132,0.864,Elementary,"0K,01,02,03,04,05,06,07",-73.886477,40.821815,X,2,2003
+84X730,84,8,Bronx Charter School for the Arts, XAFM,0.22,0.132,0.864,Elementary,"0K,01,02,03,04,05,06,07",-73.886477,40.821815,X,1,2003

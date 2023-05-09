@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>NYC co-location</title>
+		<script src= "https://d3js.org/d3.v7.min.js"></script>
+    	<script src= "https://unpkg.com/topojson@3.0.2/dist/topojson.js"></script>
+		<script src="jquery-3.6.4.js"></script>
+
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<link rel="stylesheet" href="generalCSS.css">
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/beige.css" id="theme">
+		
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<h1>School Co-locaiton in NYC</h1>
+					<p>
+						<small>A deeper dive to see if the system actually has an affect on student performance</small>
+					</p>
+				</section>
+
+				<section>
+					<h2>What is co-location?</h2>
+					<p>
+						Co-locations are the term for NYC schools with at least one other school in a shared building. These schools share spaces like gym, cafeteria, as well as classrooms.
+					</p>
+				</section>
+
+				<section>
+					<h2>Why co-location?</h2>
+					<p id = "normalText">NYC introduced the idea of co-location around 1989 as a way to pushed for smaller schools and more school choices. Back then, more and more kids are going to school, which soon drive up the student-teacher ratio. To increase student performance and make teachers' job easier, public charter schools are introduced.</p>
+					
+				</section>
+
+				<!-- Example of nested vertical slides -->
+				<section>
+					<section>
+						<h2>Overview</h2>
+						<p>2190 schools are in the NYC Department of Education as of fall 2021, and according to the <a href="https://data.cityofnewyork.us/Education/2019-2020-Co-Location-Report/ugqd-j3dx" target="_blank">2019-2020 Co-location Report</a>, 1079 schools that are co-located.</p>
+						<br>
+						<a href="#/2/1" class="navigate-down">
+							<img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow">
+						</a>
+					</section>
+					<section>
+						<p>There are 1907 public schools and 283 charter schools. </p>
+						<svg width="1000" height="800" id="boroughGroupedBar"></svg>
+					</section>
+					<section>
+						<p>Of those, 918 public schools and 151 charter schools are co-located.</p>
+						<svg width="1000" height="800" id="boroughGroupedBarCo"></svg>
+					</section>
+					<section>
+						<p>All the schools are divided into different grades. </p>
+						<svg width="1000" height="800" id="gradeStackedBar"></svg>
+					</section>
+					<section>
+						<p>For the next section, click on each school district polygon to see the school information in there!</p>
+					</section>
+					<section>
+						<div class = "row"> 
+							<div class = "column map" id="schoolDistrictMap"></div>
+							<div class = "column right" id="dataDisplay">
+								
+								<div id = "graph1"> <p id="sectionHeader">Grade make-up</p></div>
+								<div id = "racePie">
+									<div id = "graph2"><p>Charter</p></div>
+									<div id = "graph3"><p>Public</p></div>
+								</div>
+				
+							   
+								<table class="table">
+									<thead>
+									<tr id = "mapTable">
+										<th>English Language Learner</th>
+										<th>Poverty</th>
+										<th>Disability</th>
+									</tr>
+									</thead>
+									<tbody></tbody>
+								</table>
+								
+								<!-- Add 2 buttons -->
+								
+								<div id = "barGraphs">
+									<p id="sectionHeader">School performance indicators</p>
+									<button onclick="update(barData1)">Charter</button>
+									<button onclick="update(barData2)">Public</button>
+									<div id = "graph4"></div>
+								</div>
+								
+							</div>
+						</div>
+					</section>
+				</section>
+
+				<section>
+					<h2>Does co-location has an impact on public school performance?</h2>
+				</section>
+
+				<section>
+					<h2>The big question</h2>
+					<p id = "normalText">While charter schools are introduced as a way to improve student performance at public school, does this have an actual impact? </p>	
+					<p id = "normalText">With 53% charter schools being co-located with public schools, I am curious to see if being co-located has an effect on the student performance of these public schools.</p>
+				</section>
+
+				<section>
+					<h2>Linear Regression</h2>
+					<p>Of course, many things can impact a school's performance:</p>	
+					<ul>
+						<li>Student demography</li>
+						<li>School location</li>
+						<li>Parents demogrpahy</li>
+						<li>Funding</li>
+						<li>etc...</li>
+					</ul>
+				</section>
+
+				<section>
+					<p id = "normalText">For the purpose of this study, we will use linear regression as a method. This is a linear approach for modeling the relationship between a independent variables and one or more explanatory dependent variables.</p>
+					<p id = "normalText">My independent variable will be factors that reflect a school's performance, which is listed on the next slide.</p>	
+				</section>
+
+				<section>
+					<p>Dependent Variables</p>
+					<p class="fragment" id = "importantText">Elementary and middle school</p>
+					<p id = "normalText"><span class="fragment" >Rate of change for English Language Arts (ELA) score and Math Score between 2013-2019</span> </p>
+					<p id = "importantText"><span class="fragment" >High School</span> </p>
+					<p id = "normalText"><span class="fragment" > Rate of change for 4 year and 6 year graudation rate for student cohort between 2013-2019.</span></p>
+
+				</section>
+
+				<section>
+					<p id = "importantText">My independent variable would be:</p>
+					<ul>
+						<li>Enrollment (rate of change)</li>
+						<li>Student with disability (rate of change)</li>
+						<li>Poverty (rate of change)</li>
+						<li>English language learner (rate of change)</li>
+						<li>Economic Needs Index (2019 number)</li>
+						<li>Borough of the school location</li>
+					</ul>
+				</section>
+
+				<section>
+					<p id = "importantText">So how to interpret the result?</p>
+					<p id = "normalText">R-squred => Closer to one, the better the predicted line describes the relationship between the variables.</p>
+					<p id = "normalText">P-value => Smaller than 0.05 is statistically significant, which means we can reject null hypothese.</p>
+					<p id = "normalText">Estimates => with 1 unit increase in the independent variable, how much will the dependent variable increase/decrease.</p>
+				</section>
+
+				<section>
+					<h3>One thing to keep in mind</h3>
+					<p class="fragment">The data for my dependent variable is </p>
+					<p><span class="fragment">not</span> </p>
+					<p><span class="fragment">normally distrubuted!</span> </p>
+					
+				</section>
+
+				<section>
+					<p>Which means this method is not for me to predict student performance, but to find out if co-located or not has an impact for student performance.</p>
+					<p>Focusing on the P-value for public schools that are co-located</p>	
+				</section>
+
+				<section>
+					<h2>Elementary and Middle School</h2>
+					<p id = "normalText">lm(cbind(ela, math) ~ coLocated + borough + econNeed + disability + englishLanguageLearn + poverty + enrollment)</p>
+					<table id = "resultTable">
+						<thead>
+							<tr>
+								<th>Score</th>
+								<th>Multiple R-squared</th>
+								<th>P-value (co-locatedTRUE)</th>
+								<th>Estimate (Rate of change)</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>ELA</td>
+								<td class = "rSquare">0.2369</td>
+								<td class = "pValue">3.58e-09</td>
+								<td class = "estimate">0.871986</td>
+							</tr>
+							<tr>
+								<td>Math</td>
+								<td class = "rSquare">0.138</td>
+								<td class = "pValue">6.90e-08</td>
+								<td class = "estimate">1.065515</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+
+				<section>
+					<p id = "normalText">For public elementary and middle school, it is interesting to see that being co-located has a positive impact on the 2 scores, especially for Math. The R-squared is small, so we can't say for sure if the p-value and estimates are correct, but the trend is clear.</p>
+				</section>
+
+				<section>
+					<h2>High School</h2>
+					<p id = "normalText">lm(cbind(4year, 6year) ~ coLocated + borough + econNeed + disability + englishLanguageLearn + poverty + enrollment)</p>
+					<table id = "resultTable">
+						<thead>
+							<tr>
+								<th>Score</th>
+								<th>Multiple R-squared</th>
+								<th>P-value (co-locatedTRUE)</th>
+								<th>Estimate (Rate of change)</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>4year</td>
+								<td class = "rSquare">0.088894</td>
+								<td class = "pValue">0.007333</td>
+								<td class = "estimate">-0.09379</td>
+							</tr>
+							<tr>
+								<td>6year</td>
+								<td class = "rSquare">0.05494</td>
+								<td class = "pValue">0.00594</td>
+								<td class = "estimate">-0.047348</td>
+							</tr>
+						</tbody>
+					</table>
+				</section>
+
+				<section>
+					<p id = "normalText">For high schools, I didn't choose to have booleans co-located true or false to interact with Borough, rather to just take it into account. This is because even though the R-squared value is better when it's interacting, the P-value for co-located being true also changed a lot. Knowing that the data is not normally distributed, the increase in R-squared value is probably caused by the model being overfitted, which is not what we want.</p>
+				</section>
+
+				<section>
+					<h2>Conclusion</h2>
+					<p></p>
+				</section>
+
+
+
+		<script src="reveal.js"></script>
+		<script src="plugin/zoom/zoom.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/search/search.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+	
+		<script>
+
+			// Also available as an ES module, see:
+			// https://revealjs.com/initialization/
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				center: true,
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ],
+
+			});
+
+		</script>
+		<script src="borough_groupedBarChart.js"> </script>
+		<script src="borough_groupedBarChartCo.js"> </script>
+		<script src="borough_gradeStackBarChart.js"> </script>
+		<script src="tablePopUp.js"> </script>
+		<script src="schoolDistrict.js"></script>
+		
+	</body>
+
+</html>

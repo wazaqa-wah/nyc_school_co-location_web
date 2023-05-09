@@ -1,0 +1,142 @@
+.tooltip {
+    position: absolute;
+    display: none;
+    background-color: #f1f1f1;
+    border: 1px solid black;
+    padding: 5px;
+    z-index: 2;
+    width: 500px;
+    overflow: auto;
+
+  }
+
+
+.column {
+    float: left;
+    }
+
+.map{
+        width: 60%;
+    }
+
+#dataDisplay{
+        width: 40%;
+
+           
+    }
+
+
+
+#racePie{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        
+    }
+
+.table td {
+        padding: 8px;
+    }
+.table{
+        border-collapse: collapse;
+        padding-left: 30;
+        margin: 0 auto;
+    }
+td{
+        border: 1px solid black;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12pt;
+    }
+
+.table tbody{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 9pt;
+    }
+
+.mapTable th{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+    font-weight: bold;
+}
+
+
+   
+.bar-text {
+        fill: black;
+        font-size: 14px;
+        text-anchor: middle;
+        /* dominant-baseline: central; */
+    }
+
+div{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+  
+button{
+        margin-top: 20px;
+    }
+
+#graph1{
+        border-bottom: solid;
+        border-width: 2px;
+        border-color: gray;
+    }
+
+#racePie{
+        border-bottom: solid;
+        border-width: 2px;
+        border-color: gray;
+    }
+
+#barGraphs{
+        border-top: solid;
+        border-width: 2px;
+        border-color: gray;
+    }
+   
+#graph1 p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15pt;
+    }
+
+#sectionHeader {
+    font-family: Arial, Helvetica, sans-serif;
+        font-size: 15pt;
+}
+#graph2 p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15pt;
+    }
+
+#graph3 p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15pt;
+    }
+
+#mapTable th{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 10pt;
+    }
+
+div.right{
+        height: 700px;
+        overflow-y: auto;
+    }
+
+.hover-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10pt;
+}
+
+#normalText{
+    text-align: left;
+    font-size: 20pt;
+}
+
+#importantText{
+    text-align: left;
+    color: #606c38;
+}
